@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722569584,
+ "updatedAt": 1790722583992,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -116,6 +116,17 @@
    "de": "Leute",
    "level": "A1.1",
    "article": "die",
+   "plural": ""
+  },
+  {
+   "id": "mun9zovs1psv2",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Soccer",
+   "de": "Fußball",
+   "level": "A1.1",
+   "article": "der",
    "plural": ""
   }
  ]

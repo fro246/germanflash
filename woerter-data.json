@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722731213,
+ "updatedAt": 1790722750546,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -245,6 +245,23 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Fotos"
+  },
+  {
+   "id": "muna39eat794v",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to cook",
+   "de": "kochen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "koche",
+    "du": "kochst",
+    "er": "kocht",
+    "wir": "kochen",
+    "ihr": "kocht",
+    "sie": "kochen"
+   }
   }
  ]
 }

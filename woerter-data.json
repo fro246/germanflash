@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722628925,
+ "updatedAt": 1790722638726,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -156,6 +156,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Kinos"
+  },
+  {
+   "id": "muna0v46e7do3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Theater",
+   "de": "Theater",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Theater"
   }
  ]
 }

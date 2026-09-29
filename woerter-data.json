@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790723042981,
+ "updatedAt": 1790723103386,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -160,24 +160,28 @@
   {
    "id": "muna0v46e7do3",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Theater",
    "de": "Theater",
    "level": "A1.1",
    "article": "das",
-   "plural": "Theater"
+   "plural": "Theater",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muna12vbrpo04",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Museum",
    "de": "Museum",
    "level": "A1.1",
    "article": "das",
-   "plural": "Museen"
+   "plural": "Museen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna19vgejohv",
@@ -265,7 +269,7 @@
   },
   {
    "id": "muna3fdkay4na",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to travel",
@@ -278,11 +282,13 @@
     "wir": "reisen",
     "ihr": "reist",
     "sie": "reisen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna3o1mlmwx2",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to sing",
@@ -295,7 +301,9 @@
     "wir": "singen",
     "ihr": "singt",
     "sie": "singen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna3vmcn5lsf",
@@ -380,11 +388,13 @@
   {
    "id": "muna653q2q9tz",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "how are you?",
    "de": "wie geht's?",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muna84u5fefhj",
@@ -399,14 +409,16 @@
   },
   {
    "id": "muna8rltza7um",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Number",
    "de": "Zahl",
    "level": "A1.1",
    "article": "die",
-   "plural": "Zahlen"
+   "plural": "Zahlen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna9j1hemjsh",

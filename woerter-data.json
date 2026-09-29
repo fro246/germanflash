@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722611505,
+ "updatedAt": 1790722628925,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -145,6 +145,17 @@
     "ihr": "joggt",
     "sie": "joggen"
    }
+  },
+  {
+   "id": "muna0njxd2aij",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Movie theater",
+   "de": "Kino",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Kinos"
   }
  ]
 }

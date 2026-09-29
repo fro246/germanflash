@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722454959,
+ "updatedAt": 1790722476838,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -84,6 +84,17 @@
    "en": "when",
    "de": "wann",
    "level": "A1.1"
+  },
+  {
+   "id": "mun9xe7aqhzi8",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Friend",
+   "de": "Freund",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Freunde"
   }
  ]
 }

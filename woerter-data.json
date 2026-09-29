@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722052788,
+ "updatedAt": 1790722318056,
  "words": [
   {
    "id": "mun9mg7xm2qlh",
@@ -38,19 +38,6 @@
    "level": "A1.1"
   },
   {
-   "id": "mun9mg7xrrzik",
-   "hits": 2,
-   "misses": 0,
-   "type": "noun",
-   "en": "book",
-   "de": "Buch",
-   "article": "das",
-   "plural": "Bücher",
-   "level": "A1.1",
-   "box": 3,
-   "streak": 5
-  },
-  {
    "id": "mun9mg7xargaa",
    "hits": 0,
    "misses": 0,
@@ -64,23 +51,6 @@
     "wir": "machen",
     "ihr": "macht",
     "sie": "machen"
-   },
-   "level": "A1.1"
-  },
-  {
-   "id": "mun9mg7x47d82",
-   "hits": 0,
-   "misses": 0,
-   "type": "verb",
-   "en": "to eat",
-   "de": "essen",
-   "forms": {
-    "ich": "esse",
-    "du": "isst",
-    "er": "isst",
-    "wir": "essen",
-    "ihr": "esst",
-    "sie": "essen"
    },
    "level": "A1.1"
   },
@@ -99,17 +69,6 @@
     "ihr": "sprecht",
     "sie": "sprechen"
    },
-   "level": "A1.1",
-   "box": 3,
-   "streak": 5
-  },
-  {
-   "id": "mun9mg7xvspc4",
-   "hits": 2,
-   "misses": 0,
-   "type": "other",
-   "en": "thank you",
-   "de": "danke",
    "level": "A1.1",
    "box": 3,
    "streak": 5

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790723007425,
+ "updatedAt": 1790723042981,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -407,6 +407,23 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Zahlen"
+  },
+  {
+   "id": "muna9j1hemjsh",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to spell",
+   "de": "buchstabieren",
+   "level": "A1.1",
+   "forms": {
+    "ich": "buchstabiere",
+    "du": "buchstabierst",
+    "er": "buchstabiert",
+    "wir": "buchstabieren",
+    "ihr": "buchstabiert",
+    "sie": "buchstabieren"
+   }
   }
  ]
 }

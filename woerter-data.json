@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722476838,
+ "updatedAt": 1790722508507,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -95,6 +95,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Freunde"
+  },
+  {
+   "id": "mun9y2mzn8vgv",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Female friend",
+   "de": "Freundin",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Freundinen"
   }
  ]
 }

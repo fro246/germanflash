@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722443259,
+ "updatedAt": 1790722454959,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -75,6 +75,15 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Verabredungen"
+  },
+  {
+   "id": "mun9wxbjjzrr7",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "when",
+   "de": "wann",
+   "level": "A1.1"
   }
  ]
 }

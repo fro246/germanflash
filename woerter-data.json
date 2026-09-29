@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722869985,
+ "updatedAt": 1790722884950,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -375,6 +375,15 @@
    "type": "other",
    "en": "please",
    "de": "bitte",
+   "level": "A1.1"
+  },
+  {
+   "id": "muna653q2q9tz",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "how are you?",
+   "de": "wie geht's?",
    "level": "A1.1"
   }
  ]

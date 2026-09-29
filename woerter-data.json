@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722848267,
+ "updatedAt": 1790722861884,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -357,6 +357,15 @@
    "type": "other",
    "en": "where",
    "de": "wo",
+   "level": "A1.1"
+  },
+  {
+   "id": "muna5nb0wkqw1",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "excuse me",
+   "de": "entschuldigung",
    "level": "A1.1"
   }
  ]

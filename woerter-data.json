@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722583992,
+ "updatedAt": 1790722611505,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -128,6 +128,23 @@
    "level": "A1.1",
    "article": "der",
    "plural": ""
+  },
+  {
+   "id": "muna0a417putl",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to jog",
+   "de": "joggen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "jogge",
+    "du": "joggst",
+    "er": "joggt",
+    "wir": "joggen",
+    "ihr": "joggt",
+    "sie": "joggen"
+   }
   }
  ]
 }

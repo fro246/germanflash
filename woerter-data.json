@@ -1,18 +1,7 @@
 {
  "app": "woerter",
- "updatedAt": 1790722321255,
+ "updatedAt": 1790722324193,
  "words": [
-  {
-   "id": "mun9mg7xm2qlh",
-   "hits": 0,
-   "misses": 0,
-   "type": "noun",
-   "en": "house",
-   "de": "Haus",
-   "article": "das",
-   "plural": "Häuser",
-   "level": "A1.1"
-  },
   {
    "id": "mun9mg7x0ptdm",
    "hits": 0,
@@ -22,23 +11,6 @@
    "de": "Mann",
    "article": "der",
    "plural": "Männer",
-   "level": "A1.1"
-  },
-  {
-   "id": "mun9mg7xargaa",
-   "hits": 0,
-   "misses": 0,
-   "type": "verb",
-   "en": "to make / to do",
-   "de": "machen",
-   "forms": {
-    "ich": "mache",
-    "du": "machst",
-    "er": "macht",
-    "wir": "machen",
-    "ihr": "macht",
-    "sie": "machen"
-   },
    "level": "A1.1"
   },
   {

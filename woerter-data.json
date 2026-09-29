@@ -1,18 +1,7 @@
 {
  "app": "woerter",
- "updatedAt": 1790722324193,
+ "updatedAt": 1790722325926,
  "words": [
-  {
-   "id": "mun9mg7x0ptdm",
-   "hits": 0,
-   "misses": 0,
-   "type": "noun",
-   "en": "man",
-   "de": "Mann",
-   "article": "der",
-   "plural": "Männer",
-   "level": "A1.1"
-  },
   {
    "id": "mun9mg7xwzrh8",
    "hits": 2,

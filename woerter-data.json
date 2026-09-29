@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722373298,
+ "updatedAt": 1790722386476,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -42,6 +42,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Bücher"
+  },
+  {
+   "id": "mun9vgh87r3kc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cafe",
+   "de": "Cafe",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Cafes"
   }
  ]
 }

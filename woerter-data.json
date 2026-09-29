@@ -1,0 +1,129 @@
+{
+ "app": "woerter",
+ "updatedAt": 1790722052788,
+ "words": [
+  {
+   "id": "mun9mg7xm2qlh",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "house",
+   "de": "Haus",
+   "article": "das",
+   "plural": "Häuser",
+   "level": "A1.1"
+  },
+  {
+   "id": "mun9mg7xl9ixx",
+   "hits": 1,
+   "misses": 0,
+   "type": "noun",
+   "en": "woman",
+   "de": "Frau",
+   "article": "die",
+   "plural": "Frauen",
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
+  },
+  {
+   "id": "mun9mg7x0ptdm",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "man",
+   "de": "Mann",
+   "article": "der",
+   "plural": "Männer",
+   "level": "A1.1"
+  },
+  {
+   "id": "mun9mg7xrrzik",
+   "hits": 2,
+   "misses": 0,
+   "type": "noun",
+   "en": "book",
+   "de": "Buch",
+   "article": "das",
+   "plural": "Bücher",
+   "level": "A1.1",
+   "box": 3,
+   "streak": 5
+  },
+  {
+   "id": "mun9mg7xargaa",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to make / to do",
+   "de": "machen",
+   "forms": {
+    "ich": "mache",
+    "du": "machst",
+    "er": "macht",
+    "wir": "machen",
+    "ihr": "macht",
+    "sie": "machen"
+   },
+   "level": "A1.1"
+  },
+  {
+   "id": "mun9mg7x47d82",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to eat",
+   "de": "essen",
+   "forms": {
+    "ich": "esse",
+    "du": "isst",
+    "er": "isst",
+    "wir": "essen",
+    "ihr": "esst",
+    "sie": "essen"
+   },
+   "level": "A1.1"
+  },
+  {
+   "id": "mun9mg7xwzrh8",
+   "hits": 2,
+   "misses": 0,
+   "type": "verb",
+   "en": "to speak",
+   "de": "sprechen",
+   "forms": {
+    "ich": "spreche",
+    "du": "sprichst",
+    "er": "spricht",
+    "wir": "sprechen",
+    "ihr": "sprecht",
+    "sie": "sprechen"
+   },
+   "level": "A1.1",
+   "box": 3,
+   "streak": 5
+  },
+  {
+   "id": "mun9mg7xvspc4",
+   "hits": 2,
+   "misses": 0,
+   "type": "other",
+   "en": "thank you",
+   "de": "danke",
+   "level": "A1.1",
+   "box": 3,
+   "streak": 5
+  },
+  {
+   "id": "mun9mg7x0ajgj",
+   "hits": 1,
+   "misses": 0,
+   "type": "other",
+   "en": "good",
+   "de": "gut",
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
+  }
+ ]
+}

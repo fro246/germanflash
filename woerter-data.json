@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722353255,
+ "updatedAt": 1790722373298,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -31,6 +31,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Hobbys"
+  },
+  {
+   "id": "mun9v6b6dogtx",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Book",
+   "de": "Buch",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Bücher"
   }
  ]
 }

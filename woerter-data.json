@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722713539,
+ "updatedAt": 1790722731213,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -234,6 +234,17 @@
     "ihr": "fotografiert",
     "sie": "fotografieren"
    }
+  },
+  {
+   "id": "muna2uh9tbtme",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Photo",
+   "de": "Foto",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Fotos"
   }
  ]
 }

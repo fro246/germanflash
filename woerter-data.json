@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722779348,
+ "updatedAt": 1790722790700,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -313,6 +313,15 @@
     "ihr": "tanzt",
     "sie": "tanzen"
    }
+  },
+  {
+   "id": "muna44dontybz",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "free",
+   "de": "frei",
+   "level": "A1.1"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722758296,
+ "updatedAt": 1790722769530,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -278,6 +278,23 @@
     "wir": "reisen",
     "ihr": "reist",
     "sie": "reisen"
+   }
+  },
+  {
+   "id": "muna3o1mlmwx2",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to sing",
+   "de": "singen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "singe",
+    "du": "singst",
+    "er": "singt",
+    "wir": "singen",
+    "ihr": "singt",
+    "sie": "singen"
    }
   }
  ]

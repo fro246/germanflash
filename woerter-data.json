@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790723103386,
+ "updatedAt": 1790723138016,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -148,18 +148,20 @@
   },
   {
    "id": "muna0njxd2aij",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Movie theater",
    "de": "Kino",
    "level": "A1.1",
    "article": "das",
-   "plural": "Kinos"
+   "plural": "Kinos",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna0v46e7do3",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Theater",
@@ -167,8 +169,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Theater",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muna12vbrpo04",
@@ -342,12 +344,14 @@
   },
   {
    "id": "muna5449sfef6",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "who",
    "de": "wer",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna58bp1wgiv",
@@ -387,25 +391,27 @@
   },
   {
    "id": "muna653q2q9tz",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "other",
    "en": "how are you?",
    "de": "wie geht's?",
    "level": "A1.1",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muna84u5fefhj",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Letters (spelling)",
    "de": "Buchstabe",
    "level": "A1.1",
    "article": "die",
-   "plural": "Buchstaben"
+   "plural": "Buchstaben",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muna8rltza7um",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722769530,
+ "updatedAt": 1790722779348,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -295,6 +295,23 @@
     "wir": "singen",
     "ihr": "singt",
     "sie": "singen"
+   }
+  },
+  {
+   "id": "muna3vmcn5lsf",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to dance",
+   "de": "tanzen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "tanze",
+    "du": "tanzt",
+    "er": "tanzt",
+    "wir": "tanzen",
+    "ihr": "tanzt",
+    "sie": "tanzen"
    }
   }
  ]

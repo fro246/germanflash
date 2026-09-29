@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722861884,
+ "updatedAt": 1790722869985,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -366,6 +366,15 @@
    "type": "other",
    "en": "excuse me",
    "de": "entschuldigung",
+   "level": "A1.1"
+  },
+  {
+   "id": "muna5tk11a9vr",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "please",
+   "de": "bitte",
    "level": "A1.1"
   }
  ]

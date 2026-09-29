@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722318056,
+ "updatedAt": 1790722321255,
  "words": [
   {
    "id": "mun9mg7xm2qlh",
@@ -12,19 +12,6 @@
    "article": "das",
    "plural": "Häuser",
    "level": "A1.1"
-  },
-  {
-   "id": "mun9mg7xl9ixx",
-   "hits": 1,
-   "misses": 0,
-   "type": "noun",
-   "en": "woman",
-   "de": "Frau",
-   "article": "die",
-   "plural": "Frauen",
-   "level": "A1.1",
-   "box": 2,
-   "streak": 4
   },
   {
    "id": "mun9mg7x0ptdm",
@@ -72,17 +59,6 @@
    "level": "A1.1",
    "box": 3,
    "streak": 5
-  },
-  {
-   "id": "mun9mg7x0ajgj",
-   "hits": 1,
-   "misses": 0,
-   "type": "other",
-   "en": "good",
-   "de": "gut",
-   "level": "A1.1",
-   "box": 2,
-   "streak": 4
   }
  ]
 }

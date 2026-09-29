@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722699389,
+ "updatedAt": 1790722713539,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -216,6 +216,23 @@
     "wir": "schwimmen",
     "ihr": "schwimmt",
     "sie": "schwimmen"
+   }
+  },
+  {
+   "id": "muna2gubynz1k",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to take photos",
+   "de": "fotografieren",
+   "level": "A1.1",
+   "forms": {
+    "ich": "fotografiere",
+    "du": "fotografierst",
+    "er": "fotografiert",
+    "wir": "fotografieren",
+    "ihr": "fotografiert",
+    "sie": "fotografieren"
    }
   }
  ]

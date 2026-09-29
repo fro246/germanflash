@@ -1,0 +1,902 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Wörter – German practice</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700;800&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #eef1f4; --panel: #ffffff; --ink: #17232f; --muted: #64727f; --line: #d5dbe1;
+    --der: #2f6db5; --die: #c6414c; --das: #3a8a58;
+    --ok: #2f8a55; --bad: #c6414c; --ok-bg: #e4f4ea; --bad-bg: #fbe6e8;
+    --display: "Bricolage Grotesque", "Trebuchet MS", system-ui, sans-serif;
+    --body: "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #10171e; --panel: #19232d; --ink: #e8edf1; --muted: #93a1ae; --line: #2c3a47;
+      --der: #6ea6e8; --die: #ee7b85; --das: #6cc48b;
+      --ok: #6cc48b; --bad: #ee7b85; --ok-bg: #1c3a29; --bad-bg: #402328;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; }
+  body { background: var(--bg); color: var(--ink); font-family: var(--body); font-size: 16px; line-height: 1.5; padding: 20px 16px 60px; }
+  main { max-width: 640px; margin: 0 auto; }
+  header { display: flex; align-items: baseline; justify-content: space-between; gap: 12px; margin-bottom: 18px; flex-wrap: wrap; }
+  h1 { font-family: var(--display); font-weight: 800; font-size: 34px; letter-spacing: -0.02em; margin: 0; }
+  .meta { color: var(--muted); font-size: 14px; display: flex; gap: 12px; }
+  .badge.bad { color: var(--bad); } .badge.ok { color: var(--ok); }
+
+  nav { display: flex; gap: 4px; border-bottom: 2px solid var(--line); margin-bottom: 20px; overflow-x: auto; }
+  nav button { font: inherit; font-weight: 600; background: none; border: 0; color: var(--muted); padding: 10px 14px; cursor: pointer;
+    border-bottom: 3px solid transparent; margin-bottom: -2px; white-space: nowrap; }
+  nav button[aria-selected="true"] { color: var(--ink); border-bottom-color: var(--ink); }
+  button:focus-visible, input:focus-visible, select:focus-visible, summary:focus-visible { outline: 3px solid var(--der); outline-offset: 2px; }
+  section[hidden], .overlay[hidden], .nouns[hidden], .verbs[hidden], .bar[hidden] { display: none; }
+
+  .bar { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; align-items: center; }
+  .bar .lbl { font-size: 13px; color: var(--muted); min-width: 62px; }
+  .chip { font: inherit; font-size: 14px; padding: 5px 13px; border-radius: 999px; border: 1.5px solid var(--line);
+    background: var(--panel); color: var(--ink); cursor: pointer; }
+  .chip[aria-pressed="true"] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .score { color: var(--muted); font-size: 14px; margin: 4px 0 12px; min-height: 21px; }
+
+  .card { background: var(--panel); border: 1.5px solid var(--line); border-radius: 14px; padding: 24px 22px; }
+  .card.der { border-top: 6px solid var(--der); } .card.die { border-top: 6px solid var(--die); } .card.das { border-top: 6px solid var(--das); }
+  .prompt { font-family: var(--display); font-weight: 700; font-size: 32px; line-height: 1.15; margin: 4px 0 2px; }
+  .art.der { color: var(--der); } .art.die { color: var(--die); } .art.das { color: var(--das); }
+  .tag { display: inline-block; font-size: 13px; color: var(--muted); margin-bottom: 2px; }
+  .hint { color: var(--muted); font-size: 14px; margin: 0 0 18px; }
+  .fields { display: grid; gap: 12px; margin-bottom: 14px; }
+  .field label { display: block; font-size: 13px; color: var(--muted); margin-bottom: 3px; }
+  input[type="text"], input[type="password"], select { width: 100%; font: inherit; font-size: 18px; padding: 10px 12px; border-radius: 9px;
+    border: 1.5px solid var(--line); background: var(--bg); color: var(--ink); }
+  input.ok { border-color: var(--ok); background: var(--ok-bg); }
+  input.bad { border-color: var(--bad); background: var(--bad-bg); }
+  .answer { font-size: 14px; color: var(--bad); margin-top: 3px; font-weight: 600; }
+  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  @media (max-width: 460px) { .grid2 { grid-template-columns: 1fr; } }
+  .keys { display: flex; gap: 6px; margin-bottom: 16px; }
+  .keys button { font: inherit; font-size: 17px; min-width: 42px; padding: 6px 0; border-radius: 8px; border: 1.5px solid var(--line);
+    background: var(--panel); color: var(--ink); cursor: pointer; }
+  .btn { font: inherit; font-weight: 600; padding: 11px 20px; border-radius: 10px; cursor: pointer; border: 1.5px solid var(--ink);
+    background: var(--ink); color: var(--bg); }
+  .btn.ghost { background: transparent; color: var(--ink); border-color: var(--line); }
+  .btn.danger { background: transparent; color: var(--bad); border-color: var(--bad); }
+  .btn.small { padding: 5px 11px; font-size: 14px; }
+  .row { display: flex; gap: 10px; flex-wrap: wrap; align-items: center; }
+  .msg { font-weight: 600; margin: 0 0 8px; }
+  .msg.ok { color: var(--ok); } .msg.bad { color: var(--bad); }
+  .note { color: var(--muted); font-size: 14px; margin: 0 0 12px; }
+  .empty { text-align: center; color: var(--muted); padding: 36px 10px; }
+
+  .list { list-style: none; margin: 14px 0 0; padding: 0; display: grid; gap: 8px; }
+  .list li { background: var(--panel); border: 1.5px solid var(--line); border-left-width: 6px; border-radius: 10px; padding: 10px 12px;
+    display: flex; gap: 10px; align-items: center; justify-content: space-between; }
+  .list li.der { border-left-color: var(--der); } .list li.die { border-left-color: var(--die); }
+  .list li.das { border-left-color: var(--das); } .list li.verb { border-left-color: var(--ink); }
+  .list .de { font-weight: 600; } .list .en { color: var(--muted); font-size: 14px; font-weight: 400; }
+  .list .extra { color: var(--muted); font-size: 13px; }
+  .lv { font-size: 12px; color: var(--muted); border: 1px solid var(--line); border-radius: 999px; padding: 0 7px; margin-left: 8px; font-weight: 500; }
+  .form-title { font-family: var(--display); font-weight: 700; font-size: 22px; margin: 0 0 14px; }
+  h3 { font-family: var(--display); font-size: 18px; margin: 22px 0 8px; }
+  details { margin: 6px 0 14px; } summary { cursor: pointer; font-weight: 600; }
+  details ol { padding-left: 20px; margin: 8px 0; } details li { margin-bottom: 4px; }
+  hr { border: 0; border-top: 1.5px solid var(--line); margin: 20px 0; }
+  .toast { position: fixed; left: 50%; bottom: 22px; transform: translateX(-50%); background: var(--ink); color: var(--bg);
+    padding: 9px 16px; border-radius: 999px; font-size: 14px; opacity: 0; pointer-events: none; transition: opacity .2s; max-width: 90vw; text-align: center; }
+  .toast.show { opacity: 1; }
+  .overlay { position: fixed; inset: 0; background: rgba(10,16,22,.55); display: grid; place-items: center; padding: 20px; z-index: 10; }
+  .dialog { background: var(--panel); border-radius: 14px; padding: 22px; max-width: 380px; width: 100%; }
+  .dialog p { margin: 0 0 16px; }
+  @media (prefers-reduced-motion: reduce) { .toast { transition: none; } }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <h1>Wörter</h1>
+    <div class="meta"><span id="syncBadge" class="badge"></span><span id="count"></span></div>
+  </header>
+
+  <nav role="tablist" aria-label="Sections">
+    <button role="tab" data-tab="practice" aria-selected="true">Practice</button>
+    <button role="tab" data-tab="add" aria-selected="false">Add word</button>
+    <button role="tab" data-tab="list" aria-selected="false">My words</button>
+    <button role="tab" data-tab="backup" aria-selected="false">Save &amp; sync</button>
+  </nav>
+
+  <!-- PRACTICE -->
+  <section id="tab-practice">
+    <div class="bar" id="dirBar">
+      <span class="lbl">Direction</span>
+      <button class="chip" data-d="en2de" aria-pressed="true">English → German</button>
+      <button class="chip" data-d="de2en" aria-pressed="false">German → English</button>
+      <button class="chip" data-d="mixed" aria-pressed="false">Mixed</button>
+    </div>
+    <div class="bar" id="levelBar" hidden></div>
+    <div class="bar" id="filters">
+      <span class="lbl">Words</span>
+      <button class="chip" data-f="all" aria-pressed="true">All</button>
+      <button class="chip" data-f="noun" aria-pressed="false">Nouns</button>
+      <button class="chip" data-f="verb" aria-pressed="false">Verbs</button>
+      <button class="chip" data-f="other" aria-pressed="false">Other</button>
+      <button class="chip" id="missedChip" aria-pressed="false">Missed only</button>
+    </div>
+    <div class="score" id="score"></div>
+    <div id="practiceArea"></div>
+  </section>
+
+  <!-- ADD / EDIT -->
+  <section id="tab-add" hidden>
+    <div class="card" id="addForm">
+      <h2 class="form-title" id="formTitle">Add a word</h2>
+      <div class="fields">
+        <div class="field">
+          <label for="fType">Type of word</label>
+          <select id="fType">
+            <option value="noun">Noun</option>
+            <option value="verb">Verb</option>
+            <option value="other">Other (adjective, phrase, adverb…)</option>
+          </select>
+        </div>
+        <div class="field"><label for="fLevel">Level (where you learned it)</label><select id="fLevel"></select></div>
+        <div class="field"><label for="fEn">English meaning</label><input type="text" id="fEn" placeholder="house" autocomplete="off"></div>
+        <div class="field"><label for="fDe" id="fDeLabel">German word</label><input type="text" id="fDe" placeholder="Haus" autocomplete="off"></div>
+
+        <div class="nouns fields">
+          <div class="grid2">
+            <div class="field"><label for="fArt">Article</label>
+              <select id="fArt"><option>der</option><option>die</option><option>das</option></select></div>
+            <div class="field"><label for="fPlural">Plural (leave empty if none)</label>
+              <input type="text" id="fPlural" placeholder="Häuser" autocomplete="off"></div>
+          </div>
+        </div>
+
+        <div class="verbs fields" hidden>
+          <div class="row">
+            <button type="button" class="btn ghost small" id="autoFill">Auto-fill regular verb</button>
+            <span class="note" style="margin:0">Always check irregular verbs by hand.</span>
+          </div>
+          <div class="grid2">
+            <div class="field"><label for="v_ich">ich</label><input type="text" id="v_ich" autocomplete="off"></div>
+            <div class="field"><label for="v_du">du</label><input type="text" id="v_du" autocomplete="off"></div>
+            <div class="field"><label for="v_er">er / sie / es</label><input type="text" id="v_er" autocomplete="off"></div>
+            <div class="field"><label for="v_wir">wir</label><input type="text" id="v_wir" autocomplete="off"></div>
+            <div class="field"><label for="v_ihr">ihr</label><input type="text" id="v_ihr" autocomplete="off"></div>
+            <div class="field"><label for="v_sie">sie / Sie</label><input type="text" id="v_sie" autocomplete="off"></div>
+          </div>
+        </div>
+      </div>
+      <div class="keys" id="addKeys" aria-label="Special characters">
+        <button type="button">ä</button><button type="button">ö</button><button type="button">ü</button><button type="button">ß</button>
+      </div>
+      <p class="note">To accept more than one answer, separate them with a slash, like “to make / to do” or “Bänke/Banken”.</p>
+      <div class="row">
+        <button class="btn" type="button" id="saveBtn">Save word</button>
+        <button class="btn ghost" type="button" id="cancelEdit" hidden>Cancel</button>
+      </div>
+    </div>
+  </section>
+
+  <!-- LIST -->
+  <section id="tab-list" hidden>
+    <div class="row">
+      <input type="text" id="search" placeholder="Search words…" style="flex:1; min-width:160px" aria-label="Search words" autocomplete="off">
+      <select id="listFilter" style="width:auto" aria-label="Filter by type">
+        <option value="all">All types</option><option value="noun">Nouns</option>
+        <option value="verb">Verbs</option><option value="other">Other</option>
+      </select>
+      <select id="listLevel" style="width:auto" aria-label="Filter by level"></select>
+    </div>
+    <div class="row" style="margin-top:10px">
+      <span class="note" style="margin:0">Set the level of all words shown:</span>
+      <select id="bulkLevel" style="width:auto; font-size:15px; padding:6px 10px" aria-label="Level to apply"></select>
+      <button class="btn ghost small" id="bulkApply">Apply</button>
+    </div>
+    <ul class="list" id="wordList"></ul>
+  </section>
+
+  <!-- SAVE & SYNC -->
+  <section id="tab-backup" hidden>
+    <div class="card">
+      <h2 class="form-title">Save to GitHub</h2>
+      <p class="note">Your words are always saved in this browser. Connect your GitHub repository and they are also saved as a file there, so they survive clearing your browser and work on your phone and laptop.</p>
+      <div class="fields">
+        <div class="grid2">
+          <div class="field"><label for="sOwner">GitHub username</label><input type="text" id="sOwner" autocomplete="off"></div>
+          <div class="field"><label for="sRepo">Repository name</label><input type="text" id="sRepo" autocomplete="off"></div>
+          <div class="field"><label for="sBranch">Branch</label><input type="text" id="sBranch" value="main" autocomplete="off"></div>
+          <div class="field"><label for="sPath">Data file</label><input type="text" id="sPath" value="woerter-data.json" autocomplete="off"></div>
+        </div>
+        <div class="field"><label for="sToken">Access token (needed to save; leave empty to only load)</label>
+          <input type="password" id="sToken" autocomplete="off" placeholder="github_pat_…"></div>
+      </div>
+      <div class="row">
+        <button class="btn" id="connectBtn">Connect &amp; sync</button>
+        <button class="btn ghost" id="syncBtn">Sync now</button>
+        <button class="btn ghost" id="disconnectBtn">Disconnect</button>
+      </div>
+      <p class="note" id="syncStatus" style="margin-top:12px"></p>
+      <details>
+        <summary>How do I get a token?</summary>
+        <ol>
+          <li>On GitHub, open Settings → Developer settings → Personal access tokens → Fine-grained tokens → Generate new token.</li>
+          <li>Under “Repository access”, choose “Only select repositories” and pick this site’s repository.</li>
+          <li>Under “Permissions → Repository permissions”, set <b>Contents</b> to “Read and write”.</li>
+          <li>Generate, copy the token and paste it above. It is stored only in this browser. On each new device, paste it again.</li>
+        </ol>
+        <p class="note">Each save becomes a commit of <code>woerter-data.json</code> in your repo. If you use the site on two devices, the most recent change wins.</p>
+      </details>
+
+      <hr>
+      <h3 style="margin-top:0">File backup</h3>
+      <div class="row" style="margin-bottom:8px">
+        <button class="btn ghost" id="exportBtn">Download backup</button>
+        <label class="btn ghost" style="cursor:pointer">Restore from file
+          <input type="file" id="importFile" accept="application/json" hidden></label>
+      </div>
+      <p class="note">Restoring adds words from the file to what you already have. Duplicates are skipped.</p>
+      <hr>
+      <div class="row">
+        <button class="btn ghost" id="resetProgress">Reset practice scores</button>
+        <button class="btn danger" id="deleteAll">Delete all words</button>
+      </div>
+    </div>
+  </section>
+</main>
+
+<div class="overlay" id="dlg" hidden>
+  <div class="dialog" role="alertdialog" aria-modal="true" aria-labelledby="dlgMsg">
+    <p id="dlgMsg"></p>
+    <div class="row"><button class="btn danger" id="dlgYes">Yes</button><button class="btn ghost" id="dlgNo">Cancel</button></div>
+  </div>
+</div>
+<div class="toast" id="toast" role="status"></div>
+
+<script>
+(function () {
+  "use strict";
+
+  /* ---------- Starter words (edit freely) ---------- */
+  var SEED = [
+    { type: "noun", en: "house", de: "Haus", article: "das", plural: "Häuser" },
+    { type: "noun", en: "woman", de: "Frau", article: "die", plural: "Frauen" },
+    { type: "noun", en: "man", de: "Mann", article: "der", plural: "Männer" },
+    { type: "noun", en: "book", de: "Buch", article: "das", plural: "Bücher" },
+    { type: "verb", en: "to make / to do", de: "machen",
+      forms: { ich: "mache", du: "machst", er: "macht", wir: "machen", ihr: "macht", sie: "machen" } },
+    { type: "verb", en: "to eat", de: "essen",
+      forms: { ich: "esse", du: "isst", er: "isst", wir: "essen", ihr: "esst", sie: "essen" } },
+    { type: "verb", en: "to speak", de: "sprechen",
+      forms: { ich: "spreche", du: "sprichst", er: "spricht", wir: "sprechen", ihr: "sprecht", sie: "sprechen" } },
+    { type: "other", en: "thank you", de: "danke" },
+    { type: "other", en: "good", de: "gut" }
+  ];
+  SEED.forEach(function (w) { w.level = "A1.1"; });
+
+  var LEVELS = ["A1.1","A1.2","A2.1","A2.2","B1.1","B1.2","B2.1","B2.2","C1.1","C1.2","C2.1","C2.2"];
+  var KEY = "woerter-v1", KEY_CFG = "woerter-sync", KEY_SET = "woerter-settings";
+  var BOX_WEIGHT = [10, 5, 3, 1.5, 0.6], UNSEEN_WEIGHT = 4;
+  var words = [], updatedAt = 0;
+  var current = null, checked = false, lastId = null, cardCount = 0, retry = [];
+  var filter = "all", missedOnly = false, direction = "en2de", levelSel = [], lastLevel = "A1.1";
+  var stats = { right: 0, total: 0 };
+  var editingId = null, lastInput = null;
+  var cfg = { owner: "", repo: "", branch: "main", path: "woerter-data.json", token: "", lastSync: 0 };
+  var sha = null, dirty = false, pushing = false, pushTimer = null, pushDue = 0;
+
+  /* ---------- Helpers ---------- */
+  function $(id) { return document.getElementById(id); }
+  function uid() { return Date.now().toString(36) + Math.random().toString(36).slice(2, 7); }
+  function clean(k, v) { return k === "_dir" ? undefined : v; }
+  function esc(s) {
+    return String(s == null ? "" : s).replace(/[&<>"']/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c];
+    });
+  }
+  function toast(t) {
+    var el = $("toast"); el.textContent = t; el.classList.add("show");
+    clearTimeout(toast.t); toast.t = setTimeout(function () { el.classList.remove("show"); }, 2600);
+  }
+  function ask(msg, yesLabel, cb) {
+    $("dlgMsg").textContent = msg; $("dlgYes").textContent = yesLabel; $("dlg").hidden = false; $("dlgNo").focus();
+    function close() { $("dlg").hidden = true; }
+    $("dlgYes").onclick = function () { close(); cb(); };
+    $("dlgNo").onclick = close;
+  }
+  // Lenient comparison: ignores case; accepts ae/oe/ue/ss for ä/ö/ü/ß
+  function norm(s) {
+    return String(s || "").trim().toLowerCase().replace(/\s+/g, " ")
+      .replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue").replace(/ß/g, "ss");
+  }
+  function matches(input, answer) {
+    return String(answer || "").split("/").some(function (o) { return norm(o) === norm(input); });
+  }
+  function enClean(s) {
+    return norm(String(s).replace(/\(.*?\)/g, "")).replace(/^(to|the|a|an) /, "").trim();
+  }
+  function enMatches(input, answer) {
+    return String(answer || "").split(/[\/,;]/).some(function (o) { return enClean(o) === enClean(input); });
+  }
+  function articleClass(w) { return w.type === "noun" ? w.article : w.type; }
+
+  /* ---------- Storage ---------- */
+  function load() {
+    try {
+      var raw = localStorage.getItem(KEY);
+      if (raw) {
+        var d = JSON.parse(raw);
+        if (Array.isArray(d)) { words = d; updatedAt = 1; } else { words = d.words || []; updatedAt = d.updatedAt || 0; }
+      } else {
+        words = SEED.map(function (w) { return Object.assign({ id: uid(), hits: 0, misses: 0 }, w); });
+        updatedAt = 0; persist();
+      }
+    } catch (e) {
+      words = SEED.map(function (w) { return Object.assign({ id: uid(), hits: 0, misses: 0 }, w); });
+    }
+    try { var c = JSON.parse(localStorage.getItem(KEY_CFG)); if (c) cfg = Object.assign(cfg, c); } catch (e) {}
+    try {
+      var s = JSON.parse(localStorage.getItem(KEY_SET));
+      if (s) { if (s.direction) direction = s.direction; if (Array.isArray(s.levels)) levelSel = s.levels; if (s.lastLevel != null) lastLevel = s.lastLevel; }
+    } catch (e) {}
+  }
+  function persist() {
+    try { localStorage.setItem(KEY, JSON.stringify({ updatedAt: updatedAt, words: words }, clean)); return true; }
+    catch (e) { return false; }
+  }
+  function saveSettings() {
+    try { localStorage.setItem(KEY_SET, JSON.stringify({ direction: direction, levels: levelSel, lastLevel: lastLevel })); } catch (e) {}
+  }
+  function saveCfg() { try { localStorage.setItem(KEY_CFG, JSON.stringify(cfg)); } catch (e) {} }
+  // kind: "edit" (push soon) or "progress" (push later)
+  function commit(kind) {
+    updatedAt = Date.now();
+    if (!persist()) toast("Couldn't save in this browser. Is storage blocked?");
+    schedulePush(kind === "progress" ? 45000 : 3000);
+  }
+
+  /* ---------- Tabs ---------- */
+  var tabs = ["practice", "add", "list", "backup"];
+  function showTab(name) {
+    tabs.forEach(function (t) { $("tab-" + t).hidden = t !== name; });
+    document.querySelectorAll("nav button").forEach(function (b) { b.setAttribute("aria-selected", b.dataset.tab === name ? "true" : "false"); });
+    if (name === "practice") nextCard(true);
+    if (name === "list") renderList();
+    if (name === "add" && editingId === null) resetForm();
+    if (name === "backup") fillSyncForm();
+  }
+  document.querySelectorAll("nav button").forEach(function (b) {
+    b.addEventListener("click", function () { if (b.dataset.tab !== "add") cancelEdit(); showTab(b.dataset.tab); });
+  });
+
+  /* ---------- Practice ---------- */
+  function streakOf(w) { return w.streak != null ? w.streak : ((w.box || 0) >= 2 ? 3 : 0); }
+  // A word counts as "missed" until you get it right 3 times in a row
+  function isMissed(w) { return (w.misses || 0) > 0 && streakOf(w) < 3; }
+  function levelOk(w) { return !levelSel.length || levelSel.indexOf(w.level || "") > -1; }
+  function pool() {
+    return words.filter(function (w) {
+      return levelOk(w) && (filter === "all" || w.type === filter) && (!missedOnly || isMissed(w));
+    });
+  }
+  function weightOf(w) { if (missedOnly) return 1; return w.box == null ? UNSEEN_WEIGHT : BOX_WEIGHT[w.box]; }
+  function pickWord() {
+    var p = pool();
+    if (!p.length) return null;
+    // A missed word comes back after about 3 cards
+    for (var i = 0; i < retry.length; i++) {
+      var r = retry[i];
+      if (r.due <= cardCount && r.id !== lastId) {
+        var w0 = p.find(function (x) { return x.id === r.id; });
+        if (w0) { retry.splice(i, 1); return w0; }
+      }
+    }
+    if (p.length > 1) p = p.filter(function (w) { return w.id !== lastId; });
+    var weights = p.map(weightOf);
+    var total = weights.reduce(function (a, b) { return a + b; }, 0);
+    var x = Math.random() * total;
+    for (var j = 0; j < p.length; j++) { x -= weights[j]; if (x <= 0) return p[j]; }
+    return p[p.length - 1];
+  }
+  function fieldsFor(w, dir) {
+    if (dir === "de2en") return [{ label: "English", answer: w.en, english: true }];
+    if (w.type === "noun") {
+      var f = [{ label: "Article", answer: w.article }, { label: "Noun", answer: w.de }];
+      if (w.plural) f.push({ label: "Plural", answer: w.plural });
+      return f;
+    }
+    if (w.type === "verb") {
+      var v = w.forms || {};
+      return [{ label: "Infinitive", answer: w.de }, { label: "ich", answer: v.ich }, { label: "du", answer: v.du },
+        { label: "er / sie / es", answer: v.er }, { label: "wir", answer: v.wir }, { label: "ihr", answer: v.ihr },
+        { label: "sie / Sie", answer: v.sie }];
+    }
+    return [{ label: "German", answer: w.de }];
+  }
+  function nextCard(keepIfSame) {
+    var area = $("practiceArea");
+    updateScore();
+    if (!words.length) { area.innerHTML = '<div class="empty">No words yet. Add your first one in the “Add word” tab.</div>'; current = null; return; }
+    if (!pool().length) {
+      area.innerHTML = '<div class="empty">' + (missedOnly ? "No missed words right now. Nice work!" : "You have no words of this type yet.") + "</div>";
+      current = null; return;
+    }
+    if (!(keepIfSame && current && !checked && pool().indexOf(current) > -1)) {
+      current = pickWord(); checked = false; cardCount++;
+      current._dir = direction === "mixed" ? (Math.random() < 0.5 ? "en2de" : "de2en") : direction;
+    }
+    lastId = current.id;
+    renderCard();
+  }
+  function renderCard() {
+    var w = current, dir = w._dir, fields = fieldsFor(w, dir);
+    var tagName = w.type === "noun" ? "noun" : w.type === "verb" ? "verb" : "word / phrase";
+    var prompt, hint;
+    if (dir === "de2en") {
+      prompt = w.type === "noun" ? '<span class="art ' + esc(w.article) + '">' + esc(w.article) + "</span> " + esc(w.de) : esc(w.de);
+      hint = "Type the English meaning.";
+    } else {
+      prompt = esc(w.en);
+      hint = w.type === "noun" ? (w.plural ? "Type the article, the noun and its plural." : "Type the article and the noun (this one has no plural).") :
+             w.type === "verb" ? "Type the infinitive and the present-tense forms." : "Type the German word.";
+    }
+    var html = '<div class="card ' + (w.type === "noun" ? esc(w.article) : "") + '">' +
+      '<span class="tag">' + tagName + (w.level ? '<span class="lv">' + esc(w.level) + '</span>' : '') + '</span><div class="prompt">' + prompt + '</div><p class="hint">' + hint + "</p>" +
+      '<div class="fields' + (dir === "en2de" && w.type === "verb" ? " grid2" : "") + '">';
+    fields.forEach(function (f, i) {
+      html += '<div class="field"><label for="p' + i + '">' + esc(f.label) + '</label>' +
+        '<input type="text" id="p' + i + '" autocomplete="off" autocapitalize="off" spellcheck="false"><div class="answer" id="a' + i + '"></div></div>';
+    });
+    html += '</div><div class="keys" id="practiceKeys"><button type="button">ä</button><button type="button">ö</button>' +
+      '<button type="button">ü</button><button type="button">ß</button></div>' +
+      '<p class="msg" id="msg" hidden></p><p class="note" id="more" hidden></p>' +
+      '<div class="row"><button class="btn" type="button" id="checkBtn">Check</button>' +
+      '<button class="btn ghost" type="button" id="showBtn">I don\'t know</button></div></div>';
+    $("practiceArea").innerHTML = html;
+    wireKeys($("practiceKeys"));
+    $("p0").focus();
+    $("checkBtn").addEventListener("click", function () {
+      if (checked) { checked = false; nextCard(false); } else { checkAnswers(fields, false); }
+    });
+    $("showBtn").addEventListener("click", function () { checkAnswers(fields, true); });
+  }
+  function checkAnswers(fields, giveUp) {
+    var w = current, allOk = true, capTip = false;
+    fields.forEach(function (f, i) {
+      var inp = $("p" + i), val = inp.value;
+      var ok = !giveUp || val.trim() ? (f.english ? enMatches(val, f.answer) : matches(val, f.answer)) : false;
+      if (ok && w.type === "noun" && f.label === "Noun" && val.trim()) {
+        var c = val.trim()[0]; if (c === c.toLowerCase() && c !== c.toUpperCase()) capTip = true;
+      }
+      inp.classList.toggle("ok", ok); inp.classList.toggle("bad", !ok); inp.readOnly = true;
+      var shown = String(f.answer).split(f.english ? /[\/;]/ : "/").map(function (s) { return s.trim(); }).join(" or ");
+      $("a" + i).textContent = ok ? "" : "→ " + shown;
+      if (!ok) allOk = false;
+    });
+    if (giveUp) allOk = false;
+    checked = true;
+    stats.total++; if (allOk) stats.right++;
+    var wasMissed = isMissed(w);
+    w.hits = (w.hits || 0) + (allOk ? 1 : 0); w.misses = (w.misses || 0) + (allOk ? 0 : 1);
+    retry = retry.filter(function (r) { return r.id !== w.id; });
+    if (allOk) { w.box = Math.min((w.box == null ? 1 : w.box) + 1, 4); w.streak = streakOf(w) + 1; }
+    else { w.box = 0; w.streak = 0; retry.push({ id: w.id, due: cardCount + 3 }); }
+    commit("progress"); updateScore();
+    var msg = $("msg"); msg.hidden = false; msg.className = "msg " + (allOk ? "ok" : "bad");
+    msg.textContent = allOk ? "Richtig!" : (giveUp ? "Here is the answer." : "Not quite. Check the corrections above.");
+    if (allOk && capTip) msg.textContent += " (German nouns are always capitalized.)";
+    if (allOk && (w.misses || 0) > 0) {
+      if (w.streak < 3) msg.textContent += " (" + w.streak + " of 3 right in a row)";
+      else if (wasMissed) msg.textContent += " That word is out of your missed list.";
+    }
+    if (current._dir === "de2en") {
+      var more = "";
+      if (w.type === "noun") more = w.article + " " + w.de + (w.plural ? " · plural: die " + w.plural : "");
+      if (w.type === "verb") { var v = w.forms || {}; more = "ich " + v.ich + ", du " + v.du + ", er/sie/es " + v.er + ", wir " + v.wir + ", ihr " + v.ihr + ", sie/Sie " + v.sie; }
+      if (more) { $("more").hidden = false; $("more").textContent = more; }
+    }
+    $("checkBtn").textContent = "Next"; $("showBtn").hidden = true; $("checkBtn").focus();
+  }
+  function updateScore() {
+    var n = words.filter(function (w) { return levelOk(w) && isMissed(w); }).length;
+    $("missedChip").textContent = "Missed only" + (n ? " (" + n + ")" : "");
+    $("score").textContent = stats.total ? stats.right + " of " + stats.total + " right this session" : "";
+  }
+  // Enter in a practice field: check, or go to the next card
+  $("practiceArea").addEventListener("keydown", function (e) {
+    if (e.key !== "Enter" || e.target.tagName !== "INPUT") return;
+    e.preventDefault();
+    if (checked) { checked = false; nextCard(false); } else if (current) { checkAnswers(fieldsFor(current, current._dir), false); }
+  });
+  $("filters").addEventListener("click", function (e) {
+    var b = e.target.closest(".chip"); if (!b) return;
+    if (b.id === "missedChip") { missedOnly = !missedOnly; b.setAttribute("aria-pressed", missedOnly); }
+    else {
+      filter = b.dataset.f;
+      document.querySelectorAll("#filters .chip[data-f]").forEach(function (c) { c.setAttribute("aria-pressed", c === b ? "true" : "false"); });
+    }
+    current = null; checked = false; nextCard(false);
+  });
+  function markDirChips() {
+    document.querySelectorAll("#dirBar .chip").forEach(function (c) { c.setAttribute("aria-pressed", c.dataset.d === direction ? "true" : "false"); });
+  }
+  $("dirBar").addEventListener("click", function (e) {
+    var b = e.target.closest(".chip"); if (!b) return;
+    direction = b.dataset.d; markDirChips();
+    saveSettings();
+    current = null; checked = false; nextCard(false);
+  });
+
+  /* ---------- Special character buttons ---------- */
+  document.addEventListener("focusin", function (e) { if (e.target.matches('input[type="text"]')) lastInput = e.target; });
+  function wireKeys(box) {
+    box.addEventListener("mousedown", function (e) { e.preventDefault(); });
+    box.addEventListener("click", function (e) {
+      var b = e.target.closest("button"); if (!b || !lastInput || lastInput.readOnly) return;
+      var el = lastInput, s = el.selectionStart, t = el.selectionEnd;
+      el.value = el.value.slice(0, s) + b.textContent + el.value.slice(t);
+      el.setSelectionRange(s + 1, s + 1); el.focus();
+    });
+  }
+  wireKeys($("addKeys"));
+
+  /* ---------- Add / edit ---------- */
+  function typeChanged() {
+    var t = $("fType").value;
+    document.querySelector(".nouns").hidden = t !== "noun";
+    document.querySelector(".verbs").hidden = t !== "verb";
+    $("fDeLabel").textContent = t === "verb" ? "German infinitive" : t === "noun" ? "German noun (no article)" : "German word";
+    $("fDe").placeholder = t === "verb" ? "machen" : t === "noun" ? "Haus" : "gut";
+  }
+  $("fType").addEventListener("change", typeChanged);
+  function clearForm() {
+    ["fEn", "fDe", "fPlural", "v_ich", "v_du", "v_er", "v_wir", "v_ihr", "v_sie"].forEach(function (id) { $(id).value = ""; });
+  }
+  function resetForm() {
+    editingId = null; clearForm(); typeChanged(); $("fLevel").value = lastLevel;
+    $("formTitle").textContent = "Add a word"; $("saveBtn").textContent = "Save word"; $("cancelEdit").hidden = true;
+  }
+  function cancelEdit() { if (editingId !== null) resetForm(); }
+  $("cancelEdit").addEventListener("click", function () { resetForm(); showTab("list"); });
+
+  $("autoFill").addEventListener("click", function () {
+    var inf = $("fDe").value.trim().toLowerCase();
+    if (!/n$/.test(inf)) { toast("Enter the infinitive first, like machen."); return; }
+    var stem = /en$/.test(inf) ? inf.slice(0, -2) : inf.slice(0, -1);
+    var dEnd = /[td]$|[bcdfgkpt][nm]$/.test(stem), sEnd = /[sßxz]$/.test(stem);
+    $("v_ich").value = stem + "e";
+    $("v_du").value = stem + (sEnd ? "t" : dEnd ? "est" : "st");
+    $("v_er").value = stem + (dEnd ? "et" : "t");
+    $("v_wir").value = inf;
+    $("v_ihr").value = stem + (dEnd ? "et" : "t");
+    $("v_sie").value = inf;
+  });
+
+  function saveWord() {
+    var type = $("fType").value, en = $("fEn").value.trim(), de = $("fDe").value.trim();
+    if (!en || !de) { toast("Please fill in the English and German words."); return; }
+    var w = { type: type, en: en, de: de, level: $("fLevel").value };
+    lastLevel = w.level; saveSettings();
+    if (type === "noun") { w.article = $("fArt").value; w.plural = $("fPlural").value.trim(); w.de = de.charAt(0).toUpperCase() + de.slice(1); }
+    if (type === "verb") {
+      w.forms = { ich: $("v_ich").value.trim(), du: $("v_du").value.trim(), er: $("v_er").value.trim(),
+                  wir: $("v_wir").value.trim(), ihr: $("v_ihr").value.trim(), sie: $("v_sie").value.trim() };
+      if (Object.keys(w.forms).some(function (k) { return !w.forms[k]; })) { toast("Fill in all six verb forms (or use auto-fill)."); return; }
+    }
+    if (editingId !== null) {
+      var i = words.findIndex(function (x) { return x.id === editingId; });
+      words[i] = Object.assign(words[i], w);
+      if (w.type !== "noun") { delete words[i].article; delete words[i].plural; }
+      if (w.type !== "verb") delete words[i].forms;
+      commit("edit"); toast("Word updated"); resetForm(); updateCount(); showTab("list");
+    } else {
+      words.push(Object.assign({ id: uid(), hits: 0, misses: 0 }, w));
+      commit("edit"); toast("Saved: " + w.de); clearForm(); $("fEn").focus(); updateCount();
+    }
+  }
+  $("saveBtn").addEventListener("click", saveWord);
+  $("addForm").addEventListener("keydown", function (e) {
+    if (e.key === "Enter" && e.target.tagName === "INPUT") { e.preventDefault(); saveWord(); }
+  });
+
+  /* ---------- List ---------- */
+  function extraLine(w) {
+    var s = "";
+    if (w.type === "noun") s = w.plural ? "Plural: die " + w.plural : "No plural";
+    if (w.type === "verb") s = ["ich", "du", "er", "wir", "ihr", "sie"].map(function (k) { return (w.forms || {})[k]; }).join(", ");
+    if (w.misses) s += (s ? " · " : "") + "missed " + w.misses + "×";
+    return s;
+  }
+  function levelIdx(w) { var i = LEVELS.indexOf(w.level || ""); return i < 0 ? 99 : i; }
+  function listWords() {
+    var q = norm($("search").value), f = $("listFilter").value, fl = $("listLevel").value;
+    return words.filter(function (w) {
+      var lvOk = !fl || fl === "all" || (w.level || "") === (fl === "__none" ? "" : fl);
+      return lvOk && (f === "all" || w.type === f) && (!q || norm(w.de).indexOf(q) > -1 || norm(w.en).indexOf(q) > -1);
+    }).sort(function (a, b) { return levelIdx(a) - levelIdx(b) || a.de.localeCompare(b.de, "de"); });
+  }
+  function renderList() {
+    var sel = $("listLevel"), prev = sel.value || "all";
+    sel.innerHTML = '<option value="all">All levels</option>' + presentLevels().map(function (l) {
+      return '<option value="' + esc(l || "__none") + '">' + (l || "No level") + "</option>";
+    }).join("");
+    sel.value = prev; if (sel.value !== prev) sel.value = "all";
+    var shown = listWords();
+    var ul = $("wordList");
+    if (!shown.length) { ul.innerHTML = '<li style="justify-content:center;border-left-width:1.5px" class="note">No words found.</li>'; return; }
+    ul.innerHTML = shown.map(function (w) {
+      return '<li class="' + esc(articleClass(w)) + '"><div><div class="de">' + esc(w.type === "noun" ? w.article + " " + w.de : w.de) +
+        ' <span class="en">– ' + esc(w.en) + '</span>' + (w.level ? '<span class="lv">' + esc(w.level) + '</span>' : '') + '</div><div class="extra">' + esc(extraLine(w)) + '</div></div>' +
+        '<div class="row"><button class="btn ghost small" data-edit="' + esc(w.id) + '">Edit</button>' +
+        '<button class="btn danger small" data-del="' + esc(w.id) + '">Delete</button></div></li>';
+    }).join("");
+  }
+  $("search").addEventListener("input", renderList);
+  $("listFilter").addEventListener("change", renderList);
+  $("listLevel").addEventListener("change", renderList);
+  $("wordList").addEventListener("click", function (e) {
+    var ed = e.target.closest("[data-edit]"), del = e.target.closest("[data-del]");
+    if (ed) startEdit(ed.dataset.edit);
+    if (del) {
+      var w = words.find(function (x) { return x.id === del.dataset.del; });
+      if (w) ask("Delete “" + w.de + "”?", "Delete", function () {
+        words = words.filter(function (x) { return x.id !== w.id; });
+        commit("edit"); updateCount(); renderList(); toast("Deleted");
+      });
+    }
+  });
+  function startEdit(id) {
+    var w = words.find(function (x) { return x.id === id; }); if (!w) return;
+    showTab("add"); editingId = id;
+    $("fType").value = w.type; typeChanged();
+    $("fEn").value = w.en; $("fDe").value = w.de; $("fLevel").value = w.level || "";
+    if (w.type === "noun") { $("fArt").value = w.article; $("fPlural").value = w.plural || ""; }
+    if (w.type === "verb") {
+      var f = w.forms || {};
+      $("v_ich").value = f.ich || ""; $("v_du").value = f.du || ""; $("v_er").value = f.er || "";
+      $("v_wir").value = f.wir || ""; $("v_ihr").value = f.ihr || ""; $("v_sie").value = f.sie || "";
+    }
+    $("formTitle").textContent = "Edit word"; $("saveBtn").textContent = "Save changes"; $("cancelEdit").hidden = false;
+  }
+
+  /* ---------- File backup ---------- */
+  function keyOf(w) { return w.type + "|" + norm(w.de) + "|" + norm(w.en); }
+  function mergeIn(list) {
+    var have = {}; words.forEach(function (w) { have[keyOf(w)] = true; });
+    var ids = {}; words.forEach(function (w) { ids[w.id] = true; });
+    var added = 0;
+    (list || []).forEach(function (w) {
+      if (!w || !w.de || !w.en || !w.type || have[keyOf(w)]) return;
+      var c = Object.assign({ hits: 0, misses: 0 }, w);
+      if (!c.id || ids[c.id]) c.id = uid();
+      ids[c.id] = true; have[keyOf(c)] = true; words.push(c); added++;
+    });
+    return added;
+  }
+  $("exportBtn").addEventListener("click", function () {
+    var blob = new Blob([JSON.stringify({ app: "woerter", updatedAt: updatedAt, words: words }, clean, 2)], { type: "application/json" });
+    var a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = "woerter-backup-" + new Date().toISOString().slice(0, 10) + ".json";
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(function () { URL.revokeObjectURL(a.href); }, 1000);
+  });
+  $("importFile").addEventListener("change", function (e) {
+    var file = e.target.files[0]; if (!file) return;
+    var r = new FileReader();
+    r.onload = function () {
+      try {
+        var d = JSON.parse(r.result), list = Array.isArray(d) ? d : d.words;
+        if (!Array.isArray(list)) throw new Error("bad");
+        var n = mergeIn(list); commit("edit"); updateCount();
+        toast("Added " + n + " new word" + (n === 1 ? "" : "s"));
+      } catch (err) { toast("That file doesn't look like a Wörter backup."); }
+      e.target.value = "";
+    };
+    r.readAsText(file);
+  });
+  $("resetProgress").addEventListener("click", function () {
+    ask("Reset all practice scores?", "Reset", function () {
+      words.forEach(function (w) { w.hits = 0; w.misses = 0; delete w.box; delete w.streak; }); retry = [];
+      commit("edit"); updateScore(); toast("Scores reset");
+    });
+  });
+  $("deleteAll").addEventListener("click", function () {
+    ask("Delete ALL words? This can't be undone.", "Delete all", function () {
+      words = []; commit("edit"); updateCount(); current = null; toast("All words deleted");
+    });
+  });
+
+  /* ---------- GitHub sync ---------- */
+  function b64enc(str) {
+    var bytes = new TextEncoder().encode(str), bin = "";
+    for (var i = 0; i < bytes.length; i++) bin += String.fromCharCode(bytes[i]);
+    return btoa(bin);
+  }
+  function b64dec(b64) {
+    var bin = atob(b64.replace(/\s/g, "")), bytes = new Uint8Array(bin.length);
+    for (var i = 0; i < bin.length; i++) bytes[i] = bin.charCodeAt(i);
+    return new TextDecoder().decode(bytes);
+  }
+  function connected() { return !!(cfg.owner && cfg.repo); }
+  function apiUrl() {
+    return "https://api.github.com/repos/" + encodeURIComponent(cfg.owner) + "/" + encodeURIComponent(cfg.repo) +
+      "/contents/" + cfg.path.split("/").map(encodeURIComponent).join("/");
+  }
+  function headers() {
+    var h = { "Accept": "application/vnd.github+json" };
+    if (cfg.token) h["Authorization"] = "Bearer " + cfg.token;
+    return h;
+  }
+  function errText(res) {
+    if (res.status === 401 || res.status === 403) return "GitHub rejected the token. Check it has Contents: Read and write for this repository.";
+    if (res.status === 404) return "Repository or branch not found (or the token can't see it).";
+    return "GitHub returned error " + res.status + ".";
+  }
+  function setStatus(text, kind) {
+    $("syncStatus").textContent = text;
+    var b = $("syncBadge");
+    b.className = "badge " + (kind || "");
+    b.textContent = !connected() ? "" : kind === "bad" ? "Sync problem" : dirty || pushing ? "Saving…" : cfg.lastSync ? "Saved to GitHub" : "";
+  }
+  function timeStr() { return new Date().toLocaleTimeString([], { hour: "2-digit", minute: "2-digit" }); }
+
+  async function pull() {
+    var res = await fetch(apiUrl() + "?ref=" + encodeURIComponent(cfg.branch), { headers: headers(), cache: "no-store" });
+    if (res.status === 404) return null;
+    if (!res.ok) throw new Error(errText(res));
+    var j = await res.json();
+    var d = JSON.parse(b64dec(j.content));
+    return { sha: j.sha, updatedAt: Array.isArray(d) ? 1 : (d.updatedAt || 0), words: Array.isArray(d) ? d : (d.words || []) };
+  }
+  async function push(keepalive) {
+    if (!cfg.token) throw new Error("Add an access token to save to GitHub.");
+    var payload = JSON.stringify({ app: "woerter", updatedAt: updatedAt, words: words }, clean, 1);
+    async function attempt() {
+      var body = { message: "Update German words", content: b64enc(payload), branch: cfg.branch };
+      if (sha) body.sha = sha;
+      return fetch(apiUrl(), { method: "PUT", headers: headers(), body: JSON.stringify(body), keepalive: !!keepalive });
+    }
+    var res = await attempt();
+    if (res.status === 409 || res.status === 422) { var r = await pull(); sha = r ? r.sha : null; res = await attempt(); }
+    if (!res.ok) throw new Error(errText(res));
+    var j = await res.json(); sha = j.content.sha; cfg.lastSync = Date.now(); saveCfg();
+  }
+  function schedulePush(ms) {
+    if (!connected() || !cfg.token) return;
+    dirty = true;
+    var due = Date.now() + ms;
+    if (pushTimer && pushDue <= due) { setStatus("Unsaved changes…"); return; }
+    clearTimeout(pushTimer); pushDue = due; pushTimer = setTimeout(doPush, ms); setStatus("Unsaved changes…");
+  }
+  async function doPush() {
+    pushTimer = null; pushDue = 0;
+    if (!dirty) return;
+    if (pushing) { schedulePush(2000); return; }
+    pushing = true; dirty = false; setStatus("Saving to GitHub…");
+    try { await push(false); setStatus("Saved to GitHub at " + timeStr() + "."); }
+    catch (e) { dirty = true; setStatus("Couldn't save: " + e.message, "bad"); }
+    pushing = false;
+  }
+  function refreshUI() {
+    updateCount(); updateScore();
+    if (!$("tab-list").hidden) renderList();
+    if (!$("tab-practice").hidden) { current = null; checked = false; nextCard(false); }
+  }
+  async function syncNow(first) {
+    if (!connected()) { setStatus("Enter your GitHub username and repository first.", "bad"); return; }
+    setStatus("Syncing…");
+    try {
+      var remote = await pull();
+      if (remote) {
+        sha = remote.sha;
+        if (first) {
+          var n = mergeIn(remote.words); updatedAt = Date.now(); persist(); refreshUI();
+          if (cfg.token) { await push(false); setStatus("Connected. Loaded " + n + " word" + (n === 1 ? "" : "s") + " from GitHub and saved everything there."); }
+          else setStatus("Loaded " + n + " word" + (n === 1 ? "" : "s") + " from GitHub. Add a token to save changes back.");
+        } else if (remote.updatedAt > updatedAt) {
+          words = remote.words; updatedAt = remote.updatedAt; persist(); refreshUI();
+          setStatus("Loaded the latest words from GitHub at " + timeStr() + ".");
+        } else if (remote.updatedAt < updatedAt) {
+          if (cfg.token) { await push(false); setStatus("Saved to GitHub at " + timeStr() + "."); }
+          else setStatus("This browser has newer words. Add a token to save them to GitHub.");
+        } else { setStatus("Everything is up to date (" + timeStr() + ")."); }
+        cfg.lastSync = Date.now(); saveCfg();
+      } else if (cfg.token) {
+        await push(false); setStatus("Created " + cfg.path + " in your repository and saved your words.");
+      } else {
+        setStatus("No data file in the repository yet. Add a token to create it.");
+      }
+      dirty = false;
+    } catch (e) { setStatus("Couldn't sync: " + e.message, "bad"); }
+    setBadgeOnly();
+  }
+  function setBadgeOnly() {
+    var b = $("syncBadge");
+    if (b.className.indexOf("bad") === -1) b.textContent = connected() && cfg.lastSync ? "Saved to GitHub" : "";
+  }
+  function fillSyncForm() {
+    var host = location.hostname, owner = "", repo = "";
+    if (/\.github\.io$/.test(host)) { owner = host.split(".")[0]; repo = location.pathname.split("/")[1] || host; }
+    $("sOwner").value = cfg.owner || owner; $("sRepo").value = cfg.repo || repo;
+    $("sBranch").value = cfg.branch; $("sPath").value = cfg.path; $("sToken").value = cfg.token;
+    if (!$("syncStatus").textContent) setStatus(connected() ? "Connected to " + cfg.owner + "/" + cfg.repo + "." : "Not connected.");
+  }
+  $("connectBtn").addEventListener("click", function () {
+    cfg.owner = $("sOwner").value.trim(); cfg.repo = $("sRepo").value.trim();
+    cfg.branch = $("sBranch").value.trim() || "main"; cfg.path = $("sPath").value.trim() || "woerter-data.json";
+    cfg.token = $("sToken").value.trim(); sha = null; saveCfg(); syncNow(true);
+  });
+  $("syncBtn").addEventListener("click", function () { syncNow(false); });
+  $("disconnectBtn").addEventListener("click", function () {
+    cfg.owner = ""; cfg.repo = ""; cfg.token = ""; cfg.lastSync = 0; saveCfg(); sha = null; dirty = false;
+    $("sToken").value = ""; setStatus("Disconnected. Words stay in this browser."); $("syncBadge").textContent = "";
+  });
+  document.addEventListener("visibilitychange", function () {
+    if (!connected()) return;
+    if (document.visibilityState === "hidden" && dirty && cfg.token && !pushing) {
+      clearTimeout(pushTimer); pushTimer = null; dirty = false; push(true).catch(function () { dirty = true; });
+    } else if (document.visibilityState === "visible" && !dirty && !pushing) { syncNow(false); }
+  });
+
+  /* ---------- Levels ---------- */
+  function presentLevels() {
+    var seen = {}; words.forEach(function (w) { seen[w.level || ""] = true; });
+    var out = LEVELS.filter(function (l) { return seen[l]; });
+    if (seen[""] && out.length) out.push("");
+    return out;
+  }
+  function fillLevelSelects() {
+    $("fLevel").innerHTML = '<option value="">No level</option>' + LEVELS.map(function (l) { return "<option>" + l + "</option>"; }).join("");
+    $("bulkLevel").innerHTML = LEVELS.map(function (l) { return "<option>" + l + "</option>"; }).join("");
+    $("fLevel").value = lastLevel;
+  }
+  function renderLevelChips() {
+    var bar = $("levelBar"), lv = presentLevels();
+    levelSel = levelSel.filter(function (l) { return lv.indexOf(l) > -1; });
+    bar.hidden = false;
+    if (!lv.length) {
+      bar.innerHTML = '<span class="lbl">Level</span><span class="note" style="margin:0">No levels yet. Set one in Add word, or use “Set the level of all words shown” in My words.</span>';
+      return;
+    }
+    var html = '<span class="lbl">Level</span><button class="chip" data-l="__all" aria-pressed="' + (levelSel.length === 0) + '">All</button>';
+    lv.forEach(function (l) {
+      html += '<button class="chip" data-l="' + esc(l || "__none") + '" aria-pressed="' + (levelSel.indexOf(l) > -1) + '">' + (l || "No level") + "</button>";
+    });
+    bar.innerHTML = html;
+  }
+  $("levelBar").addEventListener("click", function (e) {
+    var b = e.target.closest(".chip"); if (!b) return;
+    if (b.dataset.l === "__all") levelSel = [];
+    else {
+      var v = b.dataset.l === "__none" ? "" : b.dataset.l, i = levelSel.indexOf(v);
+      if (i > -1) levelSel.splice(i, 1); else levelSel.push(v);
+    }
+    saveSettings(); renderLevelChips(); current = null; checked = false; nextCard(false);
+  });
+  $("bulkApply").addEventListener("click", function () {
+    var shown = listWords(), lvl = $("bulkLevel").value;
+    if (!shown.length) { toast("No words shown to update."); return; }
+    ask("Set level " + lvl + " for the " + shown.length + " word" + (shown.length === 1 ? "" : "s") + " shown?", "Apply", function () {
+      shown.forEach(function (w) { w.level = lvl; });
+      commit("edit"); updateCount(); renderList(); toast("Level updated");
+    });
+  });
+
+  function updateCount() {
+    var n = words.length; $("count").textContent = n + " word" + (n === 1 ? "" : "s");
+    renderLevelChips();
+  }
+
+  /* ---------- Start ---------- */
+  load(); fillLevelSelects(); updateCount(); typeChanged(); markDirChips(); nextCard(false);
+  if (connected()) syncNow(false);
+})();
+</script>
+</body>
+</html>

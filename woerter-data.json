@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722386476,
+ "updatedAt": 1790722401209,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -53,6 +53,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Cafes"
+  },
+  {
+   "id": "mun9vruhguaay",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Computer",
+   "de": "Computer",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Computer"
   }
  ]
 }

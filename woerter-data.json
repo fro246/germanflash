@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790722401209,
+ "updatedAt": 1790722443259,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -64,6 +64,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Computer"
+  },
+  {
+   "id": "mun9woaj80t8g",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Appointment",
+   "de": "Verabredung",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Verabredungen"
   }
  ]
 }

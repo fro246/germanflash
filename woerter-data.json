@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769531914,
+ "updatedAt": 1790769564226,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1149,6 +1149,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Polizisten"
+  },
+  {
+   "id": "muo1yn291xhbe",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Student",
+   "de": "Student",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Studenten"
   }
  ]
 }

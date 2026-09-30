@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769303741,
+ "updatedAt": 1790769315774,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1050,6 +1050,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Krankenpfleger"
+  },
+  {
+   "id": "muo1tbcuu6caa",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Restaurant",
+   "de": "Restaurant",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Restaurants"
   }
  ]
 }

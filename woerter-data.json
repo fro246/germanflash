@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769595265,
+ "updatedAt": 1790769615033,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1188,6 +1188,17 @@
     "ihr": "studiert",
     "sie": "studieren"
    }
+  },
+  {
+   "id": "muo1zq9lrqi51",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "University",
+   "de": "Universität",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Universitäten"
   }
  ]
 }

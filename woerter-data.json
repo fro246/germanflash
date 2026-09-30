@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769165642,
+ "updatedAt": 1790769201289,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1006,6 +1006,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Journalisten"
+  },
+  {
+   "id": "muo1qv0px9xxk",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Waiter",
+   "de": "Kellner",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Kellner"
   }
  ]
 }

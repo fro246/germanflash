@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790796814098,
+ "updatedAt": 1790796833477,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1440,6 +1440,17 @@
    "en": "old",
    "de": "alt",
    "level": "A1.1"
+  },
+  {
+   "id": "muoi745hq7gsq",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Appointment",
+   "de": "Termin",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Termine"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769771556,
+ "updatedAt": 1790769795638,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1270,6 +1270,23 @@
     "wir": "fahren",
     "ihr": "fahrt",
     "sie": "fahren"
+   }
+  },
+  {
+   "id": "muo23lmev1sqr",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to work",
+   "de": "arbeiten",
+   "level": "A1.1",
+   "forms": {
+    "ich": "arbeite",
+    "du": "arbeitest",
+    "er": "arbeitet",
+    "wir": "arbeiten",
+    "ihr": "arbeitet",
+    "sie": "arbeiten"
    }
   }
  ]

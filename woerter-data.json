@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767598891,
+ "updatedAt": 1790767611849,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -708,6 +708,23 @@
     "wir": "hören",
     "ihr": "hört",
     "sie": "hören"
+   }
+  },
+  {
+   "id": "muo0ssllq1ouq",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "read",
+   "de": "lesen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "lese",
+    "du": "liest",
+    "er": "liest",
+    "wir": "lesen",
+    "ihr": "lest",
+    "sie": "lesen"
    }
   }
  ]

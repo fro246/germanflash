@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767797601,
+ "updatedAt": 1790767817258,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -862,6 +862,17 @@
     "ihr": "zuordnet",
     "sie": "zuordnen"
    }
+  },
+  {
+   "id": "muo0x73erma30",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Partner",
+   "de": "Partner",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Partner"
   }
  ]
 }

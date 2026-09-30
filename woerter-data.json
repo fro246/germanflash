@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767737700,
+ "updatedAt": 1790767797601,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -844,6 +844,23 @@
     "wir": "spielen",
     "ihr": "spielt",
     "sie": "spielen"
+   }
+  },
+  {
+   "id": "muo0wrxdhc521",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to assign",
+   "de": "zuordnen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "zuordne",
+    "du": "zuordnest",
+    "er": "zuordnet",
+    "wir": "zuordnen",
+    "ihr": "zuordnet",
+    "sie": "zuordnen"
    }
   }
  ]

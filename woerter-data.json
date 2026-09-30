@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767453056,
+ "updatedAt": 1790767475314,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -612,6 +612,15 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Sprachen"
+  },
+  {
+   "id": "muo0pv8y34wq8",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "Good morning",
+   "de": "Guten Morgen",
+   "level": "A1.1"
   }
  ]
 }

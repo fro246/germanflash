@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769953579,
+ "updatedAt": 1790769961250,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1376,6 +1376,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Stunden"
+  },
+  {
+   "id": "muo275eqmivoc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Day",
+   "de": "Tag",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Tage"
   }
  ]
 }

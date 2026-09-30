@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769396985,
+ "updatedAt": 1790769433098,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1105,6 +1105,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Lehrer"
+  },
+  {
+   "id": "muo1vtvu89zem",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "School",
+   "de": "Schule",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Schulen"
   }
  ]
 }

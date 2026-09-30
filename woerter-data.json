@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767509100,
+ "updatedAt": 1790767515506,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -656,6 +656,15 @@
    "type": "other",
    "en": "bye",
    "de": "tschüs",
+   "level": "A1.1"
+  },
+  {
+   "id": "muo0qq9eevm5n",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "Until later",
+   "de": "bis bald",
    "level": "A1.1"
   }
  ]

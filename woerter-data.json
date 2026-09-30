@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790797007766,
+ "updatedAt": 1790797022404,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1583,6 +1583,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Addressen"
+  },
+  {
+   "id": "muoib5xgcb7l0",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Street",
+   "de": "Straße",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Straßen"
   }
  ]
 }

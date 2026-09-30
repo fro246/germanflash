@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767263626,
+ "updatedAt": 1790767287500,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -534,6 +534,17 @@
     "ihr": "wohnt",
     "sie": "wohnen"
    }
+  },
+  {
+   "id": "muo0lubw31tju",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "City",
+   "de": "Stadt",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Städte"
   }
  ]
 }

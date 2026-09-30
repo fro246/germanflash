@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769007512,
+ "updatedAt": 1790769016558,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -504,7 +504,7 @@
   },
   {
    "id": "muo0k9y4q4fca",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to be called",
@@ -517,7 +517,9 @@
     "wir": "heißen",
     "ihr": "heißt",
     "sie": "heißen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0kttyr7kkl",

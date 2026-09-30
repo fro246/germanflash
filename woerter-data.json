@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790796878074,
+ "updatedAt": 1790796890988,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1459,6 +1459,15 @@
    "type": "other",
    "en": "morning",
    "de": "morgen",
+   "level": "A1.1"
+  },
+  {
+   "id": "muoi8cj0pnx0v",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "at night",
+   "de": "nachts",
    "level": "A1.1"
   }
  ]

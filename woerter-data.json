@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767964778,
+ "updatedAt": 1790767990911,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -698,7 +698,7 @@
    "hits": 0,
    "misses": 0,
    "type": "verb",
-   "en": "listen",
+   "en": "to listen",
    "de": "hören",
    "level": "A1.1",
    "forms": {

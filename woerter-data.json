@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767920676,
+ "updatedAt": 1790767936444,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -939,6 +939,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Flaschen"
+  },
+  {
+   "id": "muo0zr24qy088",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Suitcase",
+   "de": "Koffer",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Koffer"
   }
  ]
 }

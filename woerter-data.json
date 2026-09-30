@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767729770,
+ "updatedAt": 1790767737700,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -827,6 +827,23 @@
     "wir": "schrieben",
     "ihr": "schriebt",
     "sie": "schrieben"
+   }
+  },
+  {
+   "id": "muo0vhpgfip0b",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to play",
+   "de": "spielen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "spiele",
+    "du": "spielst",
+    "er": "spielt",
+    "wir": "spielen",
+    "ihr": "spielt",
+    "sie": "spielen"
    }
   }
  ]

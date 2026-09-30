@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767589672,
+ "updatedAt": 1790767598891,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -691,6 +691,23 @@
     "wir": "fragen",
     "ihr": "fragt",
     "sie": "fragen"
+   }
+  },
+  {
+   "id": "muo0silntom7z",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "listen",
+   "de": "hören",
+   "level": "A1.1",
+   "forms": {
+    "ich": "höre",
+    "du": "hörst",
+    "er": "hört",
+    "wir": "hören",
+    "ihr": "hört",
+    "sie": "hören"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790797179519,
+ "updatedAt": 1790797195149,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1657,6 +1657,15 @@
    "type": "other",
    "en": "male",
    "de": "männlich",
+   "level": "A1.1"
+  },
+  {
+   "id": "muoiev7xpknow",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "female",
+   "de": "weiblich",
    "level": "A1.1"
   }
  ]

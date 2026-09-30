@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790797195149,
+ "updatedAt": 1790797448767,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1667,6 +1667,17 @@
    "en": "female",
    "de": "weiblich",
    "level": "A1.1"
+  },
+  {
+   "id": "muoikawvmekz9",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Form",
+   "de": "Formular",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Formulare"
   }
  ]
 }

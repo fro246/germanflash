@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790768226886,
+ "updatedAt": 1790768280834,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -34,7 +34,7 @@
   },
   {
    "id": "mun9v6b6dogtx",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Book",
@@ -42,8 +42,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Bücher",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mun9vgh87r3kc",
@@ -60,14 +60,16 @@
   },
   {
    "id": "mun9vruhguaay",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Computer",
    "de": "Computer",
    "level": "A1.1",
    "article": "der",
-   "plural": "Computer"
+   "plural": "Computer",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mun9woaj80t8g",
@@ -186,7 +188,7 @@
   },
   {
    "id": "muna12vbrpo04",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Museum",
@@ -194,8 +196,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Museen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muna19vgejohv",
@@ -355,12 +357,14 @@
   },
   {
    "id": "muna50c9lzgj2",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "what",
    "de": "was",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna5449sfef6",
@@ -465,14 +469,16 @@
   },
   {
    "id": "muo0in68zwzu1",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Name",
    "de": "Name",
    "level": "A1.1",
    "article": "der",
-   "plural": "Namen"
+   "plural": "Namen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0j9d6g4lrr",
@@ -563,13 +569,15 @@
   {
    "id": "muo0mxcr37dfc",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Phone number",
    "de": "Handynummer",
    "level": "A1.1",
    "article": "die",
-   "plural": "Handynummern"
+   "plural": "Handynummern",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo0ntavsrdok",

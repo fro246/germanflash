@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767871214,
+ "updatedAt": 1790767886177,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -906,6 +906,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Texte"
+  },
+  {
+   "id": "muo0yo9tgaalc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Word",
+   "de": "Wort",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Wörter"
   }
  ]
 }

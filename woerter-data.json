@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769016558,
+ "updatedAt": 1790769085798,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -973,6 +973,17 @@
    "plural": "Koffer",
    "box": 2,
    "streak": 4
+  },
+  {
+   "id": "muo1odwmnkhsw",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Hairdresser",
+   "de": "Friseur",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Friseure"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790765966989,
+ "updatedAt": 1790767138256,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -450,6 +450,17 @@
     "ihr": "buchstabiert",
     "sie": "buchstabieren"
    }
+  },
+  {
+   "id": "muo0in68zwzu1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Name",
+   "de": "Name",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Namen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767287500,
+ "updatedAt": 1790767338075,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -545,6 +545,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Städte"
+  },
+  {
+   "id": "muo0mxcr37dfc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Phone number",
+   "de": "Handynummer",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Handynummern"
   }
  ]
 }

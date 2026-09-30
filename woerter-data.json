@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790797149615,
+ "updatedAt": 1790797179519,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1649,6 +1649,15 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Geburtsorte"
+  },
+  {
+   "id": "muoiej5rtopii",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "male",
+   "de": "männlich",
+   "level": "A1.1"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769929013,
+ "updatedAt": 1790769938030,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1354,6 +1354,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Nachmittage"
+  },
+  {
+   "id": "muo26nhqw2u16",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Moment",
+   "de": "Moment",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Momente"
   }
  ]
 }

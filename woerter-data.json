@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790768645774,
+ "updatedAt": 1790768943271,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -426,7 +426,7 @@
   },
   {
    "id": "muna84u5fefhj",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Letters (spelling)",
@@ -434,12 +434,12 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Buchstaben",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muna8rltza7um",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Number",
@@ -447,8 +447,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Zahlen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muna9j1hemjsh",

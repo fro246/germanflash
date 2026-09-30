@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767180266,
+ "updatedAt": 1790767214428,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -483,6 +483,23 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Nachnamen"
+  },
+  {
+   "id": "muo0k9y4q4fca",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to be called",
+   "de": "heißen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "heiße",
+    "du": "heißt",
+    "er": "heißt",
+    "wir": "heißen",
+    "ihr": "heißt",
+    "sie": "heißen"
+   }
   }
  ]
 }

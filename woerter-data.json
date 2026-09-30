@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767475314,
+ "updatedAt": 1790767485555,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -620,6 +620,15 @@
    "type": "other",
    "en": "Good morning",
    "de": "Guten Morgen",
+   "level": "A1.1"
+  },
+  {
+   "id": "muo0q35fux1xu",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "Good day",
+   "de": "Guten Tag",
    "level": "A1.1"
   }
  ]

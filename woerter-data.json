@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769444061,
+ "updatedAt": 1790769504976,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1127,6 +1127,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Kurse"
+  },
+  {
+   "id": "muo1xdcgqjk9e",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Mechanic (female)",
+   "de": "Mechanikerin",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Mechanikerinnen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790796833477,
+ "updatedAt": 1790796878074,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1451,6 +1451,15 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Termine"
+  },
+  {
+   "id": "muoi82kadjz70",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "morning",
+   "de": "morgen",
+   "level": "A1.1"
   }
  ]
 }

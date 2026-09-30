@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769201289,
+ "updatedAt": 1790769231445,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1017,6 +1017,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Kellner"
+  },
+  {
+   "id": "muo1riadilvij",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cook/Chef",
+   "de": "Koch",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Köche"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790765956643,
+ "updatedAt": 1790765966989,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -122,14 +122,16 @@
   },
   {
    "id": "mun9zovs1psv2",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Soccer",
    "de": "Fußball",
    "level": "A1.1",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna0a417putl",

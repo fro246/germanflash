@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767635222,
+ "updatedAt": 1790767695916,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -759,6 +759,23 @@
     "wir": "notieren",
     "ihr": "notiert",
     "sie": "notieren"
+   }
+  },
+  {
+   "id": "muo0ulgsg1akn",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to guess",
+   "de": "raten",
+   "level": "A1.1",
+   "forms": {
+    "ich": "rate",
+    "du": "räst",
+    "er": "rät",
+    "wir": "raten",
+    "ihr": "ratet",
+    "sie": "raten"
    }
   }
  ]

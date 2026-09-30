@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769583401,
+ "updatedAt": 1790769595265,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1171,6 +1171,23 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Studentinnen"
+  },
+  {
+   "id": "muo1zb0hc2ved",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to study",
+   "de": "studieren",
+   "level": "A1.1",
+   "forms": {
+    "ich": "studiere",
+    "du": "studierst",
+    "er": "studiert",
+    "wir": "studieren",
+    "ihr": "studiert",
+    "sie": "studieren"
+   }
   }
  ]
 }

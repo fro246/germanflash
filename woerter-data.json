@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769564226,
+ "updatedAt": 1790769583401,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1160,6 +1160,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Studenten"
+  },
+  {
+   "id": "muo1z1uxg3rou",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Student (female)",
+   "de": "Studentin",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Studentinnen"
   }
  ]
 }

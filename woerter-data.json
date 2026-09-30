@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769900226,
+ "updatedAt": 1790769916989,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1332,6 +1332,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Krankenhäuser"
+  },
+  {
+   "id": "muo267991d5p3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Evening",
+   "de": "Abend",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Abende"
   }
  ]
 }

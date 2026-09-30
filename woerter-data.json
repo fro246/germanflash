@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769668116,
+ "updatedAt": 1790769674734,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1232,6 +1232,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Taxis"
+  },
+  {
+   "id": "muo210by4ws4h",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Car",
+   "de": "Auto",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Autos"
   }
  ]
 }

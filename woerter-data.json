@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767936444,
+ "updatedAt": 1790767964778,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -681,7 +681,7 @@
    "hits": 0,
    "misses": 0,
    "type": "verb",
-   "en": "ask",
+   "en": "to ask",
    "de": "fragen",
    "level": "A1.1",
    "forms": {

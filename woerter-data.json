@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767886177,
+ "updatedAt": 1790767905954,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -917,6 +917,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Wörter"
+  },
+  {
+   "id": "muo0z3j5s48dy",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Highway",
+   "de": "Autobahn",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Autobahnen"
   }
  ]
 }

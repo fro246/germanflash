@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767214428,
+ "updatedAt": 1790767240198,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -499,6 +499,23 @@
     "wir": "heißen",
     "ihr": "heißt",
     "sie": "heißen"
+   }
+  },
+  {
+   "id": "muo0kttyr7kkl",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to be",
+   "de": "sein",
+   "level": "A1.1",
+   "forms": {
+    "ich": "bin",
+    "du": "bist",
+    "er": "ist",
+    "wir": "sind",
+    "ihr": "seid",
+    "sie": "sind"
    }
   }
  ]

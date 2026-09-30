@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790770526820,
+ "updatedAt": 1790796814098,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1431,6 +1431,15 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Jahre"
+  },
+  {
+   "id": "muoi6p76ohmlj",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "old",
+   "de": "alt",
+   "level": "A1.1"
   }
  ]
 }

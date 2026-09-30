@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767138256,
+ "updatedAt": 1790767167018,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -461,6 +461,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Namen"
+  },
+  {
+   "id": "muo0j9d6g4lrr",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "First name",
+   "de": "Vorname",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Vornamen"
   }
  ]
 }

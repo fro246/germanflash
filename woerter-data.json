@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790768280834,
+ "updatedAt": 1790768645774,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -106,7 +106,7 @@
   },
   {
    "id": "mun9y2mzn8vgv",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Female friend",
@@ -114,8 +114,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Freundinen",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mun9zdrkq0xnz",
@@ -569,7 +569,7 @@
   {
    "id": "muo0mxcr37dfc",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Phone number",
    "de": "Handynummer",
@@ -771,7 +771,7 @@
   {
    "id": "muo0ulgsg1akn",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to guess",
    "de": "raten",
@@ -783,7 +783,9 @@
     "wir": "raten",
     "ihr": "ratet",
     "sie": "raten"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo0uvlj5mtm6",

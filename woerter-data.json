@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790797126834,
+ "updatedAt": 1790797149615,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1638,6 +1638,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Geburtsdaten"
+  },
+  {
+   "id": "muoidw33l3ayz",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Birthplace",
+   "de": "Geburtsort",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Geburtsorte"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790723226025,
+ "updatedAt": 1790765956643,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -45,14 +45,16 @@
   },
   {
    "id": "mun9vgh87r3kc",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Cafe",
    "de": "Cafe",
    "level": "A1.1",
    "article": "das",
-   "plural": "Cafes"
+   "plural": "Cafes",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mun9vruhguaay",
@@ -187,14 +189,16 @@
   },
   {
    "id": "muna19vgejohv",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Music",
    "de": "Musik",
    "level": "A1.1",
    "article": "die",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna1webkyslx",
@@ -243,14 +247,16 @@
   },
   {
    "id": "muna2uh9tbtme",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Photo",
    "de": "Foto",
    "level": "A1.1",
    "article": "das",
-   "plural": "Fotos"
+   "plural": "Fotos",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna39eat794v",
@@ -402,7 +408,7 @@
   },
   {
    "id": "muna84u5fefhj",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Letters (spelling)",
@@ -410,8 +416,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Buchstaben",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muna8rltza7um",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767435734,
+ "updatedAt": 1790767453056,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -601,6 +601,17 @@
     "ihr": "sprecht",
     "sie": "sprechen"
    }
+  },
+  {
+   "id": "muo0pe2oy7h6l",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Language",
+   "de": "Sprache",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Sprachen"
   }
  ]
 }

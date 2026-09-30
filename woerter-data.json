@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790797038551,
+ "updatedAt": 1790797066246,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1605,6 +1605,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Hausnummern"
+  },
+  {
+   "id": "muoic3rabci8x",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Postal code",
+   "de": "Postleitzahl",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Postleitzahlen"
   }
  ]
 }

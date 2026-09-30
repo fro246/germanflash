@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769851272,
+ "updatedAt": 1790769877774,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1310,6 +1310,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "ärzte"
+  },
+  {
+   "id": "muo25czyk6jbr",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Doctor (female)",
+   "de": "Ärztin",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Ärztinnen"
   }
  ]
 }

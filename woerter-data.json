@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767525946,
+ "updatedAt": 1790767589672,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -675,6 +675,23 @@
    "en": "Goodbye",
    "de": "Auf Wiedersehen",
    "level": "A1.1"
+  },
+  {
+   "id": "muo0sbhkob2zf",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "ask",
+   "de": "fragen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "frage",
+    "du": "fragst",
+    "er": "fragt",
+    "wir": "fragen",
+    "ihr": "fragt",
+    "sie": "fragen"
+   }
   }
  ]
 }

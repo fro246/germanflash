@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769315774,
+ "updatedAt": 1790769339914,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1061,6 +1061,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Restaurants"
+  },
+  {
+   "id": "muo1ttzezm1x2",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Colleague",
+   "de": "Kollege",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Kollegen"
   }
  ]
 }

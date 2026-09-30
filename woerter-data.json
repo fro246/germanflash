@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790768171003,
+ "updatedAt": 1790768226886,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -34,14 +34,16 @@
   },
   {
    "id": "mun9v6b6dogtx",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Book",
    "de": "Buch",
    "level": "A1.1",
    "article": "das",
-   "plural": "Bücher"
+   "plural": "Bücher",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mun9vgh87r3kc",
@@ -89,18 +91,20 @@
   },
   {
    "id": "mun9xe7aqhzi8",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Friend",
    "de": "Freund",
    "level": "A1.1",
    "article": "der",
-   "plural": "Freunde"
+   "plural": "Freunde",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mun9y2mzn8vgv",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Female friend",
@@ -108,8 +112,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Freundinen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mun9zdrkq0xnz",
@@ -705,7 +709,7 @@
   },
   {
    "id": "muo0ssllq1ouq",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "read",
@@ -718,7 +722,9 @@
     "wir": "lesen",
     "ihr": "lest",
     "sie": "lesen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0t1uzno861",
@@ -913,14 +919,16 @@
   },
   {
    "id": "muo0z3j5s48dy",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Highway",
    "de": "Autobahn",
    "level": "A1.1",
    "article": "das",
-   "plural": "Autobahnen"
+   "plural": "Autobahnen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0zew4t5prn",

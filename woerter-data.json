@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769615033,
+ "updatedAt": 1790769636980,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1199,6 +1199,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Universitäten"
+  },
+  {
+   "id": "muo207787amtp",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Seminar",
+   "de": "Seminar",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Seminare"
   }
  ]
 }

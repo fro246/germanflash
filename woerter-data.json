@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769504976,
+ "updatedAt": 1790769531914,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1138,6 +1138,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Mechanikerinnen"
+  },
+  {
+   "id": "muo1xy4q4ezva",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Police officer",
+   "de": "Polizist",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Polizisten"
   }
  ]
 }

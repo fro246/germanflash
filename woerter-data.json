@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790796910584,
+ "updatedAt": 1790796916371,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1486,6 +1486,15 @@
    "type": "other",
    "en": "still",
    "de": "noch",
+   "level": "A1.1"
+  },
+  {
+   "id": "muoi8w43v9kbg",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "Monday",
+   "de": "Montag",
    "level": "A1.1"
   }
  ]

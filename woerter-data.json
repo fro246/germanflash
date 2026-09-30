@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790768120007,
+ "updatedAt": 1790768171003,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -101,13 +101,15 @@
   {
    "id": "mun9y2mzn8vgv",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Female friend",
    "de": "Freundin",
    "level": "A1.1",
    "article": "die",
-   "plural": "Freundinen"
+   "plural": "Freundinen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mun9zdrkq0xnz",
@@ -193,7 +195,7 @@
   },
   {
    "id": "muna19vgejohv",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Music",
@@ -201,8 +203,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muna1webkyslx",
@@ -266,7 +268,7 @@
   },
   {
    "id": "muna39eat794v",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to cook",
@@ -280,8 +282,8 @@
     "ihr": "kocht",
     "sie": "kochen"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muna3fdkay4na",
@@ -543,7 +545,7 @@
   },
   {
    "id": "muo0lubw31tju",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "City",
@@ -551,8 +553,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Städte",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo0mxcr37dfc",
@@ -933,14 +935,16 @@
   },
   {
    "id": "muo0zr24qy088",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Suitcase",
    "de": "Koffer",
    "level": "A1.1",
    "article": "der",
-   "plural": "Koffer"
+   "plural": "Koffer",
+   "box": 2,
+   "streak": 4
   }
  ]
 }

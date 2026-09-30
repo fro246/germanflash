@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767719651,
+ "updatedAt": 1790767729770,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -810,6 +810,23 @@
     "wir": "sammeln",
     "ihr": "sammelt",
     "sie": "sammeln"
+   }
+  },
+  {
+   "id": "muo0vbl6byn7e",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to write",
+   "de": "schrieben",
+   "level": "A1.1",
+   "forms": {
+    "ich": "schriebe",
+    "du": "schriebst",
+    "er": "schriebt",
+    "wir": "schrieben",
+    "ihr": "schriebt",
+    "sie": "schrieben"
    }
   }
  ]

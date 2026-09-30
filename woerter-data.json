@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767492409,
+ "updatedAt": 1790767498780,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -638,6 +638,15 @@
    "type": "other",
    "en": "Good evening",
    "de": "Guten Abend",
+   "level": "A1.1"
+  },
+  {
+   "id": "muo0qdcs1m138",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "Good night",
+   "de": "Gute Nacht",
    "level": "A1.1"
   }
  ]

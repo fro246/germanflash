@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767840913,
+ "updatedAt": 1790767862430,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -884,6 +884,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Partnerinnen"
+  },
+  {
+   "id": "muo0y5y67xfn9",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Person",
+   "de": "Person",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Personen"
   }
  ]
 }

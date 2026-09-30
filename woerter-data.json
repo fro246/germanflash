@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767695916,
+ "updatedAt": 1790767709047,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -776,6 +776,23 @@
     "wir": "raten",
     "ihr": "ratet",
     "sie": "raten"
+   }
+  },
+  {
+   "id": "muo0uvlj5mtm6",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to say",
+   "de": "sagen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "sage",
+    "du": "sagst",
+    "er": "sagt",
+    "wir": "sagen",
+    "ihr": "sagt",
+    "sie": "sagen"
    }
   }
  ]

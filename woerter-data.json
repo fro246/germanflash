@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790768030576,
+ "updatedAt": 1790768120007,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -135,7 +135,7 @@
   },
   {
    "id": "muna0a417putl",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to jog",
@@ -148,7 +148,9 @@
     "wir": "joggen",
     "ihr": "joggt",
     "sie": "joggen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna0njxd2aij",
@@ -215,7 +217,7 @@
   },
   {
    "id": "muna25x97orrj",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to swim",
@@ -228,7 +230,9 @@
     "wir": "schwimmen",
     "ihr": "schwimmt",
     "sie": "schwimmen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna2gubynz1k",
@@ -262,7 +266,7 @@
   },
   {
    "id": "muna39eat794v",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to cook",
@@ -275,7 +279,9 @@
     "wir": "kochen",
     "ihr": "kocht",
     "sie": "kochen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna3fdkay4na",
@@ -538,13 +544,15 @@
   {
    "id": "muo0lubw31tju",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "City",
    "de": "Stadt",
    "level": "A1.1",
    "article": "die",
-   "plural": "Städte"
+   "plural": "Städte",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo0mxcr37dfc",

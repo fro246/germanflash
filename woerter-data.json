@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769110002,
+ "updatedAt": 1790769165642,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -995,6 +995,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Friseurinnen"
+  },
+  {
+   "id": "muo1q3ii9vl55",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Journalist",
+   "de": "Journalist",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Journalisten"
   }
  ]
 }

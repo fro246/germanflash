@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790796951083,
+ "updatedAt": 1790796975314,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1550,6 +1550,17 @@
    "en": "Sunday",
    "de": "Sonntag",
    "level": "A1.1"
+  },
+  {
+   "id": "muoia5le22a1l",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Information",
+   "de": "Information",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Infornationen"
   }
  ]
 }

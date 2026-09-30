@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769231445,
+ "updatedAt": 1790769262422,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1028,6 +1028,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Köche"
+  },
+  {
+   "id": "muo1s66u3ccm7",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cook/Chef (female)",
+   "de": "Köchin",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Köchinnen"
   }
  ]
 }

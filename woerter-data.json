@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767623851,
+ "updatedAt": 1790767635222,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -742,6 +742,23 @@
     "wir": "machen",
     "ihr": "macht",
     "sie": "machen"
+   }
+  },
+  {
+   "id": "muo0tamuakq0w",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to note",
+   "de": "notieren",
+   "level": "A1.1",
+   "forms": {
+    "ich": "notiere",
+    "du": "notierst",
+    "er": "notiert",
+    "wir": "notieren",
+    "ihr": "notiert",
+    "sie": "notieren"
    }
   }
  ]

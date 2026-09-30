@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790769938030,
+ "updatedAt": 1790769953579,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1365,6 +1365,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Momente"
+  },
+  {
+   "id": "muo26zhn53fvs",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Hour",
+   "de": "Stunde",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Stunden"
   }
  ]
 }

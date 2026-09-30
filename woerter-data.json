@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767817258,
+ "updatedAt": 1790767840913,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -873,6 +873,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Partner"
+  },
+  {
+   "id": "muo0xpcho70cu",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Partner (female)",
+   "de": "Partnerin",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Partnerinnen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790767611849,
+ "updatedAt": 1790767623851,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -725,6 +725,23 @@
     "wir": "lesen",
     "ihr": "lest",
     "sie": "lesen"
+   }
+  },
+  {
+   "id": "muo0t1uzno861",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to do",
+   "de": "machen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "mache",
+    "du": "machst",
+    "er": "macht",
+    "wir": "machen",
+    "ihr": "macht",
+    "sie": "machen"
    }
   }
  ]

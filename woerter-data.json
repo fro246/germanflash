@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215962390,
+ "updatedAt": 1791215977124,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2485,6 +2485,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Regisseure"
+  },
+  {
+   "id": "muvfqtgkp14gu",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Exhibition",
+   "de": "Ausstellung",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Austellungen"
   }
  ]
 }

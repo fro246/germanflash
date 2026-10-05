@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214956632,
+ "updatedAt": 1791214966679,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2045,6 +2045,23 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Meere"
+  },
+  {
+   "id": "muvf55sngngqs",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "see",
+   "de": "sehen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "sehe",
+    "du": "sehst",
+    "er": "seht",
+    "wir": "sehen",
+    "ihr": "seht",
+    "sie": "sehen"
+   }
   }
  ]
 }

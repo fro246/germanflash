@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215632251,
+ "updatedAt": 1791215647485,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2331,6 +2331,17 @@
    "en": "already",
    "de": "schon",
    "level": "A1.1"
+  },
+  {
+   "id": "muvfjr3x47ayx",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Event",
+   "de": "Event",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Events"
   }
  ]
 }

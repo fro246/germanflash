@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215819353,
+ "updatedAt": 1791215835490,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2386,6 +2386,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Besucher"
+  },
+  {
+   "id": "muvfns6atuijh",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Guest",
+   "de": "Gast",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Gäste"
   }
  ]
 }

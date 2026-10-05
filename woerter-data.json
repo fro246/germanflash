@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215002817,
+ "updatedAt": 1791215010595,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2091,6 +2091,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Stadionen"
+  },
+  {
+   "id": "muvf63ojlo134",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Place",
+   "de": "Ort",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Orte"
   }
  ]
 }

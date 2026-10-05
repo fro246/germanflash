@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214948357,
+ "updatedAt": 1791214956632,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2034,6 +2034,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Flüsse"
+  },
+  {
+   "id": "muvf4y1kdleb5",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Sea",
+   "de": "Meer",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Meere"
   }
  ]
 }

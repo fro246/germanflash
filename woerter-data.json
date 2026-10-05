@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216027408,
+ "updatedAt": 1791216032077,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2554,6 +2554,17 @@
    "type": "noun",
    "en": "Fall (season)",
    "de": "Herbst",
+   "level": "A1.1",
+   "article": "der",
+   "plural": ""
+  },
+  {
+   "id": "muvfrzv1n52ka",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Winter",
+   "de": "Winter",
    "level": "A1.1",
    "article": "der",
    "plural": ""

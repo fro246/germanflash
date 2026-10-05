@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216040837,
+ "updatedAt": 1791216054926,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2579,6 +2579,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Monate"
+  },
+  {
+   "id": "muvfshhqm1uh8",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Group",
+   "de": "Gruppe",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Gruppen"
   }
  ]
 }

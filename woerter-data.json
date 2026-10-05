@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215340180,
+ "updatedAt": 1791215401784,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1797,7 +1797,7 @@
    "hits": 0,
    "misses": 0,
    "type": "verb",
-   "en": "go",
+   "en": "to go",
    "de": "gehen",
    "level": "A1.1",
    "forms": {

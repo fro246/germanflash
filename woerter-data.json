@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214709651,
+ "updatedAt": 1791214751575,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1880,6 +1880,17 @@
    "en": "really",
    "de": "wirklich",
    "level": "A1.1"
+  },
+  {
+   "id": "muvf0jtjfxq5p",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Perso",
+   "de": "Mensch",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Menschen"
   }
  ]
 }

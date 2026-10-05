@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215093684,
+ "updatedAt": 1791215108743,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2157,6 +2157,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Schiffe"
+  },
+  {
+   "id": "muvf87evx7qdf",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Airplane",
+   "de": "Flugzeug",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Flugzeuge"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215943430,
+ "updatedAt": 1791215962390,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2474,6 +2474,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Stars"
+  },
+  {
+   "id": "muvfqi3ag20y9",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Director",
+   "de": "Regisseur",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Regisseure"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214627018,
+ "updatedAt": 1791214635529,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1773,6 +1773,15 @@
     "ihr": "wartet",
     "sie": "warten"
    }
+  },
+  {
+   "id": "muvey2a12yh6q",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "all",
+   "de": "alle",
+   "level": "A1.1"
   }
  ]
 }

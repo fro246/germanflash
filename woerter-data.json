@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215989111,
+ "updatedAt": 1791216006706,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2513,6 +2513,17 @@
     "ihr": "findet",
     "sie": "finden"
    }
+  },
+  {
+   "id": "muvfrgaaxgupz",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Season",
+   "de": "Jahrzeit",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Jahrzeiten"
   }
  ]
 }

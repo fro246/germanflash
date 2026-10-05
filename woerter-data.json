@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214783221,
+ "updatedAt": 1791214801879,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1913,6 +1913,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Rathäuser"
+  },
+  {
+   "id": "muvf1mmvyq1pq",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Concert Hall",
+   "de": "Konzerthaus",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Konzerthäuser"
   }
  ]
 }

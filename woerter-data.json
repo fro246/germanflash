@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215072463,
+ "updatedAt": 1791215093684,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2146,6 +2146,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Züge"
+  },
+  {
+   "id": "muvf7vsk68stv",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Ship",
+   "de": "Schiff",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Schiffe"
   }
  ]
 }

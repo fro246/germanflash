@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215588810,
+ "updatedAt": 1791215606779,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2289,6 +2289,17 @@
     "ihr": "zeichnt",
     "sie": "zeichnen"
    }
+  },
+  {
+   "id": "muvfivp76szvy",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Plan",
+   "de": "Plan",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Pläne"
   }
  ]
 }

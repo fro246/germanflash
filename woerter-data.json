@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215108743,
+ "updatedAt": 1791215120384,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2168,6 +2168,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Flugzeuge"
+  },
+  {
+   "id": "muvf8ge86njd1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Ticket",
+   "de": "Fahrkarte",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Fahrkarten"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216117071,
+ "updatedAt": 1791216130153,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2663,6 +2663,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Welten"
+  },
+  {
+   "id": "muvfu3jdxhoqu",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Solution",
+   "de": "Lösung",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Lösungen"
   }
  ]
 }

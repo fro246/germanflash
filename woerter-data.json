@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215157574,
+ "updatedAt": 1791215179782,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2199,6 +2199,24 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Wege"
+  },
+  {
+   "id": "muvf9o6t9fqwn",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "right",
+   "de": "rechts",
+   "level": "A1.1"
+  },
+  {
+   "id": "muvf9q861dfe6",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "left",
+   "de": "links",
+   "level": "A1.1"
   }
  ]
 }

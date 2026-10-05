@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214620202,
+ "updatedAt": 1791214627018,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1755,6 +1755,23 @@
     "wir": "suchen",
     "ihr": "sucht",
     "sie": "suchen"
+   }
+  },
+  {
+   "id": "muvexvpmkbpcq",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "wait",
+   "de": "warten",
+   "level": "A1.1",
+   "forms": {
+    "ich": "warte",
+    "du": "wartest",
+    "er": "wartet",
+    "wir": "warten",
+    "ihr": "wartet",
+    "sie": "warten"
    }
   }
  ]

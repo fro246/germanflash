@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215673288,
+ "updatedAt": 1791215809107,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2364,6 +2364,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Tickets"
+  },
+  {
+   "id": "muvfn7tf00p9e",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Audience",
+   "de": "Publikum",
+   "level": "A1.1",
+   "article": "das",
+   "plural": ""
   }
  ]
 }

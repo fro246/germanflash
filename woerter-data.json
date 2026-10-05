@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216054926,
+ "updatedAt": 1791216064211,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2590,6 +2590,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Gruppen"
+  },
+  {
+   "id": "muvfsonnrcwqc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Picture",
+   "de": "Bild",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Bilder"
   }
  ]
 }

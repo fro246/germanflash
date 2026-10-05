@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215922232,
+ "updatedAt": 1791215943430,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2463,6 +2463,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Schauspieler"
+  },
+  {
+   "id": "muvfq3gms6131",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Star (of a show/movie)",
+   "de": "Star",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Stars"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216015002,
+ "updatedAt": 1791216020881,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2532,6 +2532,17 @@
    "type": "noun",
    "en": "Spring",
    "de": "Frühling",
+   "level": "A1.1",
+   "article": "der",
+   "plural": ""
+  },
+  {
+   "id": "muvfrr81vmww0",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Summer",
+   "de": "Sommer",
    "level": "A1.1",
    "article": "der",
    "plural": ""

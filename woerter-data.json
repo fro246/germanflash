@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215647485,
+ "updatedAt": 1791215654006,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2342,6 +2342,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Events"
+  },
+  {
+   "id": "muvfjw52c3buo",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Festival",
+   "de": "Festival",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Festivals"
   }
  ]
 }

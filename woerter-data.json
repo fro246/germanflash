@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215128149,
+ "updatedAt": 1791215157574,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2188,6 +2188,17 @@
    "en": "fast",
    "de": "schnell",
    "level": "A1.1"
+  },
+  {
+   "id": "muvf993amf44w",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Way",
+   "de": "Weg",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Wege"
   }
  ]
 }

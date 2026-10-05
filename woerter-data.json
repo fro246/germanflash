@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215606779,
+ "updatedAt": 1791215615072,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2300,6 +2300,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Pläne"
+  },
+  {
+   "id": "muvfj23k0l09b",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Start",
+   "de": "Start",
+   "level": "A1.1",
+   "article": "der",
+   "plural": ""
   }
  ]
 }

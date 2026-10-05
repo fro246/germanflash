@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214687879,
+ "updatedAt": 1791214691740,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1825,6 +1825,15 @@
    "type": "other",
    "en": "big",
    "de": "groß",
+   "level": "A1.1"
+  },
+  {
+   "id": "muvez9ngtimtp",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "funny",
+   "de": "lustig",
    "level": "A1.1"
   }
  ]

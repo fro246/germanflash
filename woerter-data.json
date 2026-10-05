@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216104522,
+ "updatedAt": 1791216117071,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2652,6 +2652,17 @@
    "en": "now",
    "de": "jetzt",
    "level": "A1.1"
+  },
+  {
+   "id": "muvfttfz59711",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "World",
+   "de": "Welt",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Welten"
   }
  ]
 }

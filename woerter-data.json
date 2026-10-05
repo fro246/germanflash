@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215497811,
+ "updatedAt": 1791215588810,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2271,6 +2271,23 @@
     "wir": "zeigen",
     "ihr": "zeigt",
     "sie": "zeigen"
+   }
+  },
+  {
+   "id": "muvfihu2tovlb",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to draw",
+   "de": "zeichnen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "zeichne",
+    "du": "zeichnst",
+    "er": "zeichnt",
+    "wir": "zeichnen",
+    "ihr": "zeichnt",
+    "sie": "zeichnen"
    }
   }
  ]

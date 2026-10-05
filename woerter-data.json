@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214966679,
+ "updatedAt": 1791214980229,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2062,6 +2062,15 @@
     "ihr": "seht",
     "sie": "sehen"
    }
+  },
+  {
+   "id": "muvf5g9133k0q",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "interesting",
+   "de": "interessant",
+   "level": "A1.1"
   }
  ]
 }

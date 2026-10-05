@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215197639,
+ "updatedAt": 1791215204294,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2234,6 +2234,15 @@
    "type": "other",
    "en": "correct",
    "de": "richtig",
+   "level": "A1.1"
+  },
+  {
+   "id": "muvfa952sxbok",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "exactly",
+   "de": "genau",
    "level": "A1.1"
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214986958,
+ "updatedAt": 1791215002817,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2080,6 +2080,17 @@
    "en": "beautiful",
    "de": "schön",
    "level": "A1.1"
+  },
+  {
+   "id": "muvf5xoh6y7a9",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Stadium",
+   "de": "Stadion",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Stadionen"
   }
  ]
 }

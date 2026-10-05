@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214638803,
+ "updatedAt": 1791214665461,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1791,6 +1791,23 @@
    "en": "here",
    "de": "hier",
    "level": "A1.1"
+  },
+  {
+   "id": "muveypdhujdj8",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "go",
+   "de": "gehen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "gehe",
+    "du": "gehst",
+    "er": "geht",
+    "wir": "gehen",
+    "ihr": "geht",
+    "sie": "gehen"
+   }
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214934714,
+ "updatedAt": 1791214948357,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2023,6 +2023,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Seen"
+  },
+  {
+   "id": "muvf4rnpqfrb9",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "River",
+   "de": "Fluss",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Flüsse"
   }
  ]
 }

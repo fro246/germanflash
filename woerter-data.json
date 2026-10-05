@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214665461,
+ "updatedAt": 1791214681842,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1808,6 +1808,15 @@
     "ihr": "geht",
     "sie": "gehen"
    }
+  },
+  {
+   "id": "muvez20ic53p0",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "unfortunately",
+   "de": "leider",
+   "level": "A1.1"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215451575,
+ "updatedAt": 1791215461937,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2051,7 +2051,7 @@
    "hits": 0,
    "misses": 0,
    "type": "verb",
-   "en": "see",
+   "en": "to see",
    "de": "sehen",
    "level": "A1.1",
    "forms": {

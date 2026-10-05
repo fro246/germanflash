@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215204294,
+ "updatedAt": 1791215327489,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2244,6 +2244,17 @@
    "en": "exactly",
    "de": "genau",
    "level": "A1.1"
+  },
+  {
+   "id": "muvfcw757f82v",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Middle",
+   "de": "Mitte",
+   "level": "A1.1",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

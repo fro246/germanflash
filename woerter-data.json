@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215654006,
+ "updatedAt": 1791215673288,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2353,6 +2353,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Festivals"
+  },
+  {
+   "id": "muvfkb0o36f4v",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Ticket (international)",
+   "de": "Ticket",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Tickets"
   }
  ]
 }

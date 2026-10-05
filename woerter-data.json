@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215419246,
+ "updatedAt": 1791215433338,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1728,7 +1728,7 @@
    "hits": 0,
    "misses": 0,
    "type": "verb",
-   "en": "match",
+   "en": "to match",
    "de": "passen",
    "level": "A1.1",
    "forms": {

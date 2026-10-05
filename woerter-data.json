@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216064211,
+ "updatedAt": 1791216072792,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2601,6 +2601,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Bilder"
+  },
+  {
+   "id": "muvfsva0y2gaz",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Poster",
+   "de": "Plakat",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Plakate"
   }
  ]
 }

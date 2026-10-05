@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214599454,
+ "updatedAt": 1791214612043,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1722,6 +1722,23 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Zimmer"
+  },
+  {
+   "id": "muvexk5ncfjcp",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "match",
+   "de": "passen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "passe",
+    "du": "passt",
+    "er": "passt",
+    "wir": "passen",
+    "ihr": "passt",
+    "sie": "passen"
+   }
   }
  ]
 }

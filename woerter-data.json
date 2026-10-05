@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216130153,
+ "updatedAt": 1791216283393,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -570,7 +570,7 @@
   },
   {
    "id": "muo0mxcr37dfc",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Phone number",
@@ -578,8 +578,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Handynummern",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo0ntavsrdok",
@@ -1076,13 +1076,15 @@
   {
    "id": "muo1u81bbt2zi",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Colleague (female)",
    "de": "Kollegin",
    "level": "A1.1",
    "article": "die",
-   "plural": "Kolleginnen"
+   "plural": "Kolleginnen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo1unkc49tp2",
@@ -2582,14 +2584,16 @@
   },
   {
    "id": "muvfshhqm1uh8",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Group",
    "de": "Gruppe",
    "level": "A1.1",
    "article": "die",
-   "plural": "Gruppen"
+   "plural": "Gruppen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvfsonnrcwqc",

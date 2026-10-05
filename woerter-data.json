@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214925916,
+ "updatedAt": 1791214934714,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2012,6 +2012,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Häfen"
+  },
+  {
+   "id": "muvf4h4qbfe3y",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Lake",
+   "de": "See",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Seen"
   }
  ]
 }

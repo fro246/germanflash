@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215401784,
+ "updatedAt": 1791215419246,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -724,7 +724,7 @@
    "hits": 1,
    "misses": 0,
    "type": "verb",
-   "en": "read",
+   "en": "to read",
    "de": "lesen",
    "level": "A1.1",
    "forms": {

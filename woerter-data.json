@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215461937,
+ "updatedAt": 1791215497811,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1762,7 +1762,7 @@
    "hits": 0,
    "misses": 0,
    "type": "verb",
-   "en": "wait",
+   "en": "to wait",
    "de": "warten",
    "level": "A1.1",
    "forms": {

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214870841,
+ "updatedAt": 1791214903820,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1990,6 +1990,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Märkte"
+  },
+  {
+   "id": "muvf3tak7xh06",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Train Station",
+   "de": "Bahnhof",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Banhöfe"
   }
  ]
 }

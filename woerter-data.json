@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215120384,
+ "updatedAt": 1791215128149,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2179,6 +2179,15 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Fahrkarten"
+  },
+  {
+   "id": "muvf8mdx94nld",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "fast",
+   "de": "schnell",
+   "level": "A1.1"
   }
  ]
 }

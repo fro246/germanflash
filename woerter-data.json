@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215433338,
+ "updatedAt": 1791215451575,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1745,7 +1745,7 @@
    "hits": 0,
    "misses": 0,
    "type": "verb",
-   "en": "search",
+   "en": "to search",
    "de": "suchen",
    "level": "A1.1",
    "forms": {

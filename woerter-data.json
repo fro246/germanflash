@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214751575,
+ "updatedAt": 1791214764293,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1891,6 +1891,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Menschen"
+  },
+  {
+   "id": "muvf0tmtu9g6m",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "House",
+   "de": "Haus",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Häuser"
   }
  ]
 }

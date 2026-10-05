@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1790797448767,
+ "updatedAt": 1791214550230,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1678,6 +1678,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Formulare"
+  },
+  {
+   "id": "muvew8gmctz6g",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Example",
+   "de": "Beispiel",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Beispiele"
   }
  ]
 }

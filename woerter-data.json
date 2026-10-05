@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216081120,
+ "updatedAt": 1791216090373,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2623,6 +2623,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": ""
+  },
+  {
+   "id": "muvft8udjxq2p",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Test",
+   "de": "Test",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Tests"
   }
  ]
 }

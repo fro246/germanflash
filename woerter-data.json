@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216006706,
+ "updatedAt": 1791216015002,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2524,6 +2524,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Jahrzeiten"
+  },
+  {
+   "id": "muvfrmoqujpf9",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Spring",
+   "de": "Frühling",
+   "level": "A1.1",
+   "article": "der",
+   "plural": ""
   }
  ]
 }

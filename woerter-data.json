@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215327489,
+ "updatedAt": 1791215340180,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2255,6 +2255,23 @@
    "level": "A1.1",
    "article": "die",
    "plural": ""
+  },
+  {
+   "id": "muvfd5zot9tfo",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to indicate",
+   "de": "zeigen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "zeige",
+    "du": "zeigst",
+    "er": "zeigt",
+    "wir": "zeigen",
+    "ihr": "zeigt",
+    "sie": "zeigen"
+   }
   }
  ]
 }

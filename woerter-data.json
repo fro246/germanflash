@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791216090373,
+ "updatedAt": 1791216097685,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2634,6 +2634,15 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Tests"
+  },
+  {
+   "id": "muvftehhq3lxw",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "today",
+   "de": "heute",
+   "level": "A1.1"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214903820,
+ "updatedAt": 1791214925916,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2001,6 +2001,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Banhöfe"
+  },
+  {
+   "id": "muvf4acc0d1h5",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Port",
+   "de": "Hafen",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Häfen"
   }
  ]
 }

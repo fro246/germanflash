@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215859825,
+ "updatedAt": 1791215873505,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2419,6 +2419,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Orchester"
+  },
+  {
+   "id": "muvfoli9x4cb1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Choir",
+   "de": "Chor",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Chöre"
   }
  ]
 }

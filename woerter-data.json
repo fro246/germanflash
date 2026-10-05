@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214839237,
+ "updatedAt": 1791214850959,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1957,6 +1957,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Hotels"
+  },
+  {
+   "id": "muvf2oi7svucx",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Bridge",
+   "de": "Brücke",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Brücken"
   }
  ]
 }

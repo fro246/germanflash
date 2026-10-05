@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791214694820,
+ "updatedAt": 1791214702113,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1843,6 +1843,24 @@
    "type": "other",
    "en": "new",
    "de": "neu",
+   "level": "A1.1"
+  },
+  {
+   "id": "muvezffy0eksr",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "great",
+   "de": "toll",
+   "level": "A1.1"
+  },
+  {
+   "id": "muvezhnl70xvk",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "super",
+   "de": "super",
    "level": "A1.1"
   }
  ]

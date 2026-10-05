@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791215010595,
+ "updatedAt": 1791215035260,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2102,6 +2102,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Orte"
+  },
+  {
+   "id": "muvf6mpooi418",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Bicycle",
+   "de": "Fahrrad",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Fahrräder"
   }
  ]
 }

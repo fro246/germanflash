@@ -458,7 +458,8 @@
       hint = w.type === "noun" ? (w.plural ? "Type the article, the noun and its plural." : "Type the article and the noun (this one has no plural).") :
              w.type === "verb" ? "Type the infinitive and these 3 present-tense forms." : "Type the German word.";
     }
-    var html = '<div class="card ' + (w.type === "noun" ? esc(w.article) : "") + '">' +
+    // In English → German the article color would give away the answer, so it is only shown after checking
+    var html = '<div class="card ' + (w.type === "noun" && dir === "de2en" ? esc(w.article) : "") + '">' +
       '<span class="tag">' + tagName + (w.level ? '<span class="lv">' + esc(w.level) + '</span>' : '') + '</span><div class="prompt">' + prompt + '</div><p class="hint">' + hint + "</p>" +
       '<div class="fields' + (dir === "en2de" && w.type === "verb" ? " grid2" : "") + '">';
     fields.forEach(function (f, i) {
@@ -493,6 +494,7 @@
     });
     if (giveUp) allOk = false;
     checked = true;
+    if (w.type === "noun") $("practiceArea").querySelector(".card").classList.add(w.article);
     stats.total++; if (allOk) stats.right++;
     var wasMissed = isMissed(w);
     w.hits = (w.hits || 0) + (allOk ? 1 : 0); w.misses = (w.misses || 0) + (allOk ? 0 : 1);

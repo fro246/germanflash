@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791292541367,
+ "updatedAt": 1791292773749,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1090,14 +1090,16 @@
   },
   {
    "id": "muo1unkc49tp2",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Company",
    "de": "Firma",
    "level": "A1.1",
    "article": "die",
-   "plural": "Firmen"
+   "plural": "Firmen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo1v20phap23",
@@ -1206,14 +1208,16 @@
   },
   {
    "id": "muo207787amtp",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Seminar",
    "de": "Seminar",
    "level": "A1.1",
    "article": "das",
-   "plural": "Seminare"
+   "plural": "Seminare",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo20nj3d8u2k",
@@ -1494,12 +1498,14 @@
   },
   {
    "id": "muoi8w43v9kbg",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "Monday",
    "de": "Montag",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muoi900h3pfsy",
@@ -1966,14 +1972,16 @@
   },
   {
    "id": "muvf2oi7svucx",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Bridge",
    "de": "Brücke",
    "level": "A1.1",
    "article": "die",
-   "plural": "Brücken"
+   "plural": "Brücken",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf2toeqezbq",
@@ -2265,7 +2273,7 @@
   {
    "id": "muvfd5zot9tfo",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to indicate",
    "de": "zeigen",
@@ -2277,7 +2285,9 @@
     "wir": "zeigen",
     "ihr": "zeigt",
     "sie": "zeigen"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvfihu2tovlb",

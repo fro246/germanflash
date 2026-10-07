@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361345978,
+ "updatedAt": 1791361383170,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3873,6 +3873,23 @@
     "wir": "schneiden",
     "ihr": "schneidet",
     "sie": "schneiden"
+   }
+  },
+  {
+   "id": "muxubdhesdbij",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to sleep",
+   "de": "schlafen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "schlafe",
+    "du": "schläfst",
+    "er": "schläft",
+    "wir": "schlafen",
+    "ihr": "schlaft",
+    "sie": "schlafen"
    }
   }
  ]

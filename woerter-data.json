@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361458909,
+ "updatedAt": 1791361472820,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3975,6 +3975,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Mensen"
+  },
+  {
+   "id": "muxudanoh6xeb",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Library",
+   "de": "Bibliothek",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Bibliotheken"
   }
  ]
 }

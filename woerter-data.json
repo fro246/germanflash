@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360087157,
+ "updatedAt": 1791360104438,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3099,6 +3099,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Müslis"
+  },
+  {
+   "id": "muxtjyt2vv9q5",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Drink",
+   "de": "Getränk",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Getränke"
   }
  ]
 }

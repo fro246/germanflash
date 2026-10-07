@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360892408,
+ "updatedAt": 1791360906913,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3750,6 +3750,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Nächte"
+  },
+  {
+   "id": "muxu1601g1966",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Invitation",
+   "de": "Einladung",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Einladungen"
   }
  ]
 }

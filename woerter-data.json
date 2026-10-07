@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394492363,
+ "updatedAt": 1791394539119,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1481,13 +1481,15 @@
   {
    "id": "muo289xt916e6",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Weekday",
    "de": "Wochentag",
    "level": "A1.1",
    "article": "der",
-   "plural": "Wochentage"
+   "plural": "Wochentage",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo28hferjwiu",
@@ -3269,14 +3271,16 @@
   },
   {
    "id": "muxtj30svfwmh",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Chocolate",
    "de": "Schokolade",
    "level": "A1.1",
    "article": "die",
-   "plural": "Schokoladen"
+   "plural": "Schokoladen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtjcbizfk42",
@@ -4661,14 +4665,14 @@
   },
   {
    "id": "muxums5vet8wg",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "other",
    "en": "married",
    "de": "verheiratet",
    "level": "A1.1",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxun2gh9meej",
@@ -5806,7 +5810,7 @@
   },
   {
    "id": "muxw9hulcw2uy",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to come along",
@@ -5820,8 +5824,8 @@
     "ihr": "kommt mit",
     "sie": "kommen mit"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxw9w7a8cr5u",

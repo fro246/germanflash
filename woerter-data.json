@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359718999,
+ "updatedAt": 1791359731688,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2824,6 +2824,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Brote"
+  },
+  {
+   "id": "muxtbz6wtc2yp",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Bread roll",
+   "de": "Brötchen",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Brötchen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361825796,
+ "updatedAt": 1791361846674,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4290,6 +4290,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Omas"
+  },
+  {
+   "id": "muxulb4ib23a1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Grandfather",
+   "de": "Großvater",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Großväter"
   }
  ]
 }

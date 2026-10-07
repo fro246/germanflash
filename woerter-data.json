@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366295786,
+ "updatedAt": 1791366343587,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1995,14 +1995,16 @@
   },
   {
    "id": "muvf2fglzs9xa",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Hotel",
    "de": "Hotel",
    "level": "A1.1",
    "article": "das",
-   "plural": "Hotels"
+   "plural": "Hotels",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf2oi7svucx",
@@ -2753,7 +2755,7 @@
   },
   {
    "id": "muxt8uf75wdjf",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Fruit",
@@ -2761,8 +2763,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxt98oteads8",
@@ -3010,14 +3012,16 @@
   },
   {
    "id": "muxtfoyol1u58",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Milk",
    "de": "Milch",
    "level": "A1.1",
    "article": "die",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtftihib9ks",
@@ -3331,14 +3335,16 @@
   },
   {
    "id": "muxtofh8lwtos",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Small bag",
    "de": "Tüte",
    "level": "A1.1",
    "article": "die",
-   "plural": "Tüten"
+   "plural": "Tüten",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtop1dvuq8h",
@@ -3392,7 +3398,7 @@
   },
   {
    "id": "muxtpyr4urkf8",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "To go shopping",
@@ -3405,7 +3411,9 @@
     "wir": "kaufen ein",
     "ihr": "kauft ein",
     "sie": "kaufen ein"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtq5vug5yyf",
@@ -5060,13 +5068,15 @@
   {
    "id": "muxvww21obzdj",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Salutation (email)",
    "de": "Anrede",
    "level": "A1.1",
    "article": "die",
-   "plural": "Anreden"
+   "plural": "Anreden",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxvx677pje1v",
@@ -5456,14 +5466,14 @@
   },
   {
    "id": "muxw61em4b8sp",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "other",
    "en": "outside",
    "de": "draußen",
    "level": "A1.1",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxw7j5th0m1l",

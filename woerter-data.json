@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361984503,
+ "updatedAt": 1791362023310,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4407,6 +4407,23 @@
     "wir": "können",
     "ihr": "könnt",
     "sie": "können"
+   }
+  },
+  {
+   "id": "muxup3f2clez2",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "has to (verb)",
+   "de": "müssen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "muss",
+    "du": "musst",
+    "er": "muss",
+    "wir": "müssen",
+    "ihr": "müsst",
+    "sie": "müssen"
    }
   }
  ]

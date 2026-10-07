@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360126074,
+ "updatedAt": 1791360141097,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3132,6 +3132,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Säfte"
+  },
+  {
+   "id": "muxtkr3dtt5x9",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Lemonade",
+   "de": "Limonade",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Limonaden"
   }
  ]
 }

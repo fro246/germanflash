@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367280523,
+ "updatedAt": 1791367337355,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -74,7 +74,7 @@
   {
    "id": "mun9woaj80t8g",
    "hits": 2,
-   "misses": 5,
+   "misses": 6,
    "type": "noun",
    "en": "Appointment",
    "de": "Verabredung",
@@ -681,14 +681,14 @@
   },
   {
    "id": "muo0qq9eevm5n",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "other",
    "en": "Until later",
    "de": "bis bald",
    "level": "A1.1",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muo0qybewg2x2",
@@ -2632,7 +2632,7 @@
   },
   {
    "id": "muvfrgaaxgupz",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Season",
@@ -2640,8 +2640,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Jahrzeiten",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfrmoqujpf9",
@@ -4012,7 +4012,7 @@
   },
   {
    "id": "muxu3lthn8d38",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to cut",
@@ -4026,8 +4026,8 @@
     "ihr": "schneidet",
     "sie": "schneiden"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxubdhesdbij",
@@ -4579,7 +4579,7 @@
   },
   {
    "id": "muxup3f2clez2",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "has to (verb)",
@@ -4592,7 +4592,9 @@
     "wir": "müssen",
     "ihr": "müsst",
     "sie": "müssen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxupjgkpu1lf",

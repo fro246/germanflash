@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360039575,
+ "updatedAt": 1791360049265,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3055,6 +3055,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Eier"
+  },
+  {
+   "id": "muxtis8hgfj6e",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Fish",
+   "de": "Fisch",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Fische"
   }
  ]
 }

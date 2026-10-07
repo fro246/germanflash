@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791368175507,
+ "updatedAt": 1791391261610,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1383,14 +1383,16 @@
   },
   {
    "id": "muo267991d5p3",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Evening",
    "de": "Abend",
    "level": "A1.1",
    "article": "der",
-   "plural": "Abende"
+   "plural": "Abende",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo26gj9ovd2k",
@@ -1990,7 +1992,7 @@
   },
   {
    "id": "muvf0tmtu9g6m",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "House",
@@ -1998,8 +2000,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Häuser",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvf188l2tfyt",
@@ -4259,7 +4261,7 @@
   {
    "id": "muxuelygiu3c8",
    "hits": 0,
-   "misses": 3,
+   "misses": 5,
    "type": "noun",
    "en": "Homepage",
    "de": "Homepage",
@@ -5175,7 +5177,7 @@
   },
   {
    "id": "muxvurqccgm92",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "noun",
    "en": "Surprise",
@@ -5183,8 +5185,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Überraschungen",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muxvv1yvvb5f7",
@@ -5199,14 +5201,14 @@
   },
   {
    "id": "muxvvd5mzxhhy",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "other",
    "en": "hopefully",
    "de": "hoffentlich",
    "level": "A1.1",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxvvyac2qm69",
@@ -5974,14 +5976,14 @@
   },
   {
    "id": "muxwjm78r2xac",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "again",
    "de": "wieder",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxwjr9678xia",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364678487,
+ "updatedAt": 1791364689917,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5461,6 +5461,23 @@
     "wir": "enden",
     "ihr": "endet",
     "sie": "enden"
+   }
+  },
+  {
+   "id": "muxwa8zhybohx",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to pickup",
+   "de": "abholen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "abhole",
+    "du": "abholst",
+    "er": "abholt",
+    "wir": "abholen",
+    "ihr": "abholt",
+    "sie": "abholen"
    }
   }
  ]

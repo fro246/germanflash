@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360147539,
+ "updatedAt": 1791360157071,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3154,6 +3154,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Colas"
+  },
+  {
+   "id": "muxtl3f3b987g",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Coffee",
+   "de": "Kaffee",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Kaffees"
   }
  ]
 }

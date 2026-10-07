@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365103807,
+ "updatedAt": 1791365118524,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5615,6 +5615,15 @@
     "ihr": "passiert",
     "sie": "passieren"
    }
+  },
+  {
+   "id": "muxwjfp8l8i5g",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "cold",
+   "de": "kalt",
+   "level": "A1.1"
   }
  ]
 }

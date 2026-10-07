@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367971645,
+ "updatedAt": 1791368028355,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -361,14 +361,14 @@
   },
   {
    "id": "muna50c9lzgj2",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "what",
    "de": "was",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muna5449sfef6",
@@ -2986,14 +2986,16 @@
   },
   {
    "id": "muxtc91bj7s73",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Cookies",
    "de": "Keks",
    "level": "A1.1",
    "article": "der",
-   "plural": "Kekse"
+   "plural": "Kekse",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtcetmqwcux",
@@ -3769,14 +3771,14 @@
   },
   {
    "id": "muxtwc6ftb9qr",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "deliscious",
    "de": "lecker",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtwkfuunafy",
@@ -3811,7 +3813,7 @@
   },
   {
    "id": "muxtxf7g2rprn",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Lunch",
@@ -3819,8 +3821,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Mittagessen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtxmawbg8hc",
@@ -4222,7 +4224,7 @@
   },
   {
    "id": "muxue2txdkofw",
-   "hits": 1,
+   "hits": 3,
    "misses": 0,
    "type": "noun",
    "en": "Homework",
@@ -4230,8 +4232,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Hausaufgaben",
-   "box": 2,
-   "streak": 4
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muxuee7i61uee",
@@ -5157,7 +5159,7 @@
   },
   {
    "id": "muxvurqccgm92",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Surprise",
@@ -5165,8 +5167,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Überraschungen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxvv1yvvb5f7",

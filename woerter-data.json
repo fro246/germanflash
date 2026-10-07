@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394673274,
+ "updatedAt": 1791394739895,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1539,12 +1539,14 @@
   },
   {
    "id": "muoi8cj0pnx0v",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "at night",
    "de": "nachts",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muoi8ojl6yhr2",
@@ -2459,7 +2461,7 @@
   },
   {
    "id": "muvfj23k0l09b",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Start",
@@ -2467,8 +2469,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muvfjajan7ktt",
@@ -3325,14 +3327,16 @@
   },
   {
    "id": "muxtk5xofl3ty",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Water",
    "de": "Wasser",
    "level": "A1.1",
    "article": "das",
-   "plural": "Wasser"
+   "plural": "Wasser",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtkfi2djq18",
@@ -3408,7 +3412,7 @@
   },
   {
    "id": "muxtm31n3g98y",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Market",
@@ -3416,8 +3420,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Märkten",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxtmleantav1",
@@ -5216,7 +5220,7 @@
   },
   {
    "id": "muxvt53y9v9k7",
-   "hits": 1,
+   "hits": 2,
    "misses": 3,
    "type": "verb",
    "en": "to become",
@@ -5230,8 +5234,8 @@
     "ihr": "werdet",
     "sie": "werden"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxvtmt4rr2hc",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360717984,
+ "updatedAt": 1791360732220,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3612,6 +3612,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Frühstrücke"
+  },
+  {
+   "id": "muxtxf7g2rprn",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Lunch",
+   "de": "Mittagessen",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Mittagessen"
   }
  ]
 }

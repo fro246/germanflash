@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364278155,
+ "updatedAt": 1791364290238,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5186,6 +5186,15 @@
     "ihr": "gebt",
     "sie": "geben"
    }
+  },
+  {
+   "id": "muxw1ola2m18w",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "Keep the change",
+   "de": "Stimmt so",
+   "level": "A1.1"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361403726,
+ "updatedAt": 1791361414029,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3924,6 +3924,23 @@
     "wir": "besuchen",
     "ihr": "besucht",
     "sie": "besuchen"
+   }
+  },
+  {
+   "id": "muxuc1alxss28",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to meet",
+   "de": "treffen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "treffe",
+    "du": "triffst",
+    "er": "trifft",
+    "wir": "treffen",
+    "ihr": "trefft",
+    "sie": "treffen"
    }
   }
  ]

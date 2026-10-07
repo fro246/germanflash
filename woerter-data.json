@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364290238,
+ "updatedAt": 1791364304616,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5195,6 +5195,17 @@
    "en": "Keep the change",
    "de": "Stimmt so",
    "level": "A1.1"
+  },
+  {
+   "id": "muxw1zoobk7q9",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Fork",
+   "de": "Gabel",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Gabeln"
   }
  ]
 }

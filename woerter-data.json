@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360157071,
+ "updatedAt": 1791360162498,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3165,6 +3165,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Kaffees"
+  },
+  {
+   "id": "muxtl7ltfdcys",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Tea",
+   "de": "Tee",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Tees"
   }
  ]
 }

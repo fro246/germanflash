@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362123692,
+ "updatedAt": 1791362144679,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4525,6 +4525,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Bälle"
+  },
+  {
+   "id": "muxurp2fe0sdo",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Motorcycle",
+   "de": "Motorrad",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Motorräder"
   }
  ]
 }

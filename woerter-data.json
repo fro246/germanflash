@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363914680,
+ "updatedAt": 1791363922975,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4879,6 +4879,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Geschenke"
+  },
+  {
+   "id": "muxvtt7j0mgox",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Date",
+   "de": "Datum",
+   "level": "A1.1",
+   "article": "das",
+   "plural": ""
   }
  ]
 }

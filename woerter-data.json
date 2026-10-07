@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791368122812,
+ "updatedAt": 1791368175507,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1991,15 +1991,15 @@
   {
    "id": "muvf0tmtu9g6m",
    "hits": 2,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "House",
    "de": "Haus",
    "level": "A1.1",
    "article": "das",
    "plural": "Häuser",
-   "box": 3,
-   "streak": 5
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvf188l2tfyt",
@@ -3062,14 +3062,16 @@
   },
   {
    "id": "muxteft2clswh",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Small sausage",
    "de": "Würstchen",
    "level": "A1.1",
    "article": "das",
-   "plural": "Würstchen"
+   "plural": "Würstchen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtesg8x462v",
@@ -3189,14 +3191,16 @@
   },
   {
    "id": "muxti686n7qwb",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Noodle",
    "de": "Nudel",
    "level": "A1.1",
    "article": "die",
-   "plural": "Nudeln"
+   "plural": "Nudeln",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtidv5w2605",
@@ -4255,7 +4259,7 @@
   {
    "id": "muxuelygiu3c8",
    "hits": 0,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Homepage",
    "de": "Homepage",
@@ -4646,7 +4650,7 @@
   },
   {
    "id": "muxuo9h3xzjoy",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "can (verb)",
@@ -4660,8 +4664,8 @@
     "ihr": "könnt",
     "sie": "können"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxup3f2clez2",
@@ -5196,11 +5200,13 @@
   {
    "id": "muxvvd5mzxhhy",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "hopefully",
    "de": "hoffentlich",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxvvyac2qm69",

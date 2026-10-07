@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364401245,
+ "updatedAt": 1791364416961,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5294,6 +5294,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Kaffeehäuser"
+  },
+  {
+   "id": "muxw4edd4xw9d",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Establishment / restaurant / place",
+   "de": "Lokal",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Lokale"
   }
  ]
 }

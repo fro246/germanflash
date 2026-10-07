@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365933855,
+ "updatedAt": 1791365987019,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -544,7 +544,7 @@
   },
   {
    "id": "muo0lbwq697u7",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to live",
@@ -557,7 +557,9 @@
     "wir": "wohnen",
     "ihr": "wohnt",
     "sie": "wohnen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0lubw31tju",
@@ -686,12 +688,14 @@
   },
   {
    "id": "muo0qybewg2x2",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "other",
    "en": "Goodbye",
    "de": "Auf Wiedersehen",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo0sbhkob2zf",
@@ -1599,7 +1603,7 @@
   },
   {
    "id": "muoiaumuzf06e",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Address",
@@ -1607,8 +1611,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Addressen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muoib5xgcb7l0",
@@ -2330,14 +2334,16 @@
   },
   {
    "id": "muvfivp76szvy",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Plan",
    "de": "Plan",
    "level": "A1.1",
    "article": "der",
-   "plural": "Pläne"
+   "plural": "Pläne",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvfj23k0l09b",
@@ -4403,13 +4409,15 @@
   {
    "id": "muxun2gh9meej",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Time",
    "de": "Zeit",
    "level": "A1.1",
    "article": "die",
-   "plural": "Zeiten"
+   "plural": "Zeiten",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxunf8d0lau8",
@@ -5752,7 +5760,7 @@
   },
   {
    "id": "muxwkvejocfh6",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Playground",
@@ -5760,8 +5768,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Spielplätze",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   }
  ]
 }

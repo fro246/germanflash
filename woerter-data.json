@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361906318,
+ "updatedAt": 1791361915411,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4353,6 +4353,15 @@
    "type": "other",
    "en": "single",
    "de": "ledig",
+   "level": "A1.1"
+  },
+  {
+   "id": "muxums5vet8wg",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "married",
+   "de": "verheiratet",
    "level": "A1.1"
   }
  ]

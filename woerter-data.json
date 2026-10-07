@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366934952,
+ "updatedAt": 1791366987895,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1658,7 +1658,7 @@
   },
   {
    "id": "muoic3rabci8x",
-   "hits": 0,
+   "hits": 1,
    "misses": 3,
    "type": "noun",
    "en": "Postal code",
@@ -1666,8 +1666,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Postleitzahlen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muoicwbbna7wg",
@@ -3394,7 +3394,7 @@
   {
    "id": "muxtov0kinxn1",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Kilogram",
    "de": "Kilo",
@@ -3754,7 +3754,7 @@
   {
    "id": "muxty2uzopgee",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to eat breakfast",
    "de": "frühstücken",
@@ -3766,7 +3766,9 @@
     "wir": "frühstücken",
     "ihr": "frühstückt",
     "sie": "frühstücken"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxtyimn5j120",
@@ -4784,7 +4786,7 @@
   {
    "id": "muxuu4l6hvzqk",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Problem",
    "de": "Problem",
@@ -5266,7 +5268,7 @@
   },
   {
    "id": "muxw09pv8ikwd",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to order",
@@ -5279,7 +5281,9 @@
     "wir": "bestellen",
     "ihr": "bestellt",
     "sie": "bestellen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxw0hn2tk8ln",

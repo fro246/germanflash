@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391261610,
+ "updatedAt": 1791391312880,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -444,15 +444,15 @@
   {
    "id": "muna8rltza7um",
    "hits": 2,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Number",
    "de": "Zahl",
    "level": "A1.1",
    "article": "die",
    "plural": "Zahlen",
-   "box": 3,
-   "streak": 5
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muna9j1hemjsh",
@@ -2234,14 +2234,16 @@
   },
   {
    "id": "muvf6tqgnvl4m",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Bus",
    "de": "Bus",
    "level": "A1.1",
    "article": "der",
-   "plural": "Busse"
+   "plural": "Busse",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf78k51vq4t",
@@ -3088,14 +3090,16 @@
   },
   {
    "id": "muxtf6dxmrwp1",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Yoghurt",
    "de": "Joghurt",
    "level": "A1.1",
    "article": "der",
-   "plural": "Joghurts"
+   "plural": "Joghurts",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtff2wyumai",
@@ -4260,7 +4264,7 @@
   },
   {
    "id": "muxuelygiu3c8",
-   "hits": 0,
+   "hits": 1,
    "misses": 5,
    "type": "noun",
    "en": "Homepage",
@@ -4268,8 +4272,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Homepages",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxuevn7i7gg8",
@@ -5026,7 +5030,7 @@
   {
    "id": "muxvoj2kt23nw",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to celebrate",
    "de": "feiern",
@@ -5038,7 +5042,9 @@
     "wir": "feiern",
     "ihr": "feiert",
     "sie": "feiern"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxvoxgh9tbyh",

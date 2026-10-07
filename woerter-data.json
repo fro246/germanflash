@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360517822,
+ "updatedAt": 1791360532762,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3469,6 +3469,17 @@
    "en": "expensive",
    "de": "teuer",
    "level": "A1.1"
+  },
+  {
+   "id": "muxtt5aytkewe",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Food",
+   "de": "Essen",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Essen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394539119,
+ "updatedAt": 1791394593787,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -608,7 +608,7 @@
   },
   {
    "id": "muo0o1z30fb1o",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to come",
@@ -621,7 +621,9 @@
     "wir": "kommen",
     "ihr": "kommt",
     "sie": "kommen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0pe2oy7h6l",
@@ -1480,16 +1482,16 @@
   },
   {
    "id": "muo289xt916e6",
-   "hits": 0,
-   "misses": 1,
+   "hits": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Weekday",
    "de": "Wochentag",
    "level": "A1.1",
    "article": "der",
    "plural": "Wochentage",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo28hferjwiu",
@@ -3626,14 +3628,16 @@
   },
   {
    "id": "muxtr8nk8e1ss",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Shopping cart",
    "de": "Einkaufswagen",
    "level": "A1.1",
    "article": "der",
-   "plural": "Einkaufswagen"
+   "plural": "Einkaufswagen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtrhox0v7nj",
@@ -4035,14 +4039,14 @@
   },
   {
    "id": "muxu1ls47htyf",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "few",
    "de": "wenig",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxu1tydcanvt",
@@ -4665,14 +4669,14 @@
   },
   {
    "id": "muxums5vet8wg",
-   "hits": 1,
+   "hits": 2,
    "misses": 2,
    "type": "other",
    "en": "married",
    "de": "verheiratet",
    "level": "A1.1",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxun2gh9meej",
@@ -5848,7 +5852,7 @@
   },
   {
    "id": "muxwa05zv4pxo",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to end",
@@ -5861,7 +5865,9 @@
     "wir": "enden",
     "ihr": "endet",
     "sie": "enden"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxwa8zhybohx",

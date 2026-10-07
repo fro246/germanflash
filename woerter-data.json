@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361584002,
+ "updatedAt": 1791361600889,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4085,6 +4085,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Stunden"
+  },
+  {
+   "id": "muxug1h5izjcv",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Delay",
+   "de": "Verspätung",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Verspätungen"
   }
  ]
 }

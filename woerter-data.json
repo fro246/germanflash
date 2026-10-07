@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394593787,
+ "updatedAt": 1791394643455,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -608,7 +608,7 @@
   },
   {
    "id": "muo0o1z30fb1o",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to come",
@@ -622,8 +622,8 @@
     "ihr": "kommt",
     "sie": "kommen"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muo0pe2oy7h6l",
@@ -1150,14 +1150,16 @@
   },
   {
    "id": "muo1vtvu89zem",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "School",
    "de": "Schule",
    "level": "A1.1",
    "article": "die",
-   "plural": "Schulen"
+   "plural": "Schulen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo1w2cdwornd",
@@ -2178,7 +2180,7 @@
   },
   {
    "id": "muvf55sngngqs",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "verb",
    "en": "to see",
@@ -2192,8 +2194,8 @@
     "ihr": "seht",
     "sie": "sehen"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muvf5g9133k0q",
@@ -2241,7 +2243,7 @@
   },
   {
    "id": "muvf6mpooi418",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Bicycle",
@@ -2249,8 +2251,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Fahrräder",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muvf6tqgnvl4m",
@@ -3358,14 +3360,16 @@
   },
   {
    "id": "muxtkw2b44xgc",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Cola",
    "de": "Cola",
    "level": "A1.1",
    "article": "die",
-   "plural": "Colas"
+   "plural": "Colas",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtl3f3b987g",
@@ -4189,7 +4193,7 @@
   },
   {
    "id": "muxubtceqeyw3",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to visit",
@@ -4202,7 +4206,9 @@
     "wir": "besuchen",
     "ihr": "besucht",
     "sie": "besuchen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuc1alxss28",
@@ -4939,12 +4945,14 @@
   },
   {
    "id": "muxuthv4lly4x",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "cool",
    "de": "cool",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxutl51mypsb",
@@ -6065,14 +6073,14 @@
   },
   {
    "id": "muxwjr9678xia",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "other",
    "en": "typisch",
    "de": "typical",
    "level": "A1.1",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muxwjwtyq0hmh",

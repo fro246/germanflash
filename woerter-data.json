@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361486512,
+ "updatedAt": 1791361509333,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3997,6 +3997,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Musikschulen"
+  },
+  {
+   "id": "muxue2txdkofw",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Homework",
+   "de": "Hausaufgabe",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Hausaufgaben"
   }
  ]
 }

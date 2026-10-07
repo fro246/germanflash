@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360339403,
+ "updatedAt": 1791360353907,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3308,6 +3308,23 @@
    "level": "A1.1",
    "article": "der",
    "plural": ""
+  },
+  {
+   "id": "muxtpbarlswm9",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to buy",
+   "de": "kaufen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "kaufe",
+    "du": "kaufst",
+    "er": "kauft",
+    "wir": "kaufen",
+    "ihr": "kauft",
+    "sie": "kaufen"
+   }
   }
  ]
 }

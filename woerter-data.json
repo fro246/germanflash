@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361899308,
+ "updatedAt": 1791361906318,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4345,6 +4345,15 @@
    "level": "A1.1",
    "article": "die",
    "plural": ""
+  },
+  {
+   "id": "muxuml597klmv",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "single",
+   "de": "ledig",
+   "level": "A1.1"
   }
  ]
 }

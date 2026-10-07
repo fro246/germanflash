@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360049265,
+ "updatedAt": 1791360063244,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3066,6 +3066,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Fische"
+  },
+  {
+   "id": "muxtj30svfwmh",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Chocolate",
+   "de": "Schokolade",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Schokoladen"
   }
  ]
 }

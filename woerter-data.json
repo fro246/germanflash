@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361616432,
+ "updatedAt": 1791361627870,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4104,6 +4104,15 @@
    "type": "other",
    "en": "punctual",
    "de": "pünktlich",
+   "level": "A1.1"
+  },
+  {
+   "id": "muxugmamls9d7",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "late",
+   "de": "spät",
    "level": "A1.1"
   }
  ]

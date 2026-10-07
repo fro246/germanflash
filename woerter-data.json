@@ -1,11 +1,11 @@
 {
  "app": "woerter",
- "updatedAt": 1791367528799,
+ "updatedAt": 1791367574993,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
    "hits": 2,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to speak",
    "de": "sprechen",
@@ -18,8 +18,8 @@
     "sie": "sprechen"
    },
    "level": "A1.1",
-   "box": 3,
-   "streak": 5
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mun9uquf82t6v",
@@ -2050,7 +2050,7 @@
   },
   {
    "id": "muvf2oi7svucx",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Bridge",
@@ -2058,8 +2058,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Brücken",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muvf2toeqezbq",
@@ -2690,7 +2690,7 @@
   },
   {
    "id": "muvfrzv1n52ka",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Winter",
@@ -2698,8 +2698,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfs6mdcpbfd",
@@ -4501,14 +4501,16 @@
   },
   {
    "id": "muxulqfw0mf4h",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Grandparents",
    "de": "Großeltern",
    "level": "A1.1",
    "article": "die",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxum9q3u3lpv",
@@ -4858,14 +4860,16 @@
   },
   {
    "id": "muxuuk4g1q5dh",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Practice (medical)",
    "de": "Praxis",
    "level": "A1.1",
    "article": "die",
-   "plural": "Praxen"
+   "plural": "Praxen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvmfyog2ms3",

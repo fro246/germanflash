@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364131516,
+ "updatedAt": 1791364148140,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5024,6 +5024,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Tomatensuppeb"
+  },
+  {
+   "id": "muxvymy45qmb6",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Sandwich",
+   "de": "Sandwich",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Sandwich"
   }
  ]
 }

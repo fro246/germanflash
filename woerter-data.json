@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365668963,
+ "updatedAt": 1791365724370,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2512,13 +2512,15 @@
   {
    "id": "muvfqi3ag20y9",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Director",
    "de": "Regisseur",
    "level": "A1.1",
    "article": "der",
-   "plural": "Regisseure"
+   "plural": "Regisseure",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvfqtgkp14gu",
@@ -4293,14 +4295,16 @@
   },
   {
    "id": "muxukpwmyqrtj",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Grandmother",
    "de": "Großmutter",
    "level": "A1.1",
    "article": "die",
-   "plural": "Großmütter"
+   "plural": "Großmütter",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxukv0ki37v2",
@@ -4651,12 +4655,14 @@
   },
   {
    "id": "muxutoaiulwa0",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "too bad",
    "de": "schade",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxutteblf6ef",
@@ -4950,7 +4956,7 @@
   },
   {
    "id": "muxvvyac2qm69",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to send",
@@ -4963,7 +4969,9 @@
     "wir": "schicken",
     "ihr": "schickt",
     "sie": "schicken"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvw82qeo82k",
@@ -5461,7 +5469,7 @@
   },
   {
    "id": "muxw9w7a8cr5u",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to start",
@@ -5474,7 +5482,9 @@
     "wir": "beginnen",
     "ihr": "beginnt",
     "sie": "beginnen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxwa05zv4pxo",

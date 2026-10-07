@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366244165,
+ "updatedAt": 1791366295786,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2030,7 +2030,7 @@
   },
   {
    "id": "muvf33uhowfwu",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Market",
@@ -2038,8 +2038,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Märkte",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvf3tak7xh06",
@@ -2532,14 +2532,16 @@
   },
   {
    "id": "muvfq3gms6131",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Star (of a show/movie)",
    "de": "Star",
    "level": "A1.1",
    "article": "der",
-   "plural": "Stars"
+   "plural": "Stars",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvfqi3ag20y9",
@@ -2663,18 +2665,20 @@
   },
   {
    "id": "muvfsonnrcwqc",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Picture",
    "de": "Bild",
    "level": "A1.1",
    "article": "das",
-   "plural": "Bilder"
+   "plural": "Bilder",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfsva0y2gaz",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Poster",
@@ -2682,8 +2686,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Plakate",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvft1pctg5t9",
@@ -3543,7 +3547,7 @@
   },
   {
    "id": "muxtthhtjzt25",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to eat",
@@ -3556,7 +3560,9 @@
     "wir": "essen",
     "ihr": "esst",
     "sie": "essen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxttqic3opig",
@@ -3639,12 +3645,14 @@
   },
   {
    "id": "muxtwc6ftb9qr",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "deliscious",
    "de": "lecker",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtwkfuunafy",
@@ -5449,11 +5457,13 @@
   {
    "id": "muxw61em4b8sp",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "outside",
    "de": "draußen",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxw7j5th0m1l",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363922975,
+ "updatedAt": 1791363967716,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4890,6 +4890,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": ""
+  },
+  {
+   "id": "muxvurqccgm92",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Surprise",
+   "de": "Überraschung",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Überraschungen"
   }
  ]
 }

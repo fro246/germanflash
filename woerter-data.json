@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364088315,
+ "updatedAt": 1791364102219,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4991,6 +4991,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": ""
+  },
+  {
+   "id": "muxvxnijs4coa",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Salami",
+   "de": "Salami",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Salamis"
   }
  ]
 }

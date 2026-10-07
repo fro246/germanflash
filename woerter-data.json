@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391883369,
+ "updatedAt": 1791394377077,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1207,14 +1207,16 @@
   },
   {
    "id": "muo1z1uxg3rou",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Student (female)",
    "de": "Studentin",
    "level": "A1.1",
    "article": "die",
-   "plural": "Studentinnen"
+   "plural": "Studentinnen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo1zb0hc2ved",
@@ -1992,13 +1994,15 @@
   {
    "id": "muvf0jtjfxq5p",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "noun",
    "en": "Person",
    "de": "Mensch",
    "level": "A1.1",
    "article": "der",
-   "plural": "Menschen"
+   "plural": "Menschen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvf0tmtu9g6m",
@@ -3204,14 +3208,16 @@
   },
   {
    "id": "muxthvl164cnv",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Oil",
    "de": "Öl",
    "level": "A1.1",
    "article": "das",
-   "plural": "Öle"
+   "plural": "Öle",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxti686n7qwb",
@@ -4522,7 +4528,7 @@
   },
   {
    "id": "muxujwidb4oce",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Brother",
@@ -4530,8 +4536,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Brüder",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxuk5gur5but",
@@ -5115,8 +5121,8 @@
    "level": "A1.1",
    "forms": {
     "ich": "lade ein",
-    "du": "ladest ein",
-    "er": "ladet ein",
+    "du": "lädst ein",
+    "er": "lädt ein",
     "wir": "laden ein",
     "ihr": "ladet ein",
     "sie": "laden ein"

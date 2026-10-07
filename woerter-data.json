@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362113688,
+ "updatedAt": 1791362123692,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4514,6 +4514,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": ""
+  },
+  {
+   "id": "muxur8vgse0l3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Ball",
+   "de": "Ball",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Bälle"
   }
  ]
 }

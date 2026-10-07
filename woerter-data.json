@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359629153,
+ "updatedAt": 1791359642843,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2736,6 +2736,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Birnen"
+  },
+  {
+   "id": "muxta2mzkz0ql",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Vegetable",
+   "de": "Gemüse",
+   "level": "A1.1",
+   "article": "das",
+   "plural": ""
   }
  ]
 }

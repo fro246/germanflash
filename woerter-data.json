@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361658393,
+ "updatedAt": 1791361669951,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4136,6 +4136,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Verwandten"
+  },
+  {
+   "id": "muxuhirjzabmh",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Baby",
+   "de": "Baby",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Babys"
   }
  ]
 }

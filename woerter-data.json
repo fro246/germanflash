@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361679447,
+ "updatedAt": 1791361687749,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4158,6 +4158,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Kinder"
+  },
+  {
+   "id": "muxuhwhxh9rrj",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Boy",
+   "de": "Junge",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Jungen"
   }
  ]
 }

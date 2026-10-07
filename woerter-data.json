@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791368074568,
+ "updatedAt": 1791368122812,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -941,14 +941,16 @@
   },
   {
    "id": "muo0ycq6yxork",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Text",
    "de": "Text",
    "level": "A1.1",
    "article": "der",
-   "plural": "Texte"
+   "plural": "Texte",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo0yo9tgaalc",
@@ -2914,14 +2916,16 @@
   },
   {
    "id": "muxtatnm0w754",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Lettuce / Salad",
    "de": "Salat",
    "level": "A1.1",
    "article": "der",
-   "plural": "Salate"
+   "plural": "Salate",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtb0gksq8p0",
@@ -4251,13 +4255,15 @@
   {
    "id": "muxuelygiu3c8",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "noun",
    "en": "Homepage",
    "de": "Homepage",
    "level": "A1.1",
    "article": "die",
-   "plural": "Homepages"
+   "plural": "Homepages",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxuevn7i7gg8",
@@ -5445,7 +5451,7 @@
   },
   {
    "id": "muxw0tpf0bet3",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to pay",
@@ -5458,7 +5464,9 @@
     "wir": "zahlen",
     "ihr": "zahlt",
     "sie": "zahlen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxw1f9ns7ssf",

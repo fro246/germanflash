@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366029736,
+ "updatedAt": 1791366073878,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1594,7 +1594,7 @@
   },
   {
    "id": "muoiaj9kx7ny2",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Family name",
@@ -1602,8 +1602,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Familiennamen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muoiaumuzf06e",
@@ -2192,13 +2192,15 @@
   {
    "id": "muvf7vsk68stv",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Ship",
    "de": "Schiff",
    "level": "A1.1",
    "article": "das",
-   "plural": "Schiffe"
+   "plural": "Schiffe",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvf87evx7qdf",
@@ -2871,14 +2873,16 @@
   },
   {
    "id": "muxtbz6wtc2yp",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Bread roll",
    "de": "Brötchen",
    "level": "A1.1",
    "article": "das",
-   "plural": "Brötchen"
+   "plural": "Brötchen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtc91bj7s73",
@@ -4037,14 +4041,16 @@
   },
   {
    "id": "muxudl7zvq7ng",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Music school",
    "de": "Musikschule",
    "level": "A1.1",
    "article": "die",
-   "plural": "Musikschulen"
+   "plural": "Musikschulen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxue2txdkofw",
@@ -4735,13 +4741,15 @@
   {
    "id": "muxvmzvkl1qoh",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Excursion",
    "de": "Ausflug",
    "level": "A1.1",
    "article": "der",
-   "plural": "Ausflüge"
+   "plural": "Ausflüge",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxvnj46texxy",

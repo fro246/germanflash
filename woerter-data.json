@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366392210,
+ "updatedAt": 1791366452644,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2050,13 +2050,13 @@
   {
    "id": "muvf3tak7xh06",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Train Station",
    "de": "Bahnhof",
    "level": "A1.1",
    "article": "der",
-   "plural": "Banhöfe",
+   "plural": "Bahnöfe",
    "box": 0,
    "streak": 0
   },
@@ -2198,14 +2198,16 @@
   },
   {
    "id": "muvf7ff34dmbo",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Train",
    "de": "Zug",
    "level": "A1.1",
    "article": "der",
-   "plural": "Züge"
+   "plural": "Züge",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf7vsk68stv",
@@ -2372,13 +2374,15 @@
   {
    "id": "muvfj23k0l09b",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Start",
    "de": "Start",
    "level": "A1.1",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvfjajan7ktt",
@@ -5510,13 +5514,15 @@
   {
    "id": "muxw8gqnnkf4b",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Entry",
    "de": "Eintritt",
    "level": "A1.1",
    "article": "der",
-   "plural": "Eintritte"
+   "plural": "Eintritte",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxw8r1tomx0m",

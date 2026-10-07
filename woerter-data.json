@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364887603,
+ "updatedAt": 1791364914945,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5472,12 +5472,12 @@
    "de": "abholen",
    "level": "A1.1",
    "forms": {
-    "ich": "abhole",
-    "du": "abholst",
-    "er": "abholt",
-    "wir": "abholen",
-    "ihr": "abholt",
-    "sie": "abholen"
+    "ich": "hole ab",
+    "du": "holst ab",
+    "er": "holt ab",
+    "wir": "holen ab",
+    "ihr": "holt ab",
+    "sie": "holen ab"
    }
   },
   {

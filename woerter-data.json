@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366625979,
+ "updatedAt": 1791366676730,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -497,14 +497,16 @@
   },
   {
    "id": "muo0jjl6genya",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Last name",
    "de": "Nachname",
    "level": "A1.1",
    "article": "der",
-   "plural": "Nachnamen"
+   "plural": "Nachnamen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0k9y4q4fca",
@@ -1466,12 +1468,14 @@
   },
   {
    "id": "muoi6p76ohmlj",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "old",
    "de": "alt",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muoi745hq7gsq",
@@ -1535,12 +1539,14 @@
   },
   {
    "id": "muoi900h3pfsy",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "Tuesday",
    "de": "Dienstag",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muoi93mjmblev",
@@ -1840,7 +1846,7 @@
   },
   {
    "id": "muveypdhujdj8",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "verb",
    "en": "to go",
@@ -1854,8 +1860,8 @@
     "ihr": "geht",
     "sie": "gehen"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muvez20ic53p0",
@@ -1906,12 +1912,14 @@
   },
   {
    "id": "muvezhnl70xvk",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "super",
    "de": "super",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvezk7rg04iq",
@@ -4472,8 +4480,8 @@
   },
   {
    "id": "muxun2gh9meej",
-   "hits": 1,
-   "misses": 1,
+   "hits": 2,
+   "misses": 2,
    "type": "noun",
    "en": "Time",
    "de": "Zeit",
@@ -5216,14 +5224,16 @@
   },
   {
    "id": "muxvzserboh91",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Check / bill",
    "de": "Rechnung",
    "level": "A1.1",
    "article": "die",
-   "plural": "Rechnungen"
+   "plural": "Rechnungen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxw03c78dsbu",
@@ -5366,15 +5376,15 @@
   {
    "id": "muxw2yqxn0key",
    "hits": 1,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Glass",
    "de": "Glas",
    "level": "A1.1",
    "article": "das",
    "plural": "Gläser",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxw34zul1jwf",

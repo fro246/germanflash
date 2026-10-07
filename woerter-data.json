@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364114507,
+ "updatedAt": 1791364131516,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5013,6 +5013,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Schnitzel"
+  },
+  {
+   "id": "muxvya4c4p270",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Tomato soup",
+   "de": "Tomatensuppe",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Tomatensuppeb"
   }
  ]
 }

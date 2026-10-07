@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366821091,
+ "updatedAt": 1791366872391,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -794,7 +794,7 @@
   },
   {
    "id": "muo0ulgsg1akn",
-   "hits": 2,
+   "hits": 3,
    "misses": 3,
    "type": "verb",
    "en": "to guess",
@@ -808,8 +808,8 @@
     "ihr": "ratet",
     "sie": "raten"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muo0uvlj5mtm6",
@@ -1659,7 +1659,7 @@
   {
    "id": "muoic3rabci8x",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Postal code",
    "de": "Postleitzahl",
@@ -1757,14 +1757,16 @@
   },
   {
    "id": "muvex455vgvc8",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Dictionary",
    "de": "Wörterbuch",
    "level": "A1.1",
    "article": "das",
-   "plural": "Wörterbücher"
+   "plural": "Wörterbücher",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvexafyvwdi5",
@@ -2241,7 +2243,7 @@
   {
    "id": "muvf87evx7qdf",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Airplane",
    "de": "Flugzeug",

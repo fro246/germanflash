@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361524078,
+ "updatedAt": 1791361534120,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4019,6 +4019,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Zeitungen"
+  },
+  {
+   "id": "muxuelygiu3c8",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Homepage",
+   "de": "Homepage",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Homepages"
   }
  ]
 }

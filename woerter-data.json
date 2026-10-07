@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359744447,
+ "updatedAt": 1791359751946,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2846,6 +2846,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Kekse"
+  },
+  {
+   "id": "muxtcetmqwcux",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cake",
+   "de": "Kuchen",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Kuchen"
   }
  ]
 }

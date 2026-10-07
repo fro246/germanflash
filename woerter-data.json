@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360732220,
+ "updatedAt": 1791360741416,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3623,6 +3623,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Mittagessen"
+  },
+  {
+   "id": "muxtxmawbg8hc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Dinner",
+   "de": "Abendessen",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Abendessen"
   }
  ]
 }

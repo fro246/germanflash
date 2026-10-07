@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359677858,
+ "updatedAt": 1791359686676,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2780,6 +2780,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Salate"
+  },
+  {
+   "id": "muxtb0gksq8p0",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Tomato",
+   "de": "Tomate",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Tomaten"
   }
  ]
 }

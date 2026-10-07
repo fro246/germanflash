@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367620922,
+ "updatedAt": 1791367673217,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1449,14 +1449,16 @@
   },
   {
    "id": "muo27txriz23u",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Weekend",
    "de": "Wochenende",
    "level": "A1.1",
    "article": "das",
-   "plural": "Wochenenden"
+   "plural": "Wochenenden",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo289xt916e6",
@@ -2043,7 +2045,7 @@
   },
   {
    "id": "muvf2fglzs9xa",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Hotel",
@@ -2051,8 +2053,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Hotels",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muvf2oi7svucx",
@@ -3428,7 +3430,7 @@
   },
   {
    "id": "muxtop1dvuq8h",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Gram",
@@ -3436,8 +3438,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtov0kinxn1",
@@ -3796,14 +3798,16 @@
   },
   {
    "id": "muxtxmawbg8hc",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Dinner",
    "de": "Abendessen",
    "level": "A1.1",
    "article": "das",
-   "plural": "Abendessen"
+   "plural": "Abendessen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxty2uzopgee",
@@ -3859,14 +3863,16 @@
   },
   {
    "id": "muxtz8489hwa6",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Fries",
    "de": "Pommes",
    "level": "A1.1",
    "article": "die",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtzpt3t85e3",
@@ -5763,7 +5769,7 @@
   },
   {
    "id": "muxwci4925cho",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to call",
@@ -5777,8 +5783,8 @@
     "ihr": "ruft an",
     "sie": "rufen an"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxwdsgszbmmb",

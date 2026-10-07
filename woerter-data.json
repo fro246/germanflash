@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362099509,
+ "updatedAt": 1791362113688,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4503,6 +4503,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Besprechungen"
+  },
+  {
+   "id": "muxur15k6194p",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Sport",
+   "de": "Sport",
+   "level": "A1.1",
+   "article": "der",
+   "plural": ""
   }
  ]
 }

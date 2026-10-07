@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360942865,
+ "updatedAt": 1791360959208,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3806,6 +3806,17 @@
    "en": "important",
    "de": "wichtig",
    "level": "A1.1"
+  },
+  {
+   "id": "muxu2acon100h",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cantine",
+   "de": "Kantine",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Kantinen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362188986,
+ "updatedAt": 1791362198857,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4580,6 +4580,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Hunde"
+  },
+  {
+   "id": "muxusuvd7sugr",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Idea",
+   "de": "Idee",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Ideen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362168564,
+ "updatedAt": 1791362178367,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4558,6 +4558,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Saxofone"
+  },
+  {
+   "id": "muxusf27kdumn",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Trumpet",
+   "de": "Trompete",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Trompeten"
   }
  ]
 }

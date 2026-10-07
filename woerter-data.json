@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364250211,
+ "updatedAt": 1791364278155,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5168,6 +5168,23 @@
     "wir": "zahlen",
     "ihr": "zahlt",
     "sie": "zahlen"
+   }
+  },
+  {
+   "id": "muxw1f9ns7ssf",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to give",
+   "de": "geben",
+   "level": "A1.1",
+   "forms": {
+    "ich": "gebe",
+    "du": "gibst",
+    "er": "gibt",
+    "wir": "geben",
+    "ihr": "gebt",
+    "sie": "geben"
    }
   }
  ]

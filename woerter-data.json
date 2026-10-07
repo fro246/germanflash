@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359695069,
+ "updatedAt": 1791359709494,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2802,6 +2802,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Oliven"
+  },
+  {
+   "id": "muxtbi2e2b7wt",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Onion",
+   "de": "Zwiebel",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Zwiebeln"
   }
  ]
 }

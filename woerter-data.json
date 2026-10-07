@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360455505,
+ "updatedAt": 1791360472631,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3415,6 +3415,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Preise"
+  },
+  {
+   "id": "muxtruwnf3ju4",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Receipt",
+   "de": "Kassenzettel",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Kassenzettel"
   }
  ]
 }

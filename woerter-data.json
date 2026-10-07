@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364795065,
+ "updatedAt": 1791364887603,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5512,6 +5512,40 @@
     "wir": "rufen an",
     "ihr": "ruft an",
     "sie": "rufen an"
+   }
+  },
+  {
+   "id": "muxwdsgszbmmb",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to listen / to sound",
+   "de": "aufhören",
+   "level": "A1.1",
+   "forms": {
+    "ich": "höre auf",
+    "du": "hörst auf",
+    "er": "hört auf",
+    "wir": "hören auf",
+    "ihr": "hört auf",
+    "sie": "hören auf"
+   }
+  },
+  {
+   "id": "muxwehiruqom8",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to join in",
+   "de": "mitmachen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "mache mit",
+    "du": "machst mit",
+    "er": "macht mit",
+    "wir": "machen mit",
+    "ihr": "macht mit",
+    "sie": "machen mit"
    }
   }
  ]

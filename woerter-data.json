@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360532762,
+ "updatedAt": 1791360548561,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3480,6 +3480,23 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Essen"
+  },
+  {
+   "id": "muxtthhtjzt25",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to eat",
+   "de": "essen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "esse",
+    "du": "isst",
+    "er": "isst",
+    "wir": "essen",
+    "ihr": "esst",
+    "sie": "essen"
+   }
   }
  ]
 }

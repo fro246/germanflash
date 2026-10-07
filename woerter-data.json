@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363629958,
+ "updatedAt": 1791363639828,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4699,6 +4699,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Fahrradtouren"
+  },
+  {
+   "id": "muxvnqqcke4t3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Picnic",
+   "de": "Picknick",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Picknicks"
   }
  ]
 }

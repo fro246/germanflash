@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394377077,
+ "updatedAt": 1791394437063,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1993,7 +1993,7 @@
   },
   {
    "id": "muvf0jtjfxq5p",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Person",
@@ -2001,8 +2001,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Menschen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvf0tmtu9g6m",
@@ -3494,7 +3494,7 @@
   },
   {
    "id": "muxtop1dvuq8h",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "noun",
    "en": "Gram",
@@ -3502,8 +3502,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muxtov0kinxn1",
@@ -4662,11 +4662,13 @@
   {
    "id": "muxums5vet8wg",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "married",
    "de": "verheiratet",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxun2gh9meej",
@@ -4993,14 +4995,16 @@
   },
   {
    "id": "muxvmfyog2ms3",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Gym",
    "de": "Fitnessstudio",
    "level": "A1.1",
    "article": "das",
-   "plural": "Fitnessstudios"
+   "plural": "Fitnessstudios",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvmzvkl1qoh",
@@ -5113,7 +5117,7 @@
   },
   {
    "id": "muxvpadd0wsuq",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to invite",
@@ -5126,7 +5130,9 @@
     "wir": "laden ein",
     "ihr": "ladet ein",
     "sie": "laden ein"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvpm64oeape",
@@ -5680,14 +5686,16 @@
   },
   {
    "id": "muxw4ybsmnzl7",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Beer garden",
    "de": "Biergarten",
    "level": "A1.1",
    "article": "der",
-   "plural": "Biergärten"
+   "plural": "Biergärten",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxw59xl4gzd3",

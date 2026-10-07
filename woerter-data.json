@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367033947,
+ "updatedAt": 1791367085025,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1636,14 +1636,16 @@
   },
   {
    "id": "muoib5xgcb7l0",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Street",
    "de": "Straße",
    "level": "A1.1",
    "article": "die",
-   "plural": "Straßen"
+   "plural": "Straßen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muoibidztsyjs",
@@ -1880,12 +1882,14 @@
   },
   {
    "id": "muvez6o7osdzf",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "big",
    "de": "groß",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvez9ngtimtp",
@@ -3646,7 +3650,7 @@
   },
   {
    "id": "muxtvgss4pc7v",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to take",
@@ -3660,8 +3664,8 @@
     "ihr": "nehmt",
     "sie": "nehmen"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtvs9d31xf4",
@@ -3731,14 +3735,16 @@
   },
   {
    "id": "muxtxf7g2rprn",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Lunch",
    "de": "Mittagessen",
    "level": "A1.1",
    "article": "das",
-   "plural": "Mittagessen"
+   "plural": "Mittagessen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtxmawbg8hc",
@@ -3816,14 +3822,16 @@
   },
   {
    "id": "muxtzpt3t85e3",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Morning",
    "de": "Morgen",
    "level": "A1.1",
    "article": "der",
-   "plural": "Morgen"
+   "plural": "Morgen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxu034drahzg",
@@ -4091,7 +4099,7 @@
   },
   {
    "id": "muxuczx9qxjvl",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Mensa",
@@ -4099,8 +4107,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Mensen",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxudanoh6xeb",
@@ -5643,7 +5651,7 @@
   },
   {
    "id": "muxwa8zhybohx",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to pickup",
@@ -5656,7 +5664,9 @@
     "wir": "holen ab",
     "ihr": "holt ab",
     "sie": "holen ab"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxwbvhqllrk7",

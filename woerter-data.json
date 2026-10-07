@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363727228,
+ "updatedAt": 1791363777827,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4811,6 +4811,23 @@
     "wir": "mitbringen",
     "ihr": "mitbringt",
     "sie": "mitbringen"
+   }
+  },
+  {
+   "id": "muxvqp7nvi1c0",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to know",
+   "de": "wissen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "weiß",
+    "du": "weißt",
+    "er": "weiß",
+    "wir": "wissen",
+    "ihr": "wisst",
+    "sie": "wissen"
    }
   }
  ]

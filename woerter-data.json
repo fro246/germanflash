@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363891742,
+ "updatedAt": 1791363914680,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4868,6 +4868,17 @@
     "ihr": "werdet",
     "sie": "werden"
    }
+  },
+  {
+   "id": "muxvtmt4rr2hc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Gift",
+   "de": "Geschenk",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Geschenke"
   }
  ]
 }

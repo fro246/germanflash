@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364158515,
+ "updatedAt": 1791364162810,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5043,6 +5043,17 @@
    "type": "noun",
    "en": "Thirst",
    "de": "Durst",
+   "level": "A1.1",
+   "article": "der",
+   "plural": ""
+  },
+  {
+   "id": "muxvyy9mpld02",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Hunger",
+   "de": "Hunger",
    "level": "A1.1",
    "article": "der",
    "plural": ""

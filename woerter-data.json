@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360332804,
+ "updatedAt": 1791360339403,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3296,6 +3296,17 @@
    "de": "Kilo",
    "level": "A1.1",
    "article": "das",
+   "plural": ""
+  },
+  {
+   "id": "muxtp03v9x4e4",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Liter",
+   "de": "Liter",
+   "level": "A1.1",
+   "article": "der",
    "plural": ""
   }
  ]

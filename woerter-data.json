@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366452644,
+ "updatedAt": 1791366498392,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -793,7 +793,7 @@
   {
    "id": "muo0ulgsg1akn",
    "hits": 1,
-   "misses": 1,
+   "misses": 2,
    "type": "verb",
    "en": "to guess",
    "de": "raten",
@@ -806,8 +806,8 @@
     "ihr": "ratet",
     "sie": "raten"
    },
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo0uvlj5mtm6",
@@ -2373,7 +2373,7 @@
   },
   {
    "id": "muvfj23k0l09b",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Start",
@@ -2381,8 +2381,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfjajan7ktt",
@@ -5513,7 +5513,7 @@
   },
   {
    "id": "muxw8gqnnkf4b",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Entry",
@@ -5521,8 +5521,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Eintritte",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxw8r1tomx0m",

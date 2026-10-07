@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367817417,
+ "updatedAt": 1791367867909,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2377,7 +2377,7 @@
   {
    "id": "muvfd5zot9tfo",
    "hits": 1,
-   "misses": 2,
+   "misses": 3,
    "type": "verb",
    "en": "to indicate",
    "de": "zeigen",
@@ -2390,8 +2390,8 @@
     "ihr": "zeigt",
     "sie": "zeigen"
    },
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvfihu2tovlb",
@@ -3581,14 +3581,16 @@
   },
   {
    "id": "muxtrhox0v7nj",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Price",
    "de": "Preis",
    "level": "A1.1",
    "article": "der",
-   "plural": "Preise"
+   "plural": "Preise",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtruwnf3ju4",
@@ -4364,14 +4366,16 @@
   },
   {
    "id": "muxuhq3bb2xgj",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Child",
    "de": "Kind",
    "level": "A1.1",
    "article": "das",
-   "plural": "Kinder"
+   "plural": "Kinder",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuhwhxh9rrj",
@@ -5808,7 +5812,7 @@
   },
   {
    "id": "muxwdsgszbmmb",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "verb",
    "en": "to listen / to sound",
@@ -5822,8 +5826,8 @@
     "ihr": "hört auf",
     "sie": "hören auf"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxwehiruqom8",

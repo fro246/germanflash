@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362236986,
+ "updatedAt": 1791362243603,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4634,6 +4634,15 @@
    "type": "other",
    "en": "too bad",
    "de": "schade",
+   "level": "A1.1"
+  },
+  {
+   "id": "muxutteblf6ef",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "sorry",
+   "de": "es tut mir leid",
    "level": "A1.1"
   }
  ]

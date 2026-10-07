@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362278240,
+ "updatedAt": 1791363579216,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4666,6 +4666,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Praxen"
+  },
+  {
+   "id": "muxvmfyog2ms3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Gym",
+   "de": "Fitnessstudio",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Fitnessstudios"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360141097,
+ "updatedAt": 1791360147539,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3143,6 +3143,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Limonaden"
+  },
+  {
+   "id": "muxtkw2b44xgc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cola",
+   "de": "Cola",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Colas"
   }
  ]
 }

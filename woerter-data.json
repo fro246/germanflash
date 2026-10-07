@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361627870,
+ "updatedAt": 1791361639296,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4114,6 +4114,17 @@
    "en": "late",
    "de": "spät",
    "level": "A1.1"
+  },
+  {
+   "id": "muxugv40fiz87",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Family",
+   "de": "Familie",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Familien"
   }
  ]
 }

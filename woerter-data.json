@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364457865,
+ "updatedAt": 1791364476736,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5327,6 +5327,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Bänke"
+  },
+  {
+   "id": "muxw5ohsy7vla",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Self-service",
+   "de": "Selbstbedienung",
+   "level": "A1.1",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

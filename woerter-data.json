@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394837801,
+ "updatedAt": 1791394848648,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4194,7 +4194,7 @@
   },
   {
    "id": "muxubl0y8vz87",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to shower",
@@ -4207,7 +4207,9 @@
     "wir": "duschen",
     "ihr": "duscht",
     "sie": "duschen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxubtceqeyw3",

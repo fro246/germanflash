@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365528464,
+ "updatedAt": 1791365570171,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -74,13 +74,15 @@
   {
    "id": "mun9woaj80t8g",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "noun",
    "en": "Appointment",
    "de": "Verabredung",
    "level": "A1.1",
    "article": "die",
-   "plural": "Verabredungen"
+   "plural": "Verabredungen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mun9wxbjjzrr7",
@@ -1801,12 +1803,14 @@
   },
   {
    "id": "muvey4szev06e",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "here",
    "de": "hier",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muveypdhujdj8",
@@ -4905,14 +4909,16 @@
   },
   {
    "id": "muxvurqccgm92",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Surprise",
    "de": "Überraschung",
    "level": "A1.1",
    "article": "die",
-   "plural": "Überraschungen"
+   "plural": "Überraschungen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvv1yvvb5f7",
@@ -5662,11 +5668,13 @@
   {
    "id": "muxwjr9678xia",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "typisch",
    "de": "typical",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxwjwtyq0hmh",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364689917,
+ "updatedAt": 1791364765742,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5478,6 +5478,23 @@
     "wir": "abholen",
     "ihr": "abholt",
     "sie": "abholen"
+   }
+  },
+  {
+   "id": "muxwbvhqllrk7",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to begin",
+   "de": "anfangen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "fange an",
+    "du": "fängst an",
+    "er": "fängt an",
+    "wir": "fangen an",
+    "ihr": "fangt an",
+    "sie": "fangen an"
    }
   }
  ]

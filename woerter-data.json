@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364336063,
+ "updatedAt": 1791364350057,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5228,6 +5228,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Löffel"
+  },
+  {
+   "id": "muxw2yqxn0key",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Glass",
+   "de": "Glas",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Gläser"
   }
  ]
 }

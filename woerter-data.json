@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366130503,
+ "updatedAt": 1791366188445,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -680,11 +680,13 @@
   {
    "id": "muo0qq9eevm5n",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "Until later",
    "de": "bis bald",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo0qybewg2x2",
@@ -2667,13 +2669,15 @@
   {
    "id": "muvfsva0y2gaz",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Poster",
    "de": "Plakat",
    "level": "A1.1",
    "article": "das",
-   "plural": "Plakate"
+   "plural": "Plakate",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvft1pctg5t9",
@@ -4024,13 +4028,15 @@
   {
    "id": "muxuczx9qxjvl",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Mensa",
    "de": "Mensa",
    "level": "A1.1",
    "article": "die",
-   "plural": "Mensen"
+   "plural": "Mensen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxudanoh6xeb",
@@ -4832,7 +4838,7 @@
   },
   {
    "id": "muxvoxgh9tbyh",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "verb",
    "en": "to gift",
@@ -4846,8 +4852,8 @@
     "ihr": "schenkt",
     "sie": "schenken"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxvpadd0wsuq",
@@ -5138,14 +5144,16 @@
   },
   {
    "id": "muxvz6uhin5jk",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Menu",
    "de": "Speisekarte",
    "level": "A1.1",
    "article": "die",
-   "plural": "Speisekarten"
+   "plural": "Speisekarten",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvzi8tcu8di",
@@ -5357,14 +5365,16 @@
   },
   {
    "id": "muxw3r80ctp4o",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Pub",
    "de": "Kneipe",
    "level": "A1.1",
    "article": "die",
-   "plural": "Kneipen"
+   "plural": "Kneipen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxw428tkhzos",

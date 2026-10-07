@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367724906,
+ "updatedAt": 1791367778703,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -263,7 +263,7 @@
   },
   {
    "id": "muna2uh9tbtme",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Photo",
@@ -271,8 +271,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Fotos",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muna39eat794v",
@@ -2537,14 +2537,16 @@
   },
   {
    "id": "muvfoay9k1da2",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Orchestra",
    "de": "Orchester",
    "level": "A1.1",
    "article": "das",
-   "plural": "Orchester"
+   "plural": "Orchester",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfoli9x4cb1",
@@ -3252,7 +3254,7 @@
   },
   {
    "id": "muxtjyt2vv9q5",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Drink",
@@ -3260,8 +3262,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Getränke",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxtk5xofl3ty",
@@ -3287,14 +3289,16 @@
   },
   {
    "id": "muxtkr3dtt5x9",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Lemonade",
    "de": "Limonade",
    "level": "A1.1",
    "article": "die",
-   "plural": "Limonaden"
+   "plural": "Limonaden",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtkw2b44xgc",
@@ -4341,14 +4345,16 @@
   },
   {
    "id": "muxuhirjzabmh",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Baby",
    "de": "Baby",
    "level": "A1.1",
    "article": "das",
-   "plural": "Babys"
+   "plural": "Babys",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuhq3bb2xgj",

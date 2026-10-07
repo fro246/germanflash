@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361728562,
+ "updatedAt": 1791361749640,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4202,6 +4202,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Töchter"
+  },
+  {
+   "id": "muxuj8943dt2m",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Mother",
+   "de": "Mutter",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Mütter"
   }
  ]
 }

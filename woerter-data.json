@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360673002,
+ "updatedAt": 1791360681639,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3574,6 +3574,15 @@
     "ihr": "schmeckt",
     "sie": "schmecken"
    }
+  },
+  {
+   "id": "muxtwc6ftb9qr",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "deliscious",
+   "de": "lecker",
+   "level": "A1.1"
   }
  ]
 }

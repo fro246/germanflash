@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367223858,
+ "updatedAt": 1791367280523,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -74,15 +74,15 @@
   {
    "id": "mun9woaj80t8g",
    "hits": 2,
-   "misses": 4,
+   "misses": 5,
    "type": "noun",
    "en": "Appointment",
    "de": "Verabredung",
    "level": "A1.1",
    "article": "die",
    "plural": "Verabredungen",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mun9wxbjjzrr7",
@@ -1267,14 +1267,16 @@
   },
   {
    "id": "muo210by4ws4h",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Car",
    "de": "Auto",
    "level": "A1.1",
    "article": "das",
-   "plural": "Autos"
+   "plural": "Autos",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo22k22idbql",
@@ -2631,13 +2633,15 @@
   {
    "id": "muvfrgaaxgupz",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Season",
    "de": "Jahrzeit",
    "level": "A1.1",
    "article": "die",
-   "plural": "Jahrzeiten"
+   "plural": "Jahrzeiten",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvfrmoqujpf9",
@@ -3148,14 +3152,16 @@
   },
   {
    "id": "muxtidv5w2605",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Rice",
    "de": "Reis",
    "level": "A1.1",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtikrbrai3c",
@@ -3192,14 +3198,16 @@
   },
   {
    "id": "muxtjcbizfk42",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Jam",
    "de": "Marmelade",
    "level": "A1.1",
    "article": "die",
-   "plural": "Marmeladen"
+   "plural": "Marmeladen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtjlh1e60ap",
@@ -3348,7 +3356,7 @@
   },
   {
    "id": "muxtnozsrpg1m",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Mug",
@@ -3356,8 +3364,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Becher",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxtnw2nfm6mg",

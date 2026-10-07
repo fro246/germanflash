@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360482260,
+ "updatedAt": 1791360506694,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3442,6 +3442,23 @@
     "wir": "kosten",
     "ihr": "kostet",
     "sie": "kosten"
+   }
+  },
+  {
+   "id": "muxtsl6ulptvy",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to change (like money)",
+   "de": "wechseln",
+   "level": "A1.1",
+   "forms": {
+    "ich": "wechsele",
+    "du": "wechselst",
+    "er": "wechselt",
+    "wir": "wechseln",
+    "ihr": "wechselt",
+    "sie": "wechseln"
    }
   }
  ]

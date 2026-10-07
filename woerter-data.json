@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359977549,
+ "updatedAt": 1791359988525,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3000,6 +3000,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": ""
+  },
+  {
+   "id": "muxthhd9efenw",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Vinegar",
+   "de": "Essig",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Essige"
   }
  ]
 }

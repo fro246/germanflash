@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364216039,
+ "updatedAt": 1791364224307,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5101,6 +5101,23 @@
    "level": "A1.1",
    "article": "das",
    "plural": ""
+  },
+  {
+   "id": "muxw09pv8ikwd",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to order",
+   "de": "bestellen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "bestelle",
+    "du": "bestellst",
+    "er": "bestellt",
+    "wir": "bestellen",
+    "ihr": "bestellt",
+    "sie": "bestellen"
+   }
   }
  ]
 }

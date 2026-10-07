@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361392946,
+ "updatedAt": 1791361403726,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3907,6 +3907,23 @@
     "wir": "duschen",
     "ihr": "duscht",
     "sie": "duschen"
+   }
+  },
+  {
+   "id": "muxubtceqeyw3",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to visit",
+   "de": "besuchen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "besuche",
+    "du": "besuchst",
+    "er": "besucht",
+    "wir": "besuchen",
+    "ihr": "besucht",
+    "sie": "besuchen"
    }
   }
  ]

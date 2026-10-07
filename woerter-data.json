@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361819174,
+ "updatedAt": 1791361825796,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4279,6 +4279,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Großmütter"
+  },
+  {
+   "id": "muxukv0ki37v2",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Grandma",
+   "de": "Oma",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Omas"
   }
  ]
 }

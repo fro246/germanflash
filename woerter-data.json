@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365764017,
+ "updatedAt": 1791365830061,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -74,15 +74,15 @@
   {
    "id": "mun9woaj80t8g",
    "hits": 1,
-   "misses": 3,
+   "misses": 4,
    "type": "noun",
    "en": "Appointment",
    "de": "Verabredung",
    "level": "A1.1",
    "article": "die",
    "plural": "Verabredungen",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mun9wxbjjzrr7",
@@ -1820,7 +1820,7 @@
   },
   {
    "id": "muveypdhujdj8",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to go",
@@ -1834,8 +1834,8 @@
     "ihr": "geht",
     "sie": "gehen"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvez20ic53p0",
@@ -4798,7 +4798,7 @@
   },
   {
    "id": "muxvoxgh9tbyh",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to gift",
@@ -4812,8 +4812,8 @@
     "ihr": "schenkt",
     "sie": "schenken"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxvpadd0wsuq",
@@ -5596,7 +5596,7 @@
   },
   {
    "id": "muxwibrgmfp4h",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to believe",
@@ -5609,7 +5609,9 @@
     "wir": "glauben",
     "ihr": "glaubt",
     "sie": "glauben"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxwindq6sl9k",

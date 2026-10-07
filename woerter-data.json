@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359654404,
+ "updatedAt": 1791359665587,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2758,6 +2758,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Gurken"
+  },
+  {
+   "id": "muxtak6rkzf55",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Potato",
+   "de": "Kartoffel",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Kartoffeln"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365092354,
+ "updatedAt": 1791365103807,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5597,6 +5597,23 @@
     "wir": "genießen",
     "ihr": "genießt",
     "sie": "genießen"
+   }
+  },
+  {
+   "id": "muxwj4cfdfgu8",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to happen",
+   "de": "passieren",
+   "level": "A1.1",
+   "forms": {
+    "ich": "passiere",
+    "du": "passierst",
+    "er": "passiert",
+    "wir": "passieren",
+    "ihr": "passiert",
+    "sie": "passieren"
    }
   }
  ]

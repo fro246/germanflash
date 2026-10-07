@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391874337,
+ "updatedAt": 1791391883369,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4523,13 +4523,15 @@
   {
    "id": "muxujwidb4oce",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Brother",
    "de": "Bruder",
    "level": "A1.1",
    "article": "der",
-   "plural": "Brüder"
+   "plural": "Brüder",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxuk5gur5but",

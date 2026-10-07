@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366188445,
+ "updatedAt": 1791366244165,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -679,14 +679,14 @@
   },
   {
    "id": "muo0qq9eevm5n",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "other",
    "en": "Until later",
    "de": "bis bald",
    "level": "A1.1",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo0qybewg2x2",
@@ -970,14 +970,16 @@
   },
   {
    "id": "muo0zew4t5prn",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Bottle",
    "de": "Flasche",
    "level": "A1.1",
    "article": "die",
-   "plural": "Flaschen"
+   "plural": "Flaschen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0zr24qy088",
@@ -1677,14 +1679,16 @@
   },
   {
    "id": "muoidw33l3ayz",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Birthplace",
    "de": "Geburtsort",
    "level": "A1.1",
    "article": "der",
-   "plural": "Geburtsorte"
+   "plural": "Geburtsorte",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muoiej5rtopii",
@@ -2027,13 +2031,15 @@
   {
    "id": "muvf33uhowfwu",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Market",
    "de": "Markt",
    "level": "A1.1",
    "article": "der",
-   "plural": "Märkte"
+   "plural": "Märkte",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvf3tak7xh06",
@@ -2669,7 +2675,7 @@
   {
    "id": "muvfsva0y2gaz",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Poster",
    "de": "Plakat",
@@ -4027,7 +4033,7 @@
   },
   {
    "id": "muxuczx9qxjvl",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Mensa",
@@ -4035,8 +4041,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Mensen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxudanoh6xeb",

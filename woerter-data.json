@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362243603,
+ "updatedAt": 1791362258106,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4644,6 +4644,17 @@
    "en": "sorry",
    "de": "es tut mir leid",
    "level": "A1.1"
+  },
+  {
+   "id": "muxuu4l6hvzqk",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Problem",
+   "de": "Problem",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Probleme"
   }
  ]
 }

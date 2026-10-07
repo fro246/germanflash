@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359786031,
+ "updatedAt": 1791359824879,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2890,6 +2890,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Schinken"
+  },
+  {
+   "id": "muxtdz3jqpe4y",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Sausage",
+   "de": "Wurst",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Würste"
   }
  ]
 }

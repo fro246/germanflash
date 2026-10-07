@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364952694,
+ "updatedAt": 1791364973485,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4788,12 +4788,12 @@
    "de": "einladen",
    "level": "A1.1",
    "forms": {
-    "ich": "einlade",
-    "du": "einladest",
-    "er": "einladet",
-    "wir": "einladen",
-    "ihr": "einladet",
-    "sie": "einladen"
+    "ich": "lade ein",
+    "du": "ladest ein",
+    "er": "ladet ein",
+    "wir": "laden ein",
+    "ihr": "ladet ein",
+    "sie": "laden ein"
    }
   },
   {

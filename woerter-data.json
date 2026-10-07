@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366073878,
+ "updatedAt": 1791366130503,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -132,7 +132,7 @@
   },
   {
    "id": "mun9zovs1psv2",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Soccer",
@@ -140,8 +140,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muna0a417putl",
@@ -2191,7 +2191,7 @@
   },
   {
    "id": "muvf7vsk68stv",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Ship",
@@ -2199,8 +2199,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Schiffe",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvf87evx7qdf",
@@ -3761,14 +3761,16 @@
   },
   {
    "id": "muxu034drahzg",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Afternoon",
    "de": "Mittag",
    "level": "A1.1",
    "article": "der",
-   "plural": "Mittage"
+   "plural": "Mittage",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxu0h3eqv38a",
@@ -4008,14 +4010,16 @@
   },
   {
    "id": "muxucowclkfi2",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Uni",
    "de": "Uni",
    "level": "A1.1",
    "article": "die",
-   "plural": "Unis"
+   "plural": "Unis",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuczx9qxjvl",
@@ -4740,7 +4744,7 @@
   },
   {
    "id": "muxvmzvkl1qoh",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Excursion",
@@ -4748,8 +4752,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Ausflüge",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxvnj46texxy",
@@ -5145,14 +5149,16 @@
   },
   {
    "id": "muxvzi8tcu8di",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Order",
    "de": "Bestellung",
    "level": "A1.1",
    "article": "die",
-   "plural": "Bestellungen"
+   "plural": "Bestellungen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvzserboh91",

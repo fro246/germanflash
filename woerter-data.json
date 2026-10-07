@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361669951,
+ "updatedAt": 1791361679447,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4147,6 +4147,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Babys"
+  },
+  {
+   "id": "muxuhq3bb2xgj",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Child",
+   "de": "Kind",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Kinder"
   }
  ]
 }

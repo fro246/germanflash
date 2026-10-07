@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364079779,
+ "updatedAt": 1791364088315,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4980,6 +4980,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Schorlen"
+  },
+  {
+   "id": "muxvxcsbgpp0y",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Ice cream",
+   "de": "Eis",
+   "level": "A1.1",
+   "article": "das",
+   "plural": ""
   }
  ]
 }

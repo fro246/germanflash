@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365118524,
+ "updatedAt": 1791365122387,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5623,6 +5623,15 @@
    "type": "other",
    "en": "cold",
    "de": "kalt",
+   "level": "A1.1"
+  },
+  {
+   "id": "muxwjiojfqwfz",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "warm",
+   "de": "warm",
    "level": "A1.1"
   }
  ]

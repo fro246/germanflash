@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360020742,
+ "updatedAt": 1791360030641,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3033,6 +3033,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Nudeln"
+  },
+  {
+   "id": "muxtidv5w2605",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Rice",
+   "de": "Reis",
+   "level": "A1.1",
+   "article": "der",
+   "plural": ""
   }
  ]
 }

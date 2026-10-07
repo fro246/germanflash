@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391448809,
+ "updatedAt": 1791391494061,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -178,15 +178,15 @@
   {
    "id": "muna0v46e7do3",
    "hits": 1,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Theater",
    "de": "Theater",
    "level": "A1.1",
    "article": "das",
    "plural": "Theater",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muna12vbrpo04",
@@ -1545,12 +1545,14 @@
   },
   {
    "id": "muoi8rncn8ebr",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "still",
    "de": "noch",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muoi8w43v9kbg",
@@ -3822,7 +3824,7 @@
   },
   {
    "id": "muxtx480ilhnv",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Breakfast",
@@ -3830,8 +3832,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Frühstücke",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxtxf7g2rprn",
@@ -4568,7 +4570,7 @@
   },
   {
    "id": "muxulgfmonbfx",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Grandpa",
@@ -4576,8 +4578,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Opas",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxulqfw0mf4h",
@@ -5182,14 +5184,16 @@
   },
   {
    "id": "muxvtt7j0mgox",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Date",
    "de": "Datum",
    "level": "A1.1",
    "article": "das",
-   "plural": ""
+   "plural": "",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxvurqccgm92",
@@ -5919,7 +5923,7 @@
   },
   {
    "id": "muxwindq6sl9k",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to run",
@@ -5933,8 +5937,8 @@
     "ihr": "lauft",
     "sie": "laufen"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxwivia8tnfh",
@@ -6015,11 +6019,13 @@
   {
    "id": "muxwjwtyq0hmh",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "forbidden",
    "de": "verboten",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxwk2ufo7x9l",

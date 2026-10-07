@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360560244,
+ "updatedAt": 1791360605952,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3513,6 +3513,23 @@
     "wir": "trinken",
     "ihr": "trinkt",
     "sie": "trinken"
+   }
+  },
+  {
+   "id": "muxtups0iht43",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to like",
+   "de": "mögen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "mag",
+    "du": "magst",
+    "er": "mag",
+    "wir": "mögen",
+    "ihr": "mögt",
+    "sie": "mögen"
    }
   }
  ]

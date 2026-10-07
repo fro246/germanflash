@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360472631,
+ "updatedAt": 1791360482260,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3426,6 +3426,23 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Kassenzettel"
+  },
+  {
+   "id": "muxts2c4000ok",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to cost",
+   "de": "kosten",
+   "level": "A1.1",
+   "forms": {
+    "ich": "koste",
+    "du": "kostest",
+    "er": "kostet",
+    "wir": "kosten",
+    "ihr": "kostet",
+    "sie": "kosten"
+   }
   }
  ]
 }

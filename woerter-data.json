@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361915411,
+ "updatedAt": 1791361928753,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4363,6 +4363,17 @@
    "en": "married",
    "de": "verheiratet",
    "level": "A1.1"
+  },
+  {
+   "id": "muxun2gh9meej",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Time",
+   "de": "Zeit",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Zeiten"
   }
  ]
 }

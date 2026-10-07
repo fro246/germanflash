@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360506694,
+ "updatedAt": 1791360517822,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3460,6 +3460,15 @@
     "ihr": "wechselt",
     "sie": "wechseln"
    }
+  },
+  {
+   "id": "muxtstryux5xg",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "expensive",
+   "de": "teuer",
+   "level": "A1.1"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360914120,
+ "updatedAt": 1791360920070,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3769,6 +3769,15 @@
    "type": "other",
    "en": "nice",
    "de": "nett",
+   "level": "A1.1"
+  },
+  {
+   "id": "muxu1g5iwdaky",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "health",
+   "de": "gesund",
    "level": "A1.1"
   }
  ]

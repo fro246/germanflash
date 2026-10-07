@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360640972,
+ "updatedAt": 1791360655825,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3548,6 +3548,15 @@
     "ihr": "nehmt",
     "sie": "nehmen"
    }
+  },
+  {
+   "id": "muxtvs9d31xf4",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "finished",
+   "de": "fertig",
+   "level": "A1.1"
   }
  ]
 }

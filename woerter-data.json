@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363807514,
+ "updatedAt": 1791363891742,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4851,6 +4851,23 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Geburtstage"
+  },
+  {
+   "id": "muxvt53y9v9k7",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to become",
+   "de": "werden",
+   "level": "A1.1",
+   "forms": {
+    "ich": "werde",
+    "du": "wirst",
+    "er": "wird",
+    "wir": "werden",
+    "ihr": "werdet",
+    "sie": "werden"
+   }
   }
  ]
 }

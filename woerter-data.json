@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363980983,
+ "updatedAt": 1791363995482,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4909,6 +4909,15 @@
    "type": "other",
    "en": "Caution",
    "de": "Achtung",
+   "level": "A1.1"
+  },
+  {
+   "id": "muxvvd5mzxhhy",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "hopefully",
+   "de": "hoffentlich",
    "level": "A1.1"
   }
  ]

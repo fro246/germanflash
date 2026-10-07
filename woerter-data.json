@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360783311,
+ "updatedAt": 1791360790845,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3662,6 +3662,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Gerichte"
+  },
+  {
+   "id": "muxtyofxrbzdw",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Soup",
+   "de": "Suppe",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Suppen"
   }
  ]
 }

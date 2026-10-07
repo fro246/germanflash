@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365624402,
+ "updatedAt": 1791365668963,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -73,7 +73,7 @@
   },
   {
    "id": "mun9woaj80t8g",
-   "hits": 0,
+   "hits": 1,
    "misses": 3,
    "type": "noun",
    "en": "Appointment",
@@ -81,8 +81,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Verabredungen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mun9wxbjjzrr7",
@@ -765,7 +765,7 @@
   },
   {
    "id": "muo0tamuakq0w",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to note",
@@ -778,7 +778,9 @@
     "wir": "notieren",
     "ihr": "notiert",
     "sie": "notieren"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0ulgsg1akn",
@@ -2474,7 +2476,7 @@
   },
   {
    "id": "muvfp5ynxfibo",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Film",
@@ -2482,8 +2484,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Filme",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfpn3s0if2h",
@@ -3535,7 +3537,7 @@
   },
   {
    "id": "muxtups0iht43",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to like",
@@ -3548,7 +3550,9 @@
     "wir": "mögen",
     "ihr": "mögt",
     "sie": "mögen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtvgss4pc7v",

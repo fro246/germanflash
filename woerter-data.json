@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364350057,
+ "updatedAt": 1791364358154,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5239,6 +5239,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Gläser"
+  },
+  {
+   "id": "muxw34zul1jwf",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cup",
+   "de": "Tasse",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Tassen"
   }
  ]
 }

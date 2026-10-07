@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364358154,
+ "updatedAt": 1791364367776,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5250,6 +5250,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Tassen"
+  },
+  {
+   "id": "muxw3cf43mvol",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Plate",
+   "de": "Teller",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Teller"
   }
  ]
 }

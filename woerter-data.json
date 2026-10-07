@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362198857,
+ "updatedAt": 1791362217838,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4591,6 +4591,23 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Ideen"
+  },
+  {
+   "id": "muxut9iml3dwx",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to welcome",
+   "de": "willkommen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "willkomme",
+    "du": "willkommst",
+    "er": "willkommt",
+    "wir": "willkommen",
+    "ihr": "willkommt",
+    "sie": "willkommen"
+   }
   }
  ]
 }

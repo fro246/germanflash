@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391772843,
+ "updatedAt": 1791391829474,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1159,7 +1159,7 @@
   },
   {
    "id": "muo1w2cdwornd",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Course",
@@ -1167,8 +1167,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Kurse",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muo1xdcgqjk9e",
@@ -2170,7 +2170,7 @@
   },
   {
    "id": "muvf55sngngqs",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to see",
@@ -2184,8 +2184,8 @@
     "ihr": "seht",
     "sie": "sehen"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvf5g9133k0q",
@@ -2914,14 +2914,16 @@
   },
   {
    "id": "muxtabk4ci4p7",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Cucumber",
    "de": "Gurke",
    "level": "A1.1",
    "article": "die",
-   "plural": "Gurken"
+   "plural": "Gurken",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtak6rkzf55",
@@ -3391,13 +3393,15 @@
   {
    "id": "muxtm31n3g98y",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Market",
    "de": "Markt",
    "level": "A1.1",
    "article": "der",
-   "plural": "Märkten"
+   "plural": "Märkten",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxtmleantav1",
@@ -3497,7 +3501,7 @@
   },
   {
    "id": "muxtov0kinxn1",
-   "hits": 1,
+   "hits": 2,
    "misses": 2,
    "type": "noun",
    "en": "Kilogram",
@@ -3505,8 +3509,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxtp03v9x4e4",
@@ -3724,7 +3728,7 @@
   },
   {
    "id": "muxttqic3opig",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to drink",
@@ -3738,8 +3742,8 @@
     "ihr": "trinkt",
     "sie": "trinken"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtups0iht43",
@@ -4382,12 +4386,14 @@
   },
   {
    "id": "muxugmamls9d7",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "late",
    "de": "spät",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxugv40fiz87",
@@ -5178,7 +5184,7 @@
   },
   {
    "id": "muxvt53y9v9k7",
-   "hits": 0,
+   "hits": 1,
    "misses": 3,
    "type": "verb",
    "en": "to become",
@@ -5192,8 +5198,8 @@
     "ihr": "werdet",
     "sie": "werden"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxvtmt4rr2hc",

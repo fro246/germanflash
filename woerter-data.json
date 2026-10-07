@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361546675,
+ "updatedAt": 1791361554642,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4041,6 +4041,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": ""
+  },
+  {
+   "id": "muxuf1siryp7b",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Clock",
+   "de": "Uhr",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Uhren"
   }
  ]
 }

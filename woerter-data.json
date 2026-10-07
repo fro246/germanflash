@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364377527,
+ "updatedAt": 1791364386960,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5272,6 +5272,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Servietten"
+  },
+  {
+   "id": "muxw3r80ctp4o",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Pub",
+   "de": "Kneipe",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Kneipen"
   }
  ]
 }

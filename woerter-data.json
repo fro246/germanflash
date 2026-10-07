@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360075294,
+ "updatedAt": 1791360087157,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3088,6 +3088,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Marmeladen"
+  },
+  {
+   "id": "muxtjlh1e60ap",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cereal",
+   "de": "Müsli",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Müslis"
   }
  ]
 }

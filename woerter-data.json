@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366872391,
+ "updatedAt": 1791366934952,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1659,7 +1659,7 @@
   {
    "id": "muoic3rabci8x",
    "hits": 0,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Postal code",
    "de": "Postleitzahl",
@@ -2242,7 +2242,7 @@
   },
   {
    "id": "muvf87evx7qdf",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Airplane",
@@ -2250,8 +2250,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Flugzeuge",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvf8ge86njd1",
@@ -3394,13 +3394,15 @@
   {
    "id": "muxtov0kinxn1",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Kilogram",
    "de": "Kilo",
    "level": "A1.1",
    "article": "das",
-   "plural": ""
+   "plural": "",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxtp03v9x4e4",
@@ -3644,7 +3646,7 @@
   },
   {
    "id": "muxtvgss4pc7v",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to take",
@@ -3657,7 +3659,9 @@
     "wir": "nehmen",
     "ihr": "nehmt",
     "sie": "nehmen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtvs9d31xf4",
@@ -4780,13 +4784,15 @@
   {
    "id": "muxuu4l6hvzqk",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Problem",
    "de": "Problem",
    "level": "A1.1",
    "article": "das",
-   "plural": "Probleme"
+   "plural": "Probleme",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxuuk4g1q5dh",

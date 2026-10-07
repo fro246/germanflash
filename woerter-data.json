@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364629368,
+ "updatedAt": 1791364654749,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5411,6 +5411,23 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Karten"
+  },
+  {
+   "id": "muxw9hulcw2uy",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to come along",
+   "de": "mitkommen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "mitkomme",
+    "du": "mitkommst",
+    "er": "mitkommt",
+    "wir": "mitkommen",
+    "ihr": "mitkommt",
+    "sie": "mitkommen"
+   }
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362070892,
+ "updatedAt": 1791362083076,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4481,6 +4481,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Bars"
+  },
+  {
+   "id": "muxuqdj86j5pa",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Calendar",
+   "de": "Kalender",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Kalender"
   }
  ]
 }

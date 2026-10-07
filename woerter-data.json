@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363663091,
+ "updatedAt": 1791363676556,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4743,6 +4743,23 @@
     "wir": "wandern",
     "ihr": "wandert",
     "sie": "wandern"
+   }
+  },
+  {
+   "id": "muxvoj2kt23nw",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to celebrate",
+   "de": "feiern",
+   "level": "A1.1",
+   "forms": {
+    "ich": "feiere",
+    "du": "feierst",
+    "er": "feiert",
+    "wir": "feiern",
+    "ihr": "feiert",
+    "sie": "feiern"
    }
   }
  ]

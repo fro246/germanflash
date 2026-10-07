@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364765742,
+ "updatedAt": 1791364795065,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5495,6 +5495,23 @@
     "wir": "fangen an",
     "ihr": "fangt an",
     "sie": "fangen an"
+   }
+  },
+  {
+   "id": "muxwci4925cho",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to call",
+   "de": "anrufen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "rufe an",
+    "du": "rufst an",
+    "er": "ruft an",
+    "wir": "rufen an",
+    "ihr": "ruft an",
+    "sie": "rufen an"
    }
   }
  ]

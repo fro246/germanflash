@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361414029,
+ "updatedAt": 1791361438524,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3942,6 +3942,17 @@
     "ihr": "trefft",
     "sie": "treffen"
    }
+  },
+  {
+   "id": "muxuck70tj6to",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "News",
+   "de": "Nachricht",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Nachrichten"
   }
  ]
 }

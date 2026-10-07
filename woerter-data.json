@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364585252,
+ "updatedAt": 1791364606655,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5378,6 +5378,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Treffpunkte"
+  },
+  {
+   "id": "muxw8gqnnkf4b",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Entry",
+   "de": "Eintritt",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Eintritte"
   }
  ]
 }

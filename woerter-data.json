@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364148140,
+ "updatedAt": 1791364158515,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5035,6 +5035,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Sandwich"
+  },
+  {
+   "id": "muxvyuybim32y",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Thirst",
+   "de": "Durst",
+   "level": "A1.1",
+   "article": "der",
+   "plural": ""
   }
  ]
 }

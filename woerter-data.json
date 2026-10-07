@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360415318,
+ "updatedAt": 1791360423139,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3375,6 +3375,23 @@
     "wir": "möchten",
     "ihr": "möchtet",
     "sie": "möchten"
+   }
+  },
+  {
+   "id": "muxtqspv4snj6",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to find",
+   "de": "finden",
+   "level": "A1.1",
+   "forms": {
+    "ich": "finde",
+    "du": "findest",
+    "er": "findet",
+    "wir": "finden",
+    "ihr": "findet",
+    "sie": "finden"
    }
   }
  ]

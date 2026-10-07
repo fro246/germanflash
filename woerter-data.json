@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361803924,
+ "updatedAt": 1791361819174,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4268,6 +4268,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": ""
+  },
+  {
+   "id": "muxukpwmyqrtj",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Grandmother",
+   "de": "Großmutter",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Großmütter"
   }
  ]
 }

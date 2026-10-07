@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360265238,
+ "updatedAt": 1791360278344,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3231,6 +3231,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Packungen"
+  },
+  {
+   "id": "muxtnozsrpg1m",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Mug",
+   "de": "Becher",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Becher"
   }
  ]
 }

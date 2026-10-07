@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363711937,
+ "updatedAt": 1791363727228,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4794,6 +4794,23 @@
     "wir": "einladen",
     "ihr": "einladet",
     "sie": "einladen"
+   }
+  },
+  {
+   "id": "muxvpm64oeape",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to bring along",
+   "de": "mitbringen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "mitbringe",
+    "du": "mitbringst",
+    "er": "mitbringt",
+    "wir": "mitbringen",
+    "ihr": "mitbringt",
+    "sie": "mitbringen"
    }
   }
  ]

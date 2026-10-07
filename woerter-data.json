@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367477268,
+ "updatedAt": 1791367528799,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -73,7 +73,7 @@
   },
   {
    "id": "mun9woaj80t8g",
-   "hits": 3,
+   "hits": 4,
    "misses": 8,
    "type": "noun",
    "en": "Appointment",
@@ -81,8 +81,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Verabredungen",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mun9wxbjjzrr7",
@@ -486,14 +486,16 @@
   },
   {
    "id": "muo0j9d6g4lrr",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "First name",
    "de": "Vorname",
    "level": "A1.1",
    "article": "der",
-   "plural": "Vornamen"
+   "plural": "Vornamen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0jjl6genya",
@@ -1989,14 +1991,16 @@
   },
   {
    "id": "muvf188l2tfyt",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Mayor's Office",
    "de": "Rathaus",
    "level": "A1.1",
    "article": "das",
-   "plural": "Rathäuser"
+   "plural": "Rathäuser",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf1mmvyq1pq",
@@ -2687,13 +2691,15 @@
   {
    "id": "muvfrzv1n52ka",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Winter",
    "de": "Winter",
    "level": "A1.1",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvfs6mdcpbfd",
@@ -2932,14 +2938,16 @@
   },
   {
    "id": "muxtbpefa575m",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Bread",
    "de": "Brot",
    "level": "A1.1",
    "article": "das",
-   "plural": "Brote"
+   "plural": "Brote",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtbz6wtc2yp",
@@ -4247,14 +4255,16 @@
   },
   {
    "id": "muxufog2rq2zq",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Hour",
    "de": "Stunde",
    "level": "A1.1",
    "article": "die",
-   "plural": "Stunden"
+   "plural": "Stunden",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxug1h5izjcv",
@@ -4513,7 +4523,7 @@
   },
   {
    "id": "muxumfqkttiss",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Wife",
@@ -4521,8 +4531,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxuml597klmv",
@@ -5030,7 +5040,7 @@
   },
   {
    "id": "muxvqxsavtnsh",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Fest / Party",
@@ -5038,8 +5048,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Feste",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxvrc4apogyz",
@@ -5567,12 +5577,14 @@
   },
   {
    "id": "muxw5vyhs8p72",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "open",
    "de": "geöffnet",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxw61em4b8sp",

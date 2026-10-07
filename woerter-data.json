@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360353907,
+ "updatedAt": 1791360384304,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3324,6 +3324,23 @@
     "wir": "kaufen",
     "ihr": "kauft",
     "sie": "kaufen"
+   }
+  },
+  {
+   "id": "muxtpyr4urkf8",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "To go shopping",
+   "de": "einkaufen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "einkaufe",
+    "du": "einkaufst",
+    "er": "einkauft",
+    "wir": "einkaufen",
+    "ihr": "einkauft",
+    "sie": "einkaufen"
    }
   }
  ]

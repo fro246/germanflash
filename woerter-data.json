@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364035554,
+ "updatedAt": 1791364051037,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4947,6 +4947,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Mails"
+  },
+  {
+   "id": "muxvwk0tdfkar",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Subject (email)",
+   "de": "Betreff",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Betreffe"
   }
  ]
 }

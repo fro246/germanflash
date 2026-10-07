@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364234574,
+ "updatedAt": 1791364245444,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5134,6 +5134,23 @@
     "wir": "bringen",
     "ihr": "bringt",
     "sie": "bringen"
+   }
+  },
+  {
+   "id": "muxw0q10uagh8",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to pay for",
+   "de": "bezahlen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "bezahle",
+    "du": "bezahlst",
+    "er": "bezahlt",
+    "wir": "bezahlen",
+    "ihr": "bezahlt",
+    "sie": "bezahlen"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361945309,
+ "updatedAt": 1791361984503,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4390,6 +4390,23 @@
     "wir": "telefonieren",
     "ihr": "telefoniert",
     "sie": "telefonieren"
+   }
+  },
+  {
+   "id": "muxuo9h3xzjoy",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "can (verb)",
+   "de": "können",
+   "level": "A1.1",
+   "forms": {
+    "ich": "kann",
+    "du": "kannst",
+    "er": "kann",
+    "wir": "können",
+    "ihr": "könnt",
+    "sie": "können"
    }
   }
  ]

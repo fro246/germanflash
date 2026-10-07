@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791368028355,
+ "updatedAt": 1791368074568,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2340,14 +2340,14 @@
   },
   {
    "id": "muvf9y9cnlm15",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "straight ahead",
    "de": "geradeaus",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muvfa4078dk9b",
@@ -2999,14 +2999,16 @@
   },
   {
    "id": "muxtcetmqwcux",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Cake",
    "de": "Kuchen",
    "level": "A1.1",
    "article": "der",
-   "plural": "Kuchen"
+   "plural": "Kuchen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtcm2p9qy3d",
@@ -3839,7 +3841,7 @@
   },
   {
    "id": "muxty2uzopgee",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "verb",
    "en": "to eat breakfast",
@@ -3853,8 +3855,8 @@
     "ihr": "frühstückt",
     "sie": "frühstücken"
    },
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muxtyimn5j120",
@@ -4638,7 +4640,7 @@
   },
   {
    "id": "muxuo9h3xzjoy",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "can (verb)",
@@ -4651,7 +4653,9 @@
     "wir": "können",
     "ihr": "könnt",
     "sie": "können"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxup3f2clez2",
@@ -4831,14 +4835,16 @@
   },
   {
    "id": "muxusuvd7sugr",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Idea",
    "de": "Idee",
    "level": "A1.1",
    "article": "die",
-   "plural": "Ideen"
+   "plural": "Ideen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxut9iml3dwx",

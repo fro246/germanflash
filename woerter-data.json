@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364320638,
+ "updatedAt": 1791364336063,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5217,6 +5217,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Messer"
+  },
+  {
+   "id": "muxw2ny727zsi",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Spoon",
+   "de": "Löffel",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Löffel"
   }
  ]
 }

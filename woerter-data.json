@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366720310,
+ "updatedAt": 1791366777689,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -95,7 +95,7 @@
   },
   {
    "id": "mun9xe7aqhzi8",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Friend",
@@ -103,8 +103,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Freunde",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mun9y2mzn8vgv",
@@ -1559,12 +1559,14 @@
   },
   {
    "id": "muoi99y301jgi",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "Thursday",
    "de": "Donnerstag",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muoi9d7n8bhdk",
@@ -4363,14 +4365,16 @@
   },
   {
    "id": "muxuk5gur5but",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Sister",
    "de": "Schwester",
    "level": "A1.1",
    "article": "die",
-   "plural": "Schwestern"
+   "plural": "Schwestern",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuke50uhqy3",
@@ -5677,7 +5681,7 @@
   {
    "id": "muxwdsgszbmmb",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to listen / to sound",
    "de": "aufhören",
@@ -5689,7 +5693,9 @@
     "wir": "hören auf",
     "ihr": "hört auf",
     "sie": "hören auf"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxwehiruqom8",
@@ -5729,7 +5735,7 @@
   },
   {
    "id": "muxwindq6sl9k",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to run",
@@ -5742,7 +5748,9 @@
     "wir": "laufen",
     "ihr": "lauft",
     "sie": "laufen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxwivia8tnfh",

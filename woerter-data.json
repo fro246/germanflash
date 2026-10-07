@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365066764,
+ "updatedAt": 1791365081822,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5563,6 +5563,23 @@
     "wir": "glauben",
     "ihr": "glaubt",
     "sie": "glauben"
+   }
+  },
+  {
+   "id": "muxwindq6sl9k",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to run",
+   "de": "laufen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "laufe",
+    "du": "läufst",
+    "er": "läuft",
+    "wir": "laufen",
+    "ihr": "lauft",
+    "sie": "laufen"
    }
   }
  ]

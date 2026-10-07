@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359910953,
+ "updatedAt": 1791359951256,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2966,6 +2966,17 @@
    "de": "Sahne",
    "level": "A1.1",
    "article": "die",
+   "plural": ""
+  },
+  {
+   "id": "muxtgom0h16r3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Pepper",
+   "de": "Pfeffer",
+   "level": "A1.1",
+   "article": "der",
    "plural": ""
   }
  ]

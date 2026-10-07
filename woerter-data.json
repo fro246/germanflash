@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362083076,
+ "updatedAt": 1791362099509,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4492,6 +4492,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Kalender"
+  },
+  {
+   "id": "muxuqq7p2nqh2",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Meeting",
+   "de": "Besprechung",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Besprechungen"
   }
  ]
 }

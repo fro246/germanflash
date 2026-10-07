@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394848648,
+ "updatedAt": 1791394958674,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -949,7 +949,7 @@
   },
   {
    "id": "muo0ycq6yxork",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Text",
@@ -957,8 +957,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Texte",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muo0yo9tgaalc",
@@ -2587,7 +2587,7 @@
   },
   {
    "id": "muvfoay9k1da2",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Orchestra",
@@ -2595,8 +2595,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Orchester",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muvfoli9x4cb1",
@@ -2789,7 +2789,7 @@
   },
   {
    "id": "muvfsonnrcwqc",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Picture",
@@ -2797,8 +2797,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Bilder",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muvfsva0y2gaz",
@@ -4417,12 +4417,14 @@
   },
   {
    "id": "muxugdgws2kfw",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "punctual",
    "de": "pünktlich",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxugmamls9d7",
@@ -4867,7 +4869,7 @@
   },
   {
    "id": "muxur8vgse0l3",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Ball",
@@ -4875,8 +4877,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Bälle",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxurp2fe0sdo",
@@ -6014,7 +6016,7 @@
   {
    "id": "muxwindq6sl9k",
    "hits": 3,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to run",
    "de": "laufen",
@@ -6027,8 +6029,8 @@
     "ihr": "lauft",
     "sie": "laufen"
    },
-   "box": 4,
-   "streak": 6
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxwivia8tnfh",

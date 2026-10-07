@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363657570,
+ "updatedAt": 1791363663091,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4726,6 +4726,23 @@
     "wir": "klettern",
     "ihr": "klettert",
     "sie": "klettern"
+   }
+  },
+  {
+   "id": "muxvo8oj3q8cq",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to hike",
+   "de": "wandern",
+   "level": "A1.1",
+   "forms": {
+    "ich": "wandere",
+    "du": "wanderst",
+    "er": "wandert",
+    "wir": "wandern",
+    "ihr": "wandert",
+    "sie": "wandern"
    }
   }
  ]

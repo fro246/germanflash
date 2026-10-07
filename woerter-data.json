@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360816344,
+ "updatedAt": 1791360839271,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3694,6 +3694,17 @@
    "de": "Pommes",
    "level": "A1.1",
    "article": "die",
+   "plural": ""
+  },
+  {
+   "id": "muxtzpt3t85e3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Morning",
+   "de": "Morgen",
+   "level": "A1.1",
+   "article": "der",
    "plural": ""
   }
  ]

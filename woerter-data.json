@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364606655,
+ "updatedAt": 1791364620017,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5389,6 +5389,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Eintritte"
+  },
+  {
+   "id": "muxw8r1tomx0m",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Registration",
+   "de": "Anmeldung",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Anmeldungen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364367776,
+ "updatedAt": 1791364377527,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5261,6 +5261,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Teller"
+  },
+  {
+   "id": "muxw3jxz13pqs",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Napkin",
+   "de": "Serviette",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Servietten"
   }
  ]
 }

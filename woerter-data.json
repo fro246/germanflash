@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360906913,
+ "updatedAt": 1791360914120,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3761,6 +3761,15 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Einladungen"
+  },
+  {
+   "id": "muxu1bk8quxze",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "nice",
+   "de": "nett",
+   "level": "A1.1"
   }
  ]
 }

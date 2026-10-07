@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363995482,
+ "updatedAt": 1791364022868,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4919,6 +4919,23 @@
    "en": "hopefully",
    "de": "hoffentlich",
    "level": "A1.1"
+  },
+  {
+   "id": "muxvvyac2qm69",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to send",
+   "de": "schicken",
+   "level": "A1.1",
+   "forms": {
+    "ich": "schicke",
+    "du": "schickst",
+    "er": "schickt",
+    "wir": "schicken",
+    "ihr": "schickt",
+    "sie": "schicken"
+   }
   }
  ]
 }

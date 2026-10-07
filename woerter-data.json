@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360227026,
+ "updatedAt": 1791360248930,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3209,6 +3209,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Metzgereien"
+  },
+  {
+   "id": "muxtn2aqfmbid",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Supermarket",
+   "de": "Supermarkt",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Supermärkte"
   }
  ]
 }

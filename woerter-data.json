@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364245444,
+ "updatedAt": 1791364250211,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5151,6 +5151,23 @@
     "wir": "bezahlen",
     "ihr": "bezahlt",
     "sie": "bezahlen"
+   }
+  },
+  {
+   "id": "muxw0tpf0bet3",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to pay",
+   "de": "zahlen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "zahle",
+    "du": "zahlst",
+    "er": "zahlt",
+    "wir": "zahlen",
+    "ihr": "zahlt",
+    "sie": "zahlen"
    }
   }
  ]

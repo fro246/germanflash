@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365006248,
+ "updatedAt": 1791365032114,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5421,12 +5421,12 @@
    "de": "mitkommen",
    "level": "A1.1",
    "forms": {
-    "ich": "mitkomme",
-    "du": "mitkommst",
-    "er": "mitkommt",
-    "wir": "mitkommen",
-    "ihr": "mitkommt",
-    "sie": "mitkommen"
+    "ich": "komme mit",
+    "du": "kommst mit",
+    "er": "kommt mit",
+    "wir": "kommen mit",
+    "ihr": "kommt mit",
+    "sie": "kommen mit"
    }
   },
   {

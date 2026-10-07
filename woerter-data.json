@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362053593,
+ "updatedAt": 1791362064378,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4459,6 +4459,17 @@
     "ihr": "sitzt",
     "sie": "sitzen"
    }
+  },
+  {
+   "id": "muxupz3u4knrh",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Party",
+   "de": "Party",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Partys"
   }
  ]
 }

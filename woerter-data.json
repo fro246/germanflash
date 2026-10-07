@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366498392,
+ "updatedAt": 1791366526977,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2050,13 +2050,13 @@
   {
    "id": "muvf3tak7xh06",
    "hits": 0,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Train Station",
    "de": "Bahnhof",
    "level": "A1.1",
    "article": "der",
-   "plural": "Bahnöfe",
+   "plural": "Bahnhöfe",
    "box": 0,
    "streak": 0
   },

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360881314,
+ "updatedAt": 1791360892408,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3739,6 +3739,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Abende"
+  },
+  {
+   "id": "muxu0ut4h8jx5",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Night",
+   "de": "Nacht",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Nächte"
   }
  ]
 }

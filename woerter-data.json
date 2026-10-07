@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364022868,
+ "updatedAt": 1791364035554,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4936,6 +4936,17 @@
     "ihr": "schickt",
     "sie": "schicken"
    }
+  },
+  {
+   "id": "muxvw82qeo82k",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Mail / Email",
+   "de": "Mail",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Mails"
   }
  ]
 }

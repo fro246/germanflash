@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364162810,
+ "updatedAt": 1791364173929,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5057,6 +5057,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": ""
+  },
+  {
+   "id": "muxvz6uhin5jk",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Menu",
+   "de": "Speisekarte",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Speisekarten"
   }
  ]
 }

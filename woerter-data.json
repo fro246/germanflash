@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367673217,
+ "updatedAt": 1791367724906,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1079,14 +1079,16 @@
   },
   {
    "id": "muo1tbcuu6caa",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Restaurant",
    "de": "Restaurant",
    "level": "A1.1",
    "article": "das",
-   "plural": "Restaurants"
+   "plural": "Restaurants",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo1ttzezm1x2",
@@ -2858,14 +2860,16 @@
   },
   {
    "id": "muxt9s2pl7rvz",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Pear",
    "de": "Birne",
    "level": "A1.1",
    "article": "die",
-   "plural": "Birnen"
+   "plural": "Birnen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxta2mzkz0ql",
@@ -3249,13 +3253,15 @@
   {
    "id": "muxtjyt2vv9q5",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Drink",
    "de": "Getränk",
    "level": "A1.1",
    "article": "das",
-   "plural": "Getränke"
+   "plural": "Getränke",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxtk5xofl3ty",
@@ -4046,7 +4052,7 @@
   },
   {
    "id": "muxu3lthn8d38",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "verb",
    "en": "to cut",
@@ -4060,8 +4066,8 @@
     "ihr": "schneidet",
     "sie": "schneiden"
    },
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muxubdhesdbij",

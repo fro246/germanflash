@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362217838,
+ "updatedAt": 1791362228656,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4608,6 +4608,15 @@
     "ihr": "willkommt",
     "sie": "willkommen"
    }
+  },
+  {
+   "id": "muxuthv4lly4x",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "cool",
+   "de": "cool",
+   "level": "A1.1"
   }
  ]
 }

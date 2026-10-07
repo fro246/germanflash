@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360959208,
+ "updatedAt": 1791360987415,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3817,6 +3817,23 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Kantinen"
+  },
+  {
+   "id": "muxu2w472ntif",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to wash",
+   "de": "waschen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "wasche",
+    "du": "wäschst",
+    "er": "wäscht",
+    "wir": "waschen",
+    "ihr": "wascht",
+    "sie": "waschen"
+   }
   }
  ]
 }

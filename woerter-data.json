@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361846674,
+ "updatedAt": 1791361853554,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4301,6 +4301,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Großväter"
+  },
+  {
+   "id": "muxulgfmonbfx",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Grandpa",
+   "de": "Opa",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Opas"
   }
  ]
 }

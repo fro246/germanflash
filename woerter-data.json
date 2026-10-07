@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360874634,
+ "updatedAt": 1791360881314,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3728,6 +3728,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Nachmittage"
+  },
+  {
+   "id": "muxu0m8yx481b",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Evening",
+   "de": "Abend",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Abende"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391702979,
+ "updatedAt": 1791391752181,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -514,7 +514,7 @@
   },
   {
    "id": "muo0k9y4q4fca",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "verb",
    "en": "to be called",
@@ -528,8 +528,8 @@
     "ihr": "heißt",
     "sie": "heißen"
    },
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muo0kttyr7kkl",
@@ -1194,7 +1194,7 @@
   },
   {
    "id": "muo1yn291xhbe",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Student",
@@ -1202,8 +1202,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Studenten",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muo1z1uxg3rou",
@@ -2171,7 +2171,7 @@
   {
    "id": "muvf55sngngqs",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to see",
    "de": "sehen",
@@ -2183,7 +2183,9 @@
     "wir": "sehen",
     "ihr": "seht",
     "sie": "sehen"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvf5g9133k0q",
@@ -2307,14 +2309,16 @@
   },
   {
    "id": "muvf8ge86njd1",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Ticket",
    "de": "Fahrkarte",
    "level": "A1.1",
    "article": "die",
-   "plural": "Fahrkarten"
+   "plural": "Fahrkarten",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf8mdx94nld",
@@ -5175,7 +5179,7 @@
   {
    "id": "muxvt53y9v9k7",
    "hits": 0,
-   "misses": 2,
+   "misses": 3,
    "type": "verb",
    "en": "to become",
    "de": "werden",

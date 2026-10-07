@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360443792,
+ "updatedAt": 1791360455505,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3404,6 +3404,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Einkaufswagen"
+  },
+  {
+   "id": "muxtrhox0v7nj",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Price",
+   "de": "Preis",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Preise"
   }
  ]
 }

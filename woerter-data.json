@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360605952,
+ "updatedAt": 1791360640972,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3530,6 +3530,23 @@
     "wir": "mögen",
     "ihr": "mögt",
     "sie": "mögen"
+   }
+  },
+  {
+   "id": "muxtvgss4pc7v",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to take",
+   "de": "nehmen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "nehme",
+    "du": "nimmst",
+    "er": "nimmt",
+    "wir": "nehmen",
+    "ihr": "nehmt",
+    "sie": "nehmen"
    }
   }
  ]

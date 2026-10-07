@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366777689,
+ "updatedAt": 1791366821091,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1659,13 +1659,15 @@
   {
    "id": "muoic3rabci8x",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Postal code",
    "de": "Postleitzahl",
    "level": "A1.1",
    "article": "die",
-   "plural": "Postleitzahlen"
+   "plural": "Postleitzahlen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muoicwbbna7wg",
@@ -1954,7 +1956,7 @@
   },
   {
    "id": "muvf0tmtu9g6m",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "House",
@@ -1962,8 +1964,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Häuser",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muvf188l2tfyt",
@@ -2239,13 +2241,15 @@
   {
    "id": "muvf87evx7qdf",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Airplane",
    "de": "Flugzeug",
    "level": "A1.1",
    "article": "das",
-   "plural": "Flugzeuge"
+   "plural": "Flugzeuge",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvf8ge86njd1",
@@ -5680,7 +5684,7 @@
   },
   {
    "id": "muxwdsgszbmmb",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to listen / to sound",
@@ -5694,8 +5698,8 @@
     "ihr": "hört auf",
     "sie": "hören auf"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxwehiruqom8",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366526977,
+ "updatedAt": 1791366574040,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -793,7 +793,7 @@
   {
    "id": "muo0ulgsg1akn",
    "hits": 1,
-   "misses": 2,
+   "misses": 3,
    "type": "verb",
    "en": "to guess",
    "de": "raten",
@@ -2050,7 +2050,7 @@
   {
    "id": "muvf3tak7xh06",
    "hits": 0,
-   "misses": 3,
+   "misses": 4,
    "type": "noun",
    "en": "Train Station",
    "de": "Bahnhof",
@@ -2123,12 +2123,14 @@
   },
   {
    "id": "muvf5g9133k0q",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "interesting",
    "de": "interessant",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf5lfyneypy",
@@ -3410,7 +3412,7 @@
   },
   {
    "id": "muxtpyr4urkf8",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "To go shopping",
@@ -3424,8 +3426,8 @@
     "ihr": "kauft ein",
     "sie": "kaufen ein"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtq5vug5yyf",

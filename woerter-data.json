@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361003802,
+ "updatedAt": 1791361020725,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3867,6 +3867,23 @@
     "wir": "probieren",
     "ihr": "probiert",
     "sie": "probieren"
+   }
+  },
+  {
+   "id": "muxu3lthn8d38",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to cut",
+   "de": "schneiden",
+   "level": "A1.1",
+   "forms": {
+    "ich": "schneide",
+    "du": "schneidest",
+    "er": "schneidet",
+    "wir": "schneiden",
+    "ihr": "schneidet",
+    "sie": "schneiden"
    }
   }
  ]

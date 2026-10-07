@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359665587,
+ "updatedAt": 1791359677858,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2769,6 +2769,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Kartoffeln"
+  },
+  {
+   "id": "muxtatnm0w754",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Lettuce / Salad",
+   "de": "Salat",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Salate"
   }
  ]
 }

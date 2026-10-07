@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359642843,
+ "updatedAt": 1791359654404,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2747,6 +2747,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": ""
+  },
+  {
+   "id": "muxtabk4ci4p7",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cucumber",
+   "de": "Gurke",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Gurken"
   }
  ]
 }

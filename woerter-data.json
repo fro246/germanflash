@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367085025,
+ "updatedAt": 1791367125879,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -681,14 +681,14 @@
   },
   {
    "id": "muo0qq9eevm5n",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "other",
    "en": "Until later",
    "de": "bis bald",
    "level": "A1.1",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muo0qybewg2x2",
@@ -3491,7 +3491,7 @@
   },
   {
    "id": "muxtqspv4snj6",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to find",
@@ -3504,7 +3504,9 @@
     "wir": "finden",
     "ihr": "findet",
     "sie": "finden"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtr8nk8e1ss",
@@ -4398,14 +4400,16 @@
   },
   {
    "id": "muxuke50uhqy3",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Siblings",
    "de": "Geschwister",
    "level": "A1.1",
    "article": "die",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxukpwmyqrtj",
@@ -4659,14 +4663,16 @@
   },
   {
    "id": "muxur8vgse0l3",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Ball",
    "de": "Ball",
    "level": "A1.1",
    "article": "der",
-   "plural": "Bälle"
+   "plural": "Bälle",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxurp2fe0sdo",
@@ -5383,14 +5389,16 @@
   },
   {
    "id": "muxw2c1qkoe82",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Knife",
    "de": "Messer",
    "level": "A1.1",
    "article": "das",
-   "plural": "Messer"
+   "plural": "Messer",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxw2ny727zsi",

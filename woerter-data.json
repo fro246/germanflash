@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365404798,
+ "updatedAt": 1791365474594,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -584,13 +584,15 @@
   {
    "id": "muo0ntavsrdok",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Country",
    "de": "Land",
    "level": "A1.1",
    "article": "das",
-   "plural": "Länder"
+   "plural": "Länder",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo0o1z30fb1o",
@@ -2273,7 +2275,7 @@
   {
    "id": "muvfd5zot9tfo",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "verb",
    "en": "to indicate",
    "de": "zeigen",
@@ -2438,14 +2440,16 @@
   },
   {
    "id": "muvfoli9x4cb1",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Choir",
    "de": "Chor",
    "level": "A1.1",
    "article": "der",
-   "plural": "Chöre"
+   "plural": "Chöre",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfoz4i5ilc1",
@@ -4703,13 +4707,15 @@
   {
    "id": "muxvnqqcke4t3",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Picnic",
    "de": "Picknick",
    "level": "A1.1",
    "article": "das",
-   "plural": "Picknicks"
+   "plural": "Picknicks",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxvo4f6ki2np",

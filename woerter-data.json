@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394643455,
+ "updatedAt": 1791394673274,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2060,7 +2060,7 @@
   },
   {
    "id": "muvf29npj1plf",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Tower",
@@ -2068,8 +2068,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Türme",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muvf2fglzs9xa",
@@ -2775,7 +2775,7 @@
   },
   {
    "id": "muvfsonnrcwqc",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Picture",
@@ -2783,8 +2783,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Bilder",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muvfsva0y2gaz",
@@ -3009,7 +3009,7 @@
   },
   {
    "id": "muxtbz6wtc2yp",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Bread roll",
@@ -3017,8 +3017,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Brötchen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtc91bj7s73",
@@ -5658,14 +5658,16 @@
   },
   {
    "id": "muxw3jxz13pqs",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Napkin",
    "de": "Serviette",
    "level": "A1.1",
    "article": "die",
-   "plural": "Servietten"
+   "plural": "Servietten",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxw3r80ctp4o",

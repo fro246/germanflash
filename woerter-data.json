@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365882442,
+ "updatedAt": 1791365933855,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1600,13 +1600,15 @@
   {
    "id": "muoiaumuzf06e",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Address",
    "de": "Addresse",
    "level": "A1.1",
    "article": "die",
-   "plural": "Addressen"
+   "plural": "Addressen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muoib5xgcb7l0",
@@ -2252,12 +2254,14 @@
   },
   {
    "id": "muvf9y9cnlm15",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "straight ahead",
    "de": "geradeaus",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvfa4078dk9b",
@@ -2493,14 +2497,16 @@
   },
   {
    "id": "muvfpn3s0if2h",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Actor",
    "de": "Schauspieler",
    "level": "A1.1",
    "article": "der",
-   "plural": "Schauspieler"
+   "plural": "Schauspieler",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvfq3gms6131",
@@ -4851,7 +4857,7 @@
   },
   {
    "id": "muxvqp7nvi1c0",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to know",
@@ -4864,7 +4870,9 @@
     "wir": "wissen",
     "ihr": "wisst",
     "sie": "wissen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvqxsavtnsh",
@@ -5745,7 +5753,7 @@
   {
    "id": "muxwkvejocfh6",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Playground",
    "de": "Spielplatz",

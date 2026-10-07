@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364173929,
+ "updatedAt": 1791364188701,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5068,6 +5068,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Speisekarten"
+  },
+  {
+   "id": "muxvzi8tcu8di",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Order",
+   "de": "Bestellung",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Bestellungen"
   }
  ]
 }

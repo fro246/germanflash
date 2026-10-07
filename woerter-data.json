@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391829474,
+ "updatedAt": 1791391874337,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1911,14 +1911,14 @@
   },
   {
    "id": "muvez20ic53p0",
-   "hits": 1,
+   "hits": 3,
    "misses": 0,
    "type": "other",
    "en": "unfortunately",
    "de": "leider",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muvez6o7osdzf",
@@ -2063,7 +2063,7 @@
   },
   {
    "id": "muvf2fglzs9xa",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "noun",
    "en": "Hotel",
@@ -2071,8 +2071,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Hotels",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muvf2oi7svucx",
@@ -2639,7 +2639,7 @@
   },
   {
    "id": "muvfqi3ag20y9",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Director",
@@ -2647,8 +2647,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Regisseure",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muvfqtgkp14gu",
@@ -3392,7 +3392,7 @@
   },
   {
    "id": "muxtm31n3g98y",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Market",
@@ -3400,8 +3400,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Märkten",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxtmleantav1",
@@ -5953,7 +5953,7 @@
   },
   {
    "id": "muxwindq6sl9k",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "verb",
    "en": "to run",
@@ -5967,8 +5967,8 @@
     "ihr": "lauft",
     "sie": "laufen"
    },
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muxwivia8tnfh",
@@ -6048,14 +6048,14 @@
   },
   {
    "id": "muxwjwtyq0hmh",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "other",
    "en": "forbidden",
    "de": "verboten",
    "level": "A1.1",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxwk2ufo7x9l",

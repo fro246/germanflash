@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359761345,
+ "updatedAt": 1791359773278,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2868,6 +2868,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": ""
+  },
+  {
+   "id": "muxtcva6m5yll",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Chicken",
+   "de": "Hähnchen",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Hänchen"
   }
  ]
 }

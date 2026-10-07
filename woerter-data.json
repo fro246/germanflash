@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365724370,
+ "updatedAt": 1791365764017,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -628,12 +628,14 @@
   },
   {
    "id": "muo0pv8y34wq8",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "Good morning",
    "de": "Guten Morgen",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0q35fux1xu",
@@ -1819,7 +1821,7 @@
   {
    "id": "muveypdhujdj8",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to go",
    "de": "gehen",
@@ -1831,7 +1833,9 @@
     "wir": "gehen",
     "ihr": "geht",
     "sie": "gehen"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvez20ic53p0",
@@ -2511,7 +2515,7 @@
   },
   {
    "id": "muvfqi3ag20y9",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Director",
@@ -2519,8 +2523,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Regisseure",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfqtgkp14gu",
@@ -4795,7 +4799,7 @@
   {
    "id": "muxvoxgh9tbyh",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to gift",
    "de": "schenken",
@@ -4807,7 +4811,9 @@
     "wir": "schenken",
     "ihr": "schenkt",
     "sie": "schenken"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxvpadd0wsuq",

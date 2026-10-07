@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361472820,
+ "updatedAt": 1791361486512,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3986,6 +3986,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Bibliotheken"
+  },
+  {
+   "id": "muxudl7zvq7ng",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Music school",
+   "de": "Musikschule",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Musikschulen"
   }
  ]
 }

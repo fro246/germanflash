@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367421378,
+ "updatedAt": 1791367477268,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -972,7 +972,7 @@
   },
   {
    "id": "muo0zew4t5prn",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Bottle",
@@ -980,8 +980,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Flaschen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muo0zr24qy088",
@@ -1112,7 +1112,7 @@
   },
   {
    "id": "muo1unkc49tp2",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Company",
@@ -1120,8 +1120,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Firmen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muo1v20phap23",
@@ -1347,14 +1347,16 @@
   },
   {
    "id": "muo25czyk6jbr",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Doctor (female)",
    "de": "Ärztin",
    "level": "A1.1",
    "article": "die",
-   "plural": "Ärztinnen"
+   "plural": "Ärztinnen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo25ubmec4um",
@@ -1534,14 +1536,14 @@
   },
   {
    "id": "muoi8w43v9kbg",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "Monday",
    "de": "Montag",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muoi900h3pfsy",
@@ -1576,12 +1578,14 @@
   },
   {
    "id": "muoi9d7n8bhdk",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "Friday",
    "de": "Freitag",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muoi9j0ce5bj5",
@@ -3099,14 +3103,16 @@
   },
   {
    "id": "muxth1qsfjjlg",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Salt",
    "de": "Salz",
    "level": "A1.1",
    "article": "das",
-   "plural": "Salze"
+   "plural": "Salze",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxth8wdwdy87",
@@ -5025,13 +5031,15 @@
   {
    "id": "muxvqxsavtnsh",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Fest / Party",
    "de": "Fest",
    "level": "A1.1",
    "article": "das",
-   "plural": "Feste"
+   "plural": "Feste",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxvrc4apogyz",

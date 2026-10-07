@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359846534,
+ "updatedAt": 1791359862920,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2912,6 +2912,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Würstchen"
+  },
+  {
+   "id": "muxtesg8x462v",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Butter",
+   "de": "Butter",
+   "level": "A1.1",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

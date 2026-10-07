@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360063244,
+ "updatedAt": 1791360075294,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3077,6 +3077,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Schokoladen"
+  },
+  {
+   "id": "muxtjcbizfk42",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Jam",
+   "de": "Marmelade",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Marmeladen"
   }
  ]
 }

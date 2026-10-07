@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363639828,
+ "updatedAt": 1791363657570,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4710,6 +4710,23 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Picknicks"
+  },
+  {
+   "id": "muxvo4f6ki2np",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to climb",
+   "de": "klettern",
+   "level": "A1.1",
+   "forms": {
+    "ich": "klettere",
+    "du": "kletterst",
+    "er": "klettert",
+    "wir": "klettern",
+    "ihr": "klettert",
+    "sie": "klettern"
+   }
   }
  ]
 }

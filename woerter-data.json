@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361928753,
+ "updatedAt": 1791361945309,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4374,6 +4374,23 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Zeiten"
+  },
+  {
+   "id": "muxunf8d0lau8",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to call (on the phone)",
+   "de": "telefonieren",
+   "level": "A1.1",
+   "forms": {
+    "ich": "telefoniere",
+    "du": "telefonierst",
+    "er": "telefoniert",
+    "wir": "telefonieren",
+    "ihr": "telefoniert",
+    "sie": "telefonieren"
+   }
   }
  ]
 }

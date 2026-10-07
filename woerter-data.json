@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359880981,
+ "updatedAt": 1791359892248,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2934,6 +2934,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Joghurts"
+  },
+  {
+   "id": "muxtff2wyumai",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cheese",
+   "de": "Käse",
+   "level": "A1.1",
+   "article": "der",
+   "plural": ""
   }
  ]
 }

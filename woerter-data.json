@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360287519,
+ "updatedAt": 1791360299220,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3253,6 +3253,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Dosen"
+  },
+  {
+   "id": "muxto53oiz5m6",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Piece",
+   "de": "Stück",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Stücken"
   }
  ]
 }

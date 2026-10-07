@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391609531,
+ "updatedAt": 1791391657080,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -392,12 +392,14 @@
   },
   {
    "id": "muna5csrzsx5o",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "where",
    "de": "wo",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna5nb0wkqw1",
@@ -1107,7 +1109,7 @@
   },
   {
    "id": "muo1u81bbt2zi",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Colleague (female)",
@@ -1115,8 +1117,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Kolleginnen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo1unkc49tp2",
@@ -1190,14 +1192,16 @@
   },
   {
    "id": "muo1yn291xhbe",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Student",
    "de": "Student",
    "level": "A1.1",
    "article": "der",
-   "plural": "Studenten"
+   "plural": "Studenten",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo1z1uxg3rou",
@@ -2529,14 +2533,16 @@
   },
   {
    "id": "muvfns6atuijh",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Guest",
    "de": "Gast",
    "level": "A1.1",
    "article": "der",
-   "plural": "Gäste"
+   "plural": "Gäste",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvfnzh65bno9",
@@ -3284,7 +3290,7 @@
   },
   {
    "id": "muxtjyt2vv9q5",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Drink",
@@ -3292,8 +3298,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Getränke",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxtk5xofl3ty",
@@ -4788,14 +4794,16 @@
   },
   {
    "id": "muxur15k6194p",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Sport",
    "de": "Sport",
    "level": "A1.1",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxur8vgse0l3",
@@ -5149,14 +5157,16 @@
   },
   {
    "id": "muxvrc4apogyz",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Birthday",
    "de": "Geburtstag",
    "level": "A1.1",
    "article": "der",
-   "plural": "Geburtstage"
+   "plural": "Geburtstage",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvt53y9v9k7",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391363618,
+ "updatedAt": 1791391400087,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3821,13 +3821,15 @@
   {
    "id": "muxtx480ilhnv",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Breakfast",
-   "de": "Frühstrück",
+   "de": "Frühstück",
    "level": "A1.1",
    "article": "das",
-   "plural": "Frühstrücke"
+   "plural": "Frühstücke",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxtxf7g2rprn",
@@ -4060,7 +4062,7 @@
   },
   {
    "id": "muxu32gj0di6e",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to grill",
@@ -4073,7 +4075,9 @@
     "wir": "grillen",
     "ihr": "grillt",
     "sie": "grillen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxu38reze4j1",

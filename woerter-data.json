@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364654749,
+ "updatedAt": 1791364673350,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5427,6 +5427,23 @@
     "wir": "mitkommen",
     "ihr": "mitkommt",
     "sie": "mitkommen"
+   }
+  },
+  {
+   "id": "muxw9w7a8cr5u",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to start",
+   "de": "beginnen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "beginne",
+    "du": "beginnst",
+    "er": "beginnt",
+    "wir": "beginnen",
+    "ihr": "beginnt",
+    "sie": "beginnen"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364673350,
+ "updatedAt": 1791364678487,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5444,6 +5444,23 @@
     "wir": "beginnen",
     "ihr": "beginnt",
     "sie": "beginnen"
+   }
+  },
+  {
+   "id": "muxwa05zv4pxo",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to end",
+   "de": "enden",
+   "level": "A1.1",
+   "forms": {
+    "ich": "ende",
+    "du": "endest",
+    "er": "endet",
+    "wir": "enden",
+    "ihr": "endet",
+    "sie": "enden"
    }
   }
  ]

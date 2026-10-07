@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359988525,
+ "updatedAt": 1791360006949,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3011,6 +3011,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Essige"
+  },
+  {
+   "id": "muxthvl164cnv",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Oil",
+   "de": "Öl",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Öle"
   }
  ]
 }

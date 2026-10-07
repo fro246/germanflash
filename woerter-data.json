@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364493470,
+ "updatedAt": 1791364563137,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5356,6 +5356,17 @@
    "en": "outside",
    "de": "draußen",
    "level": "A1.1"
+  },
+  {
+   "id": "muxw7j5th0m1l",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Program",
+   "de": "Programm",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Programme"
   }
  ]
 }

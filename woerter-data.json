@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361687749,
+ "updatedAt": 1791361700350,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4169,6 +4169,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Jungen"
+  },
+  {
+   "id": "muxui67y5w2ym",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Girl",
+   "de": "Mädchen",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Mädchen"
   }
  ]
 }

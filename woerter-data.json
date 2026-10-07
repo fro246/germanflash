@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362044100,
+ "updatedAt": 1791362053593,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4441,6 +4441,23 @@
     "wir": "wollen",
     "ihr": "wollt",
     "sie": "wollen"
+   }
+  },
+  {
+   "id": "muxupqs9wumvv",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to sit",
+   "de": "sitzen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "sitze",
+    "du": "sitzt",
+    "er": "sitzt",
+    "wir": "sitzen",
+    "ihr": "sitzt",
+    "sie": "sitzen"
    }
   }
  ]

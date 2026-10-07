@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394437063,
+ "updatedAt": 1791394492363,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2274,7 +2274,7 @@
   },
   {
    "id": "muvf7ff34dmbo",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Train",
@@ -2282,8 +2282,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Züge",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muvf7vsk68stv",
@@ -4357,7 +4357,7 @@
   },
   {
    "id": "muxufog2rq2zq",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Hour",
@@ -4365,8 +4365,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Stunden",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxug1h5izjcv",
@@ -4662,7 +4662,7 @@
   {
    "id": "muxums5vet8wg",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "other",
    "en": "married",
    "de": "verheiratet",
@@ -4740,8 +4740,8 @@
   },
   {
    "id": "muxupjgkpu1lf",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "verb",
    "en": "to want",
    "de": "wollen",
@@ -4753,7 +4753,9 @@
     "wir": "wollen",
     "ihr": "wollt",
     "sie": "wollen"
-   }
+   },
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxupqs9wumvv",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360203243,
+ "updatedAt": 1791360227026,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3198,6 +3198,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Märkten"
+  },
+  {
+   "id": "muxtmleantav1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Butchery",
+   "de": "Metzgerei",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Metzgereien"
   }
  ]
 }

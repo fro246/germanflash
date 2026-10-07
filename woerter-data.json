@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360312668,
+ "updatedAt": 1791360325057,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3275,6 +3275,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Tüten"
+  },
+  {
+   "id": "muxtop1dvuq8h",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Gram",
+   "de": "Gramm",
+   "level": "A1.1",
+   "article": "das",
+   "plural": ""
   }
  ]
 }

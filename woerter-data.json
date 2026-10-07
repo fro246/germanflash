@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367185012,
+ "updatedAt": 1791367223858,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1125,14 +1125,16 @@
   },
   {
    "id": "muo1v20phap23",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Teacher",
    "de": "Lehrer",
    "level": "A1.1",
    "article": "der",
-   "plural": "Lehrer"
+   "plural": "Lehrer",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo1vtvu89zem",
@@ -1873,12 +1875,14 @@
   },
   {
    "id": "muvez20ic53p0",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "unfortunately",
    "de": "leider",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvez6o7osdzf",
@@ -2607,7 +2611,7 @@
   },
   {
    "id": "muvfr2pjcazgo",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to find",
@@ -2621,8 +2625,8 @@
     "ihr": "findet",
     "sie": "finden"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfrgaaxgupz",
@@ -2962,14 +2966,16 @@
   },
   {
    "id": "muxtcm2p9qy3d",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Meat",
    "de": "Fleisch",
    "level": "A1.1",
    "article": "das",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtcva6m5yll",
@@ -3343,13 +3349,15 @@
   {
    "id": "muxtnozsrpg1m",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Mug",
    "de": "Becher",
    "level": "A1.1",
    "article": "der",
-   "plural": "Becher"
+   "plural": "Becher",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxtnw2nfm6mg",
@@ -5667,7 +5675,7 @@
   },
   {
    "id": "muxwa8zhybohx",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to pickup",
@@ -5681,8 +5689,8 @@
     "ihr": "holt ab",
     "sie": "holen ab"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxwbvhqllrk7",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360548561,
+ "updatedAt": 1791360560244,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3496,6 +3496,23 @@
     "wir": "essen",
     "ihr": "esst",
     "sie": "essen"
+   }
+  },
+  {
+   "id": "muxttqic3opig",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to drink",
+   "de": "trinken",
+   "level": "A1.1",
+   "forms": {
+    "ich": "trinke",
+    "du": "trinkst",
+    "er": "trinkt",
+    "wir": "trinken",
+    "ihr": "trinkt",
+    "sie": "trinken"
    }
   }
  ]

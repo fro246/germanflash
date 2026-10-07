@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360299220,
+ "updatedAt": 1791360312668,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3264,6 +3264,17 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Stücken"
+  },
+  {
+   "id": "muxtofh8lwtos",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Small bag",
+   "de": "Tüte",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Tüten"
   }
  ]
 }

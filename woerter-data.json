@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365474594,
+ "updatedAt": 1791365528464,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -348,12 +348,14 @@
   },
   {
    "id": "muna44dontybz",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "free",
    "de": "frei",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna50c9lzgj2",
@@ -583,7 +585,7 @@
   },
   {
    "id": "muo0ntavsrdok",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Country",
@@ -591,8 +593,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Länder",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo0o1z30fb1o",
@@ -1046,14 +1048,16 @@
   },
   {
    "id": "muo1t22ldasb0",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Nurse",
    "de": "Krankenpfleger",
    "level": "A1.1",
    "article": "der",
-   "plural": "Krankenpfleger"
+   "plural": "Krankenpfleger",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo1tbcuu6caa",
@@ -2274,7 +2278,7 @@
   },
   {
    "id": "muvfd5zot9tfo",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "verb",
    "en": "to indicate",
@@ -2288,8 +2292,8 @@
     "ihr": "zeigt",
     "sie": "zeigen"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfihu2tovlb",
@@ -3161,14 +3165,16 @@
   },
   {
    "id": "muxtl3f3b987g",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Coffee",
    "de": "Kaffee",
    "level": "A1.1",
    "article": "der",
-   "plural": "Kaffees"
+   "plural": "Kaffees",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtl7ltfdcys",
@@ -4706,7 +4712,7 @@
   },
   {
    "id": "muxvnqqcke4t3",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Picnic",
@@ -4714,8 +4720,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Picknicks",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxvo4f6ki2np",
@@ -4910,12 +4916,14 @@
   },
   {
    "id": "muxvv1yvvb5f7",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "Caution",
    "de": "Achtung",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvvd5mzxhhy",
@@ -5409,14 +5417,16 @@
   },
   {
    "id": "muxw8y9jxc1aa",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Map",
    "de": "Karte",
    "level": "A1.1",
    "article": "die",
-   "plural": "Karten"
+   "plural": "Karten",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxw9hulcw2uy",

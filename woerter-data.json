@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364486409,
+ "updatedAt": 1791364493470,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5346,6 +5346,15 @@
    "type": "other",
    "en": "open",
    "de": "geöffnet",
+   "level": "A1.1"
+  },
+  {
+   "id": "muxw61em4b8sp",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "outside",
+   "de": "draußen",
    "level": "A1.1"
   }
  ]

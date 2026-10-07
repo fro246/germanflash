@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367337355,
+ "updatedAt": 1791367382249,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -74,7 +74,7 @@
   {
    "id": "mun9woaj80t8g",
    "hits": 2,
-   "misses": 6,
+   "misses": 7,
    "type": "noun",
    "en": "Appointment",
    "de": "Verabredung",
@@ -1392,13 +1392,15 @@
   {
    "id": "muo26nhqw2u16",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Moment",
    "de": "Moment",
    "level": "A1.1",
    "article": "der",
-   "plural": "Momente"
+   "plural": "Momente",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo26zhn53fvs",
@@ -1787,7 +1789,7 @@
   },
   {
    "id": "muvexk5ncfjcp",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to match",
@@ -1800,7 +1802,9 @@
     "wir": "passen",
     "ihr": "passt",
     "sie": "passen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvexqga70m86",
@@ -5632,7 +5636,7 @@
   },
   {
    "id": "muxw9hulcw2uy",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to come along",
@@ -5645,7 +5649,9 @@
     "wir": "kommen mit",
     "ihr": "kommt mit",
     "sie": "kommen mit"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxw9w7a8cr5u",

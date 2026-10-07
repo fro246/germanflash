@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360655825,
+ "updatedAt": 1791360673002,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3557,6 +3557,23 @@
    "en": "finished",
    "de": "fertig",
    "level": "A1.1"
+  },
+  {
+   "id": "muxtw5ii7a3tz",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to taste",
+   "de": "schmecken",
+   "level": "A1.1",
+   "forms": {
+    "ich": "schmecke",
+    "du": "schmeckst",
+    "er": "schmeckt",
+    "wir": "schmecken",
+    "ihr": "schmeckt",
+    "sie": "schmecken"
+   }
   }
  ]
 }

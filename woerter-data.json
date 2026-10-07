@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360995635,
+ "updatedAt": 1791361003802,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3850,6 +3850,23 @@
     "wir": "grillen",
     "ihr": "grillt",
     "sie": "grillen"
+   }
+  },
+  {
+   "id": "muxu38reze4j1",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to try",
+   "de": "probieren",
+   "level": "A1.1",
+   "forms": {
+    "ich": "probiere",
+    "du": "probierst",
+    "er": "probiert",
+    "wir": "probieren",
+    "ihr": "probiert",
+    "sie": "probieren"
    }
   }
  ]

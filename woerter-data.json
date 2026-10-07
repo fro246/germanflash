@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359620210,
+ "updatedAt": 1791359629153,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2725,6 +2725,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Bananen"
+  },
+  {
+   "id": "muxt9s2pl7rvz",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Pear",
+   "de": "Birne",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Birnen"
   }
  ]
 }

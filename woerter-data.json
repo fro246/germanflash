@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365830061,
+ "updatedAt": 1791365882442,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -73,7 +73,7 @@
   },
   {
    "id": "mun9woaj80t8g",
-   "hits": 1,
+   "hits": 2,
    "misses": 4,
    "type": "noun",
    "en": "Appointment",
@@ -81,8 +81,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Verabredungen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mun9wxbjjzrr7",
@@ -276,7 +276,7 @@
   },
   {
    "id": "muna39eat794v",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "verb",
    "en": "to cook",
@@ -290,8 +290,8 @@
     "ihr": "kocht",
     "sie": "kochen"
    },
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muna3fdkay4na",
@@ -5273,14 +5273,16 @@
   },
   {
    "id": "muxw2yqxn0key",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Glass",
    "de": "Glas",
    "level": "A1.1",
    "article": "das",
-   "plural": "Gläser"
+   "plural": "Gläser",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxw34zul1jwf",
@@ -5743,13 +5745,15 @@
   {
    "id": "muxwkvejocfh6",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Playground",
    "de": "Spielplatz",
    "level": "A1.1",
    "article": "der",
-   "plural": "Spielplätze"
+   "plural": "Spielplätze",
+   "box": 0,
+   "streak": 0
   }
  ]
 }

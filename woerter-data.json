@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360423139,
+ "updatedAt": 1791360443792,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3393,6 +3393,17 @@
     "ihr": "findet",
     "sie": "finden"
    }
+  },
+  {
+   "id": "muxtr8nk8e1ss",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Shopping cart",
+   "de": "Einkaufswagen",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Einkaufswagen"
   }
  ]
 }

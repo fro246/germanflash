@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364973485,
+ "updatedAt": 1791365006248,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4805,12 +4805,12 @@
    "de": "mitbringen",
    "level": "A1.1",
    "forms": {
-    "ich": "mitbringe",
-    "du": "mitbringst",
-    "er": "mitbringt",
-    "wir": "mitbringen",
-    "ihr": "mitbringt",
-    "sie": "mitbringen"
+    "ich": "bringe mit",
+    "du": "bringst mit",
+    "er": "bringt mit",
+    "wir": "bringen mit",
+    "ihr": "bringt mit",
+    "sie": "bringen mit"
    }
   },
   {

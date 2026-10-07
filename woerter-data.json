@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391312880,
+ "updatedAt": 1791391363618,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -444,7 +444,7 @@
   {
    "id": "muna8rltza7um",
    "hits": 2,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Number",
    "de": "Zahl",
@@ -1397,13 +1397,15 @@
   {
    "id": "muo26gj9ovd2k",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Afternoon",
    "de": "Nachmittag",
    "level": "A1.1",
    "article": "der",
-   "plural": "Nachmittage"
+   "plural": "Nachmittage",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo26nhqw2u16",
@@ -3210,7 +3212,7 @@
   },
   {
    "id": "muxtidv5w2605",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Rice",
@@ -3218,8 +3220,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtikrbrai3c",
@@ -4934,7 +4936,7 @@
   },
   {
    "id": "muxuuk4g1q5dh",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Practice (medical)",
@@ -4942,8 +4944,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Praxen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxvmfyog2ms3",
@@ -5029,7 +5031,7 @@
   },
   {
    "id": "muxvoj2kt23nw",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to celebrate",
@@ -5043,8 +5045,8 @@
     "ihr": "feiert",
     "sie": "feiern"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxvoxgh9tbyh",

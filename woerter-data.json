@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394739895,
+ "updatedAt": 1791394784184,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -23,14 +23,16 @@
   },
   {
    "id": "mun9uquf82t6v",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Hobby",
    "de": "Hobby",
    "level": "A1.1",
    "article": "das",
-   "plural": "Hobbys"
+   "plural": "Hobbys",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mun9v6b6dogtx",
@@ -1332,7 +1334,7 @@
   },
   {
    "id": "muo23lmev1sqr",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to work",
@@ -1345,7 +1347,9 @@
     "wir": "arbeiten",
     "ihr": "arbeitet",
     "sie": "arbeiten"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo242xs9qg1w",
@@ -1539,14 +1543,14 @@
   },
   {
    "id": "muoi8cj0pnx0v",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "at night",
    "de": "nachts",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muoi8ojl6yhr2",
@@ -1772,14 +1776,16 @@
   },
   {
    "id": "muoikawvmekz9",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Form",
    "de": "Formular",
    "level": "A1.1",
    "article": "das",
-   "plural": "Formulare"
+   "plural": "Formulare",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvew8gmctz6g",
@@ -1921,14 +1927,14 @@
   },
   {
    "id": "muvez20ic53p0",
-   "hits": 3,
+   "hits": 4,
    "misses": 0,
    "type": "other",
    "en": "unfortunately",
    "de": "leider",
    "level": "A1.1",
    "box": 4,
-   "streak": 6
+   "streak": 7
   },
   {
    "id": "muvez6o7osdzf",
@@ -2212,14 +2218,14 @@
   },
   {
    "id": "muvf5lfyneypy",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "beautiful",
    "de": "schön",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muvf5xoh6y7a9",
@@ -3649,7 +3655,7 @@
   },
   {
    "id": "muxtrhox0v7nj",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Price",
@@ -3657,8 +3663,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Preise",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtruwnf3ju4",
@@ -4089,7 +4095,7 @@
   },
   {
    "id": "muxu2w472ntif",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to wash",
@@ -4103,8 +4109,8 @@
     "ihr": "wascht",
     "sie": "waschen"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxu32gj0di6e",

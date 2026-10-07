@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365570171,
+ "updatedAt": 1791365624402,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -74,7 +74,7 @@
   {
    "id": "mun9woaj80t8g",
    "hits": 0,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Appointment",
    "de": "Verabredung",
@@ -1384,14 +1384,16 @@
   },
   {
    "id": "muo26zhn53fvs",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Hour",
    "de": "Stunde",
    "level": "A1.1",
    "article": "die",
-   "plural": "Stunden"
+   "plural": "Stunden",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo275eqmivoc",
@@ -2473,13 +2475,15 @@
   {
    "id": "muvfp5ynxfibo",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Film",
    "de": "Film",
    "level": "A1.1",
    "article": "der",
-   "plural": "Filme"
+   "plural": "Filme",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvfpn3s0if2h",
@@ -5623,7 +5627,7 @@
   },
   {
    "id": "muxwj4cfdfgu8",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to happen",
@@ -5636,7 +5640,9 @@
     "wir": "passieren",
     "ihr": "passiert",
     "sie": "passieren"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxwjfp8l8i5g",
@@ -5667,14 +5673,14 @@
   },
   {
    "id": "muxwjr9678xia",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "other",
    "en": "typisch",
    "de": "typical",
    "level": "A1.1",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxwjwtyq0hmh",

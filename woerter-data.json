@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791366987895,
+ "updatedAt": 1791367033947,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3393,7 +3393,7 @@
   },
   {
    "id": "muxtov0kinxn1",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Kilogram",
@@ -3401,8 +3401,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxtp03v9x4e4",
@@ -3753,7 +3753,7 @@
   },
   {
    "id": "muxty2uzopgee",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to eat breakfast",
@@ -3767,8 +3767,8 @@
     "ihr": "frühstückt",
     "sie": "frühstücken"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxtyimn5j120",
@@ -4785,7 +4785,7 @@
   },
   {
    "id": "muxuu4l6hvzqk",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Problem",
@@ -4793,8 +4793,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Probleme",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxuuk4g1q5dh",
@@ -5115,7 +5115,7 @@
   },
   {
    "id": "muxvww21obzdj",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Salutation (email)",
@@ -5123,8 +5123,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Anreden",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxvx677pje1v",

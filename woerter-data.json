@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361762334,
+ "updatedAt": 1791361767792,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4224,6 +4224,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Väter"
+  },
+  {
+   "id": "muxujm9csd4yv",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Parents",
+   "de": "Eltern",
+   "level": "A1.1",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361571185,
+ "updatedAt": 1791361578027,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4063,6 +4063,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Sekunden"
+  },
+  {
+   "id": "muxufju3b0m0c",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Minute",
+   "de": "Minute",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Minuten"
   }
  ]
 }

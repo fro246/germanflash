@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364386960,
+ "updatedAt": 1791364401245,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5283,6 +5283,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Kneipen"
+  },
+  {
+   "id": "muxw428tkhzos",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Coffee house",
+   "de": "Kaffeehaus",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Kaffeehäuser"
   }
  ]
 }

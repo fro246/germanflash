@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791394958674,
+ "updatedAt": 1791395024028,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1953,14 +1953,14 @@
   },
   {
    "id": "muvez9ngtimtp",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "funny",
    "de": "lustig",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muvezc108km6u",
@@ -3156,7 +3156,7 @@
   },
   {
    "id": "muxtfoyol1u58",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Milk",
@@ -3164,8 +3164,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtftihib9ks",
@@ -5158,7 +5158,7 @@
   {
    "id": "muxvpadd0wsuq",
    "hits": 1,
-   "misses": 0,
+   "misses": 2,
    "type": "verb",
    "en": "to invite",
    "de": "einladen",
@@ -5171,8 +5171,8 @@
     "ihr": "ladet ein",
     "sie": "laden ein"
    },
-   "box": 2,
-   "streak": 4
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxvpm64oeape",
@@ -5529,7 +5529,7 @@
   },
   {
    "id": "muxw0hn2tk8ln",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to bring",
@@ -5543,8 +5543,8 @@
     "ihr": "bringt",
     "sie": "bringen"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxw0q10uagh8",
@@ -6015,7 +6015,7 @@
   },
   {
    "id": "muxwindq6sl9k",
-   "hits": 3,
+   "hits": 4,
    "misses": 1,
    "type": "verb",
    "en": "to run",
@@ -6029,8 +6029,8 @@
     "ihr": "lauft",
     "sie": "laufen"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxwivia8tnfh",

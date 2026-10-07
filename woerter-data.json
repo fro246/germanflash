@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364442824,
+ "updatedAt": 1791364457865,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5316,6 +5316,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Biergärten"
+  },
+  {
+   "id": "muxw59xl4gzd3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Bank",
+   "de": "Bank",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Bänke"
   }
  ]
 }

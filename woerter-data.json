@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359892248,
+ "updatedAt": 1791359905056,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2944,6 +2944,17 @@
    "de": "Käse",
    "level": "A1.1",
    "article": "der",
+   "plural": ""
+  },
+  {
+   "id": "muxtfoyol1u58",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Milk",
+   "de": "Milch",
+   "level": "A1.1",
+   "article": "die",
    "plural": ""
   }
  ]

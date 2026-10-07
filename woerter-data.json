@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360384304,
+ "updatedAt": 1791360393546,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3341,6 +3341,23 @@
     "wir": "einkaufen",
     "ihr": "einkauft",
     "sie": "einkaufen"
+   }
+  },
+  {
+   "id": "muxtq5vug5yyf",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to need",
+   "de": "brauchen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "brauche",
+    "du": "brauchst",
+    "er": "braucht",
+    "wir": "brauchen",
+    "ihr": "braucht",
+    "sie": "brauchen"
    }
   }
  ]

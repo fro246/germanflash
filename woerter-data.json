@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391752181,
+ "updatedAt": 1791391772843,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2178,8 +2178,8 @@
    "level": "A1.1",
    "forms": {
     "ich": "sehe",
-    "du": "sehst",
-    "er": "seht",
+    "du": "siehst",
+    "er": "sieht",
     "wir": "sehen",
     "ihr": "seht",
     "sie": "sehen"

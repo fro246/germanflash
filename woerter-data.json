@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360762875,
+ "updatedAt": 1791360783311,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3651,6 +3651,17 @@
     "ihr": "frühstückt",
     "sie": "frühstücken"
    }
+  },
+  {
+   "id": "muxtyimn5j120",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Dish",
+   "de": "Gericht",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Gerichte"
   }
  ]
 }

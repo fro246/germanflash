@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363605024,
+ "updatedAt": 1791363629958,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4688,6 +4688,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Ausflüge"
+  },
+  {
+   "id": "muxvnj46texxy",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Bike ride / bike tour",
+   "de": "Fahrradtour",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Fahrradtouren"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791367916056,
+ "updatedAt": 1791367971645,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -906,14 +906,16 @@
   },
   {
    "id": "muo0x73erma30",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Partner",
    "de": "Partner",
    "level": "A1.1",
    "article": "der",
-   "plural": "Partner"
+   "plural": "Partner",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0xpcho70cu",
@@ -2215,14 +2217,16 @@
   },
   {
    "id": "muvf6mpooi418",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Bicycle",
    "de": "Fahrrad",
    "level": "A1.1",
    "article": "das",
-   "plural": "Fahrräder"
+   "plural": "Fahrräder",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf6tqgnvl4m",
@@ -2875,14 +2879,16 @@
   },
   {
    "id": "muxta2mzkz0ql",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Vegetable",
    "de": "Gemüse",
    "level": "A1.1",
    "article": "das",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtabk4ci4p7",
@@ -3594,14 +3600,16 @@
   },
   {
    "id": "muxtruwnf3ju4",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Receipt",
    "de": "Kassenzettel",
    "level": "A1.1",
    "article": "der",
-   "plural": "Kassenzettel"
+   "plural": "Kassenzettel",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxts2c4000ok",
@@ -3772,12 +3780,14 @@
   },
   {
    "id": "muxtwkfuunafy",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "sweet",
    "de": "süß",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtwnfe53spw",
@@ -5953,14 +5963,14 @@
   },
   {
    "id": "muxwjr9678xia",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "other",
    "en": "typisch",
    "de": "typical",
    "level": "A1.1",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxwjwtyq0hmh",

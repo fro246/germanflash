@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362153849,
+ "updatedAt": 1791362168564,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4547,6 +4547,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Geigen"
+  },
+  {
+   "id": "muxus7hwf61bj",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Saxophone",
+   "de": "Saxofon",
+   "level": "A1.1",
+   "article": "das",
+   "plural": "Saxofone"
   }
  ]
 }

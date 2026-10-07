@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791361444620,
+ "updatedAt": 1791361458909,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3964,6 +3964,17 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Unis"
+  },
+  {
+   "id": "muxuczx9qxjvl",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Mensa",
+   "de": "Mensa",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Mensen"
   }
  ]
 }

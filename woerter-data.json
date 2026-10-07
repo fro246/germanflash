@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791362023310,
+ "updatedAt": 1791362044100,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4424,6 +4424,23 @@
     "wir": "müssen",
     "ihr": "müsst",
     "sie": "müssen"
+   }
+  },
+  {
+   "id": "muxupjgkpu1lf",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to want",
+   "de": "wollen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "will",
+    "du": "willst",
+    "er": "will",
+    "wir": "wollen",
+    "ihr": "wollt",
+    "sie": "wollen"
    }
   }
  ]

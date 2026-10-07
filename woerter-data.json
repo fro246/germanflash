@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791359604029,
+ "updatedAt": 1791359620210,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2714,6 +2714,17 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Äpfel"
+  },
+  {
+   "id": "muxt9l6a7jqiq",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Banana",
+   "de": "Banane",
+   "level": "A1.1",
+   "article": "die",
+   "plural": "Bananen"
   }
  ]
 }

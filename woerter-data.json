@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365159689,
+ "updatedAt": 1791365185531,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5687,6 +5687,17 @@
    "en": "early",
    "de": "früh",
    "level": "A1.1"
+  },
+  {
+   "id": "muxwkvejocfh6",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Playground",
+   "de": "Spielplatz",
+   "level": "A1.1",
+   "article": "der",
+   "plural": "Spielplätze"
   }
  ]
 }

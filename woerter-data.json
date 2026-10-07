@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360393546,
+ "updatedAt": 1791360415318,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3358,6 +3358,23 @@
     "wir": "brauchen",
     "ihr": "braucht",
     "sie": "brauchen"
+   }
+  },
+  {
+   "id": "muxtqmom9s84b",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to want",
+   "de": "möchten",
+   "level": "A1.1",
+   "forms": {
+    "ich": "möchte",
+    "du": "möchtest",
+    "er": "möchte",
+    "wir": "möchten",
+    "ihr": "möchtet",
+    "sie": "möchten"
    }
   }
  ]

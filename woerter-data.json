@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791391657080,
+ "updatedAt": 1791391702979,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -908,7 +908,7 @@
   },
   {
    "id": "muo0x73erma30",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Partner",
@@ -916,8 +916,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Partner",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muo0xpcho70cu",
@@ -1159,14 +1159,16 @@
   },
   {
    "id": "muo1w2cdwornd",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Course",
    "de": "Kurs",
    "level": "A1.1",
    "article": "der",
-   "plural": "Kurse"
+   "plural": "Kurse",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo1xdcgqjk9e",
@@ -1549,14 +1551,14 @@
   },
   {
    "id": "muoi8rncn8ebr",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "still",
    "de": "noch",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muoi8w43v9kbg",
@@ -4035,12 +4037,14 @@
   },
   {
    "id": "muxu1xqp3t6dm",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "important",
    "de": "wichtig",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxu2acon100h",
@@ -4221,7 +4225,7 @@
   },
   {
    "id": "muxuczx9qxjvl",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Mensa",
@@ -4229,8 +4233,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Mensen",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muxudanoh6xeb",
@@ -5171,7 +5175,7 @@
   {
    "id": "muxvt53y9v9k7",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "verb",
    "en": "to become",
    "de": "werden",
@@ -5183,7 +5187,9 @@
     "wir": "werden",
     "ihr": "werdet",
     "sie": "werden"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxvtmt4rr2hc",

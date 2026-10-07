@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365185531,
+ "updatedAt": 1791365231962,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -113,7 +113,7 @@
    "de": "Freundin",
    "level": "A1.1",
    "article": "die",
-   "plural": "Freundinen",
+   "plural": "Freundinnen",
    "box": 2,
    "streak": 2
   },

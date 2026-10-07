@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364476736,
+ "updatedAt": 1791364486409,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -5338,6 +5338,15 @@
    "level": "A1.1",
    "article": "die",
    "plural": ""
+  },
+  {
+   "id": "muxw5vyhs8p72",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "open",
+   "de": "geöffnet",
+   "level": "A1.1"
   }
  ]
 }

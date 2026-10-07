@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791364914945,
+ "updatedAt": 1791364952694,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3335,12 +3335,12 @@
    "de": "einkaufen",
    "level": "A1.1",
    "forms": {
-    "ich": "einkaufe",
-    "du": "einkaufst",
-    "er": "einkauft",
-    "wir": "einkaufen",
-    "ihr": "einkauft",
-    "sie": "einkaufen"
+    "ich": "kaufe ein",
+    "du": "kaufst ein",
+    "er": "kauft ein",
+    "wir": "kaufen ein",
+    "ihr": "kauft ein",
+    "sie": "kaufen ein"
    }
   },
   {

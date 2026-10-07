@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791360987415,
+ "updatedAt": 1791360995635,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -3833,6 +3833,23 @@
     "wir": "waschen",
     "ihr": "wascht",
     "sie": "waschen"
+   }
+  },
+  {
+   "id": "muxu32gj0di6e",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to grill",
+   "de": "grillen",
+   "level": "A1.1",
+   "forms": {
+    "ich": "grille",
+    "du": "grillst",
+    "er": "grillt",
+    "wir": "grillen",
+    "ihr": "grillt",
+    "sie": "grillen"
    }
   }
  ]

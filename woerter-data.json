@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791363676556,
+ "updatedAt": 1791363695201,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4760,6 +4760,23 @@
     "wir": "feiern",
     "ihr": "feiert",
     "sie": "feiern"
+   }
+  },
+  {
+   "id": "muxvoxgh9tbyh",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to gift",
+   "de": "schenken",
+   "level": "A1.1",
+   "forms": {
+    "ich": "schenke",
+    "du": "schenkst",
+    "er": "schenkt",
+    "wir": "schenken",
+    "ihr": "schenkt",
+    "sie": "schenken"
    }
   }
  ]

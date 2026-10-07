@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791365231962,
+ "updatedAt": 1791365349365,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1898,7 +1898,7 @@
    "hits": 0,
    "misses": 0,
    "type": "noun",
-   "en": "Perso",
+   "en": "Person",
    "de": "Mensch",
    "level": "A1.1",
    "article": "der",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791488758171,
+ "updatedAt": 1791488800515,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -337,7 +337,7 @@
   },
   {
    "id": "muna3vmcn5lsf",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to dance",
@@ -350,7 +350,9 @@
     "wir": "tanzen",
     "ihr": "tanzt",
     "sie": "tanzen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muna44dontybz",
@@ -655,14 +657,14 @@
   },
   {
    "id": "muo0q35fux1xu",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "Good day",
    "de": "Guten Tag",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muo0q8ftr2egl",
@@ -1260,13 +1262,15 @@
   {
    "id": "muo1zq9lrqi51",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "University",
    "de": "Universität",
    "level": "A1.1",
    "article": "die",
-   "plural": "Universitäten"
+   "plural": "Universitäten",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo207787amtp",
@@ -2365,15 +2369,15 @@
   {
    "id": "muvf87evx7qdf",
    "hits": 1,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Airplane",
    "de": "Flugzeug",
    "level": "A1.1",
    "article": "das",
    "plural": "Flugzeuge",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvf8ge86njd1",
@@ -5003,13 +5007,15 @@
   {
    "id": "muxurp2fe0sdo",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Motorcycle",
    "de": "Motorrad",
    "level": "A1.1",
    "article": "das",
-   "plural": "Motorräder"
+   "plural": "Motorräder",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxurw55nxox5",

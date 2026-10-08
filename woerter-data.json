@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487866180,
+ "updatedAt": 1791487913250,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -88,12 +88,14 @@
   },
   {
    "id": "mun9wxbjjzrr7",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "when",
    "de": "wann",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mun9xe7aqhzi8",
@@ -1526,14 +1528,14 @@
   },
   {
    "id": "muoi6p76ohmlj",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "old",
    "de": "alt",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muoi745hq7gsq",
@@ -2499,7 +2501,7 @@
   },
   {
    "id": "muvfj23k0l09b",
-   "hits": 3,
+   "hits": 4,
    "misses": 1,
    "type": "noun",
    "en": "Start",
@@ -2507,8 +2509,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "",
-   "box": 3,
-   "streak": 3
+   "box": 4,
+   "streak": 4
   },
   {
    "id": "muvfjajan7ktt",
@@ -2898,7 +2900,7 @@
   },
   {
    "id": "muvfu3jdxhoqu",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Solution",
@@ -2906,8 +2908,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Lösungen",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxt8uf75wdjf",
@@ -3316,14 +3318,16 @@
   },
   {
    "id": "muxtis8hgfj6e",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Fish",
    "de": "Fisch",
    "level": "A1.1",
    "article": "der",
-   "plural": "Fische"
+   "plural": "Fische",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtj30svfwmh",
@@ -3915,12 +3919,14 @@
   },
   {
    "id": "muxtwnfe53spw",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "fresh",
    "de": "frisch",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtx480ilhnv",
@@ -4403,14 +4409,16 @@
   },
   {
    "id": "muxuevn7i7gg8",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Stress",
    "de": "Stress",
    "level": "A1.1",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuf1siryp7b",
@@ -4654,7 +4662,7 @@
   },
   {
    "id": "muxuke50uhqy3",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Siblings",
@@ -4662,8 +4670,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxukpwmyqrtj",
@@ -5518,14 +5526,16 @@
   },
   {
    "id": "muxvyuybim32y",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Thirst",
    "de": "Durst",
    "level": "A1.1",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvyy9mpld02",
@@ -5592,7 +5602,7 @@
   },
   {
    "id": "muxw09pv8ikwd",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to order",
@@ -5606,8 +5616,8 @@
     "ihr": "bestellt",
     "sie": "bestellen"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxw0hn2tk8ln",

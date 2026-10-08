@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791488376165,
+ "updatedAt": 1791488562302,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -812,8 +812,8 @@
   },
   {
    "id": "muo0ulgsg1akn",
-   "hits": 3,
-   "misses": 3,
+   "hits": 4,
+   "misses": 4,
    "type": "verb",
    "en": "to guess",
    "de": "raten",
@@ -826,8 +826,8 @@
     "ihr": "ratet",
     "sie": "raten"
    },
-   "box": 2,
-   "streak": 2
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo0uvlj5mtm6",
@@ -1032,7 +1032,7 @@
   {
    "id": "muo1owkym2h7k",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Hairdresser (female)",
    "de": "Friseurin",
@@ -3718,7 +3718,7 @@
   },
   {
    "id": "muxtr8nk8e1ss",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Shopping cart",
@@ -3726,8 +3726,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Einkaufswagen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxtrhox0v7nj",
@@ -4010,7 +4010,7 @@
   },
   {
    "id": "muxtyimn5j120",
-   "hits": 0,
+   "hits": 1,
    "misses": 3,
    "type": "noun",
    "en": "Dish",
@@ -4018,8 +4018,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Gerichte",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxtyofxrbzdw",

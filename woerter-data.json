@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791485822311,
+ "updatedAt": 1791485852606,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2587,7 +2587,7 @@
   },
   {
    "id": "muvfoay9k1da2",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Orchestra",
@@ -2595,8 +2595,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Orchester",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muvfoli9x4cb1",
@@ -3291,7 +3291,7 @@
   },
   {
    "id": "muxtj30svfwmh",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Chocolate",
@@ -3299,8 +3299,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Schokoladen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtjcbizfk42",
@@ -4533,14 +4533,16 @@
   },
   {
    "id": "muxuj8943dt2m",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Mother",
    "de": "Mutter",
    "level": "A1.1",
    "article": "die",
-   "plural": "Mütter"
+   "plural": "Mütter",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuji1qysacx",
@@ -4690,12 +4692,14 @@
   },
   {
    "id": "muxuml597klmv",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "single",
    "de": "ledig",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxums5vet8wg",

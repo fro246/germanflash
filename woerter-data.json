@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791486753367,
+ "updatedAt": 1791486806635,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1716,7 +1716,7 @@
   },
   {
    "id": "muoic3rabci8x",
-   "hits": 1,
+   "hits": 2,
    "misses": 5,
    "type": "noun",
    "en": "Postal code",
@@ -1724,8 +1724,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Postleitzahlen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muoicwbbna7wg",
@@ -1896,14 +1896,14 @@
   },
   {
    "id": "muvey2a12yh6q",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "other",
    "en": "all",
    "de": "alle",
    "level": "A1.1",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvey4szev06e",
@@ -2449,7 +2449,7 @@
   },
   {
    "id": "muvfihu2tovlb",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "verb",
    "en": "to draw",
@@ -2463,8 +2463,8 @@
     "ihr": "zeichnt",
     "sie": "zeichnen"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfivp76szvy",
@@ -3327,14 +3327,16 @@
   },
   {
    "id": "muxtjlh1e60ap",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Cereal",
    "de": "Müsli",
    "level": "A1.1",
    "article": "das",
-   "plural": "Müslis"
+   "plural": "Müslis",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtjyt2vv9q5",
@@ -5861,7 +5863,7 @@
   },
   {
    "id": "muxw8y9jxc1aa",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Map",
@@ -5869,8 +5871,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Karten",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxw9hulcw2uy",

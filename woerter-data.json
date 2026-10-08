@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487605194,
+ "updatedAt": 1791487656840,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -702,14 +702,14 @@
   },
   {
    "id": "muo0qybewg2x2",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "other",
    "en": "Goodbye",
    "de": "Auf Wiedersehen",
    "level": "A1.1",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muo0sbhkob2zf",
@@ -1555,14 +1555,14 @@
   },
   {
    "id": "muoi8cj0pnx0v",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "other",
    "en": "at night",
    "de": "nachts",
    "level": "A1.1",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muoi8ojl6yhr2",
@@ -2079,14 +2079,16 @@
   },
   {
    "id": "muvf1z2k2wntw",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Church",
    "de": "Kirche",
    "level": "A1.1",
    "article": "die",
-   "plural": "Kirchen"
+   "plural": "Kirchen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf29npj1plf",
@@ -2892,7 +2894,7 @@
   },
   {
    "id": "muvfu3jdxhoqu",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Solution",
@@ -2900,8 +2902,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Lösungen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxt8uf75wdjf",
@@ -4558,14 +4560,16 @@
   },
   {
    "id": "muxuirzmtpj99",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Daughter",
    "de": "Tochter",
    "level": "A1.1",
    "article": "die",
-   "plural": "Töchter"
+   "plural": "Töchter",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuj8943dt2m",
@@ -4952,14 +4956,16 @@
   },
   {
    "id": "muxus7hwf61bj",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Saxophone",
    "de": "Saxofon",
    "level": "A1.1",
    "article": "das",
-   "plural": "Saxofone"
+   "plural": "Saxofone",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxusf27kdumn",
@@ -5015,14 +5021,14 @@
   },
   {
    "id": "muxuthv4lly4x",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "cool",
    "de": "cool",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxutl51mypsb",

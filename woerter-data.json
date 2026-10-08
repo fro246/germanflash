@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791488356855,
+ "updatedAt": 1791488376165,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1032,13 +1032,15 @@
   {
    "id": "muo1owkym2h7k",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Hairdresser (female)",
    "de": "Friseurin",
    "level": "A1.1",
    "article": "die",
-   "plural": "Friseurinnen"
+   "plural": "Friseurinnen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo1q3ii9vl55",
@@ -3717,15 +3719,15 @@
   {
    "id": "muxtr8nk8e1ss",
    "hits": 1,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Shopping cart",
    "de": "Einkaufswagen",
    "level": "A1.1",
    "article": "der",
    "plural": "Einkaufswagen",
-   "box": 2,
-   "streak": 4
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxtrhox0v7nj",

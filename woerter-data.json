@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487997143,
+ "updatedAt": 1791488056576,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1581,14 +1581,14 @@
   },
   {
    "id": "muoi8rncn8ebr",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "other",
    "en": "still",
    "de": "noch",
    "level": "A1.1",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muoi8w43v9kbg",
@@ -1814,7 +1814,7 @@
   {
    "id": "muvew8gmctz6g",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Example",
    "de": "Beispiel",
@@ -1827,13 +1827,15 @@
   {
    "id": "muvewl0dwujjk",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Key",
    "de": "Schlüssel",
    "level": "A1.1",
    "article": "der",
-   "plural": "Schlüssel"
+   "plural": "Schlüssel",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvex455vgvc8",
@@ -2213,7 +2215,7 @@
   },
   {
    "id": "muvf4y1kdleb5",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Sea",
@@ -2221,8 +2223,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Meere",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvf55sngngqs",
@@ -3886,7 +3888,7 @@
   },
   {
    "id": "muxtw5ii7a3tz",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to taste",
@@ -3899,7 +3901,9 @@
     "wir": "schmecken",
     "ihr": "schmeckt",
     "sie": "schmecken"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtwc6ftb9qr",

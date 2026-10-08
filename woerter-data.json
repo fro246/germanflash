@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487317009,
+ "updatedAt": 1791487353874,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1154,7 +1154,7 @@
   },
   {
    "id": "muo1vtvu89zem",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "School",
@@ -1162,8 +1162,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Schulen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muo1w2cdwornd",
@@ -1282,7 +1282,7 @@
   },
   {
    "id": "muo20v844ieco",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Taxi",
@@ -1290,8 +1290,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Taxis",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muo210by4ws4h",
@@ -2551,7 +2551,7 @@
   },
   {
    "id": "muvfn7tf00p9e",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Audience",
@@ -2559,8 +2559,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfnfq1rdo8t",
@@ -5012,12 +5012,14 @@
   },
   {
    "id": "muxutl51mypsb",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "false",
    "de": "falsch",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxutoaiulwa0",
@@ -6071,7 +6073,7 @@
   {
    "id": "muxwivia8tnfh",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to enjoy",
    "de": "genießen",
@@ -6083,7 +6085,9 @@
     "wir": "genießen",
     "ihr": "genießt",
     "sie": "genießen"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxwj4cfdfgu8",

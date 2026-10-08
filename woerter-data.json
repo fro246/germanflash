@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487353874,
+ "updatedAt": 1791487406539,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -265,7 +265,7 @@
   },
   {
    "id": "muna2uh9tbtme",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "noun",
    "en": "Photo",
@@ -273,8 +273,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Fotos",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muna39eat794v",
@@ -1507,14 +1507,16 @@
   },
   {
    "id": "muo28hferjwiu",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Year",
    "de": "Jahr",
    "level": "A1.1",
    "article": "das",
-   "plural": "Jahre"
+   "plural": "Jahre",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muoi6p76ohmlj",
@@ -5673,13 +5675,15 @@
   {
    "id": "muxw2ny727zsi",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "noun",
    "en": "Spoon",
    "de": "Löffel",
    "level": "A1.1",
    "article": "der",
-   "plural": "Löffel"
+   "plural": "Löffel",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxw2yqxn0key",
@@ -6072,7 +6076,7 @@
   },
   {
    "id": "muxwivia8tnfh",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to enjoy",
@@ -6086,8 +6090,8 @@
     "ihr": "genießt",
     "sie": "genießen"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxwj4cfdfgu8",

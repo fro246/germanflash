@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487960142,
+ "updatedAt": 1791487997143,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1667,7 +1667,7 @@
   },
   {
    "id": "muoia5le22a1l",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Information",
@@ -1675,8 +1675,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Infornationen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muoiaj9kx7ny2",
@@ -1814,13 +1814,15 @@
   {
    "id": "muvew8gmctz6g",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Example",
    "de": "Beispiel",
    "level": "A1.1",
    "article": "das",
-   "plural": "Beispiele"
+   "plural": "Beispiele",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvewl0dwujjk",
@@ -2212,7 +2214,7 @@
   {
    "id": "muvf4y1kdleb5",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Sea",
    "de": "Meer",
@@ -3078,7 +3080,7 @@
   },
   {
    "id": "muxtc91bj7s73",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Cookies",
@@ -3086,8 +3088,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Kekse",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtcetmqwcux",
@@ -5817,7 +5819,7 @@
   },
   {
    "id": "muxw4edd4xw9d",
-   "hits": 1,
+   "hits": 2,
    "misses": 3,
    "type": "noun",
    "en": "Establishment / restaurant / place",
@@ -5825,8 +5827,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Lokale",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxw4ybsmnzl7",

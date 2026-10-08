@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791485852606,
+ "updatedAt": 1791485908374,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4854,13 +4854,15 @@
   {
    "id": "muxuqq7p2nqh2",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Meeting",
    "de": "Besprechung",
    "level": "A1.1",
    "article": "die",
-   "plural": "Besprechungen"
+   "plural": "Besprechungen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxur15k6194p",
@@ -5933,7 +5935,7 @@
   {
    "id": "muxwbvhqllrk7",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to begin",
    "de": "anfangen",
@@ -5945,7 +5947,9 @@
     "wir": "fangen an",
     "ihr": "fangt an",
     "sie": "fangen an"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxwci4925cho",

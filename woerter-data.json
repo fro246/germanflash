@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487765856,
+ "updatedAt": 1791487804406,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -4116,12 +4116,14 @@
   },
   {
    "id": "muxu1tydcanvt",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "maybe",
    "de": "vielleicht",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxu1xqp3t6dm",
@@ -5469,14 +5471,16 @@
   },
   {
    "id": "muxvxwzvgjrc4",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Schnitzel",
    "de": "Schnitzel",
    "level": "A1.1",
    "article": "das",
-   "plural": "Schnitzel"
+   "plural": "Schnitzel",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvya4c4p270",
@@ -5541,7 +5545,7 @@
   },
   {
    "id": "muxvzi8tcu8di",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "noun",
    "en": "Order",
@@ -5549,8 +5553,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Bestellungen",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muxvzserboh91",
@@ -5790,13 +5794,15 @@
   {
    "id": "muxw4edd4xw9d",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "noun",
    "en": "Establishment / restaurant / place",
    "de": "Lokal",
    "level": "A1.1",
    "article": "das",
-   "plural": "Lokale"
+   "plural": "Lokale",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxw4ybsmnzl7",

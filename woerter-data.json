@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791486806635,
+ "updatedAt": 1791486838441,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1776,11 +1776,13 @@
   {
    "id": "muoiev7xpknow",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "female",
    "de": "weiblich",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muoikawvmekz9",
@@ -3613,7 +3615,7 @@
   },
   {
    "id": "muxtq5vug5yyf",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to need",
@@ -3627,8 +3629,8 @@
     "ihr": "braucht",
     "sie": "brauchen"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtqmom9s84b",
@@ -4341,14 +4343,16 @@
   },
   {
    "id": "muxuee7i61uee",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Newspaper",
    "de": "Zeitung",
    "level": "A1.1",
    "article": "die",
-   "plural": "Zeitungen"
+   "plural": "Zeitungen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuelygiu3c8",
@@ -5015,14 +5019,14 @@
   },
   {
    "id": "muxutoaiulwa0",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "too bad",
    "de": "schade",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxutteblf6ef",
@@ -5037,7 +5041,7 @@
   },
   {
    "id": "muxuu4l6hvzqk",
-   "hits": 2,
+   "hits": 3,
    "misses": 2,
    "type": "noun",
    "en": "Problem",
@@ -5045,8 +5049,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Probleme",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muxuuk4g1q5dh",

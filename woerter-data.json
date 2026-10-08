@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791488105974,
+ "updatedAt": 1791488154182,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -2228,7 +2228,7 @@
   },
   {
    "id": "muvf55sngngqs",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "verb",
    "en": "to see",
@@ -2242,8 +2242,8 @@
     "ihr": "seht",
     "sie": "sehen"
    },
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muvf5g9133k0q",
@@ -3263,7 +3263,7 @@
   },
   {
    "id": "muxthhd9efenw",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Vinegar",
@@ -3271,8 +3271,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Essige",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muxthvl164cnv",
@@ -4283,7 +4283,7 @@
   },
   {
    "id": "muxubtceqeyw3",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "verb",
    "en": "to visit",
@@ -4297,8 +4297,8 @@
     "ihr": "besucht",
     "sie": "besuchen"
    },
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muxuc1alxss28",
@@ -4786,13 +4786,13 @@
   {
    "id": "muxums5vet8wg",
    "hits": 2,
-   "misses": 2,
+   "misses": 3,
    "type": "other",
    "en": "married",
    "de": "verheiratet",
    "level": "A1.1",
-   "box": 2,
-   "streak": 2
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxun2gh9meej",
@@ -5321,7 +5321,7 @@
   },
   {
    "id": "muxvrc4apogyz",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "noun",
    "en": "Birthday",
@@ -5329,8 +5329,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Geburtstage",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muxvt53y9v9k7",

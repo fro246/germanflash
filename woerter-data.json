@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791485908374,
+ "updatedAt": 1791485961141,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1453,14 +1453,16 @@
   },
   {
    "id": "muo275eqmivoc",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Day",
    "de": "Tag",
    "level": "A1.1",
    "article": "der",
-   "plural": "Tage"
+   "plural": "Tage",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo27cntia2hg",
@@ -4854,7 +4856,7 @@
   {
    "id": "muxuqq7p2nqh2",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Meeting",
    "de": "Besprechung",
@@ -4947,16 +4949,16 @@
   },
   {
    "id": "muxusuvd7sugr",
-   "hits": 1,
-   "misses": 0,
+   "hits": 2,
+   "misses": 1,
    "type": "noun",
    "en": "Idea",
    "de": "Idee",
    "level": "A1.1",
    "article": "die",
    "plural": "Ideen",
-   "box": 2,
-   "streak": 4
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxut9iml3dwx",
@@ -5935,7 +5937,7 @@
   {
    "id": "muxwbvhqllrk7",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "verb",
    "en": "to begin",
    "de": "anfangen",

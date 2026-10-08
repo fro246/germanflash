@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487449960,
+ "updatedAt": 1791487493021,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -110,7 +110,7 @@
   },
   {
    "id": "mun9y2mzn8vgv",
-   "hits": 2,
+   "hits": 3,
    "misses": 2,
    "type": "noun",
    "en": "Female friend",
@@ -118,8 +118,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Freundinnen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mun9zdrkq0xnz",
@@ -4489,7 +4489,7 @@
   },
   {
    "id": "muxuhirjzabmh",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Baby",
@@ -4497,8 +4497,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Babys",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxuhq3bb2xgj",
@@ -4596,7 +4596,7 @@
   },
   {
    "id": "muxujwidb4oce",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Brother",
@@ -4604,8 +4604,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Brüder",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxuk5gur5but",
@@ -5491,14 +5491,16 @@
   },
   {
    "id": "muxvyy9mpld02",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Hunger",
    "de": "Hunger",
    "level": "A1.1",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvz6uhin5jk",
@@ -5678,7 +5680,7 @@
   },
   {
    "id": "muxw2ny727zsi",
-   "hits": 0,
+   "hits": 1,
    "misses": 3,
    "type": "noun",
    "en": "Spoon",
@@ -5686,8 +5688,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Löffel",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxw2yqxn0key",
@@ -6080,7 +6082,7 @@
   },
   {
    "id": "muxwivia8tnfh",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "verb",
    "en": "to enjoy",
@@ -6094,8 +6096,8 @@
     "ihr": "genießt",
     "sie": "genießen"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxwj4cfdfgu8",

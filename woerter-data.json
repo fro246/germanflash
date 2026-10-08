@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791485761050,
+ "updatedAt": 1791485822311,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1477,7 +1477,7 @@
   },
   {
    "id": "muo27txriz23u",
-   "hits": 1,
+   "hits": 2,
    "misses": 2,
    "type": "noun",
    "en": "Weekend",
@@ -1485,8 +1485,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Wochenenden",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo289xt916e6",
@@ -2815,14 +2815,16 @@
   },
   {
    "id": "muvft1pctg5t9",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Happiness",
    "de": "Glück",
    "level": "A1.1",
    "article": "das",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvft8udjxq2p",
@@ -3878,7 +3880,7 @@
   },
   {
    "id": "muxtx480ilhnv",
-   "hits": 1,
+   "hits": 2,
    "misses": 2,
    "type": "noun",
    "en": "Breakfast",
@@ -3886,8 +3888,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Frühstücke",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxtxf7g2rprn",
@@ -3917,7 +3919,7 @@
   },
   {
    "id": "muxty2uzopgee",
-   "hits": 3,
+   "hits": 4,
    "misses": 2,
    "type": "verb",
    "en": "to eat breakfast",
@@ -3931,8 +3933,8 @@
     "ihr": "frühstückt",
     "sie": "frühstücken"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxtyimn5j120",
@@ -5159,7 +5161,7 @@
   },
   {
    "id": "muxvpadd0wsuq",
-   "hits": 1,
+   "hits": 2,
    "misses": 3,
    "type": "verb",
    "en": "to invite",
@@ -5173,8 +5175,8 @@
     "ihr": "ladet ein",
     "sie": "laden ein"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxvpm64oeape",

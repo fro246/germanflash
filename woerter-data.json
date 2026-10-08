@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791486022076,
+ "updatedAt": 1791486076753,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -448,15 +448,15 @@
   {
    "id": "muna8rltza7um",
    "hits": 3,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Number",
    "de": "Zahl",
    "level": "A1.1",
    "article": "die",
    "plural": "Zahlen",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muna9j1hemjsh",
@@ -1308,7 +1308,7 @@
   },
   {
    "id": "muo22k22idbql",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Sales person",
@@ -1316,8 +1316,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Verkäufer",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo2331gzhxzb",
@@ -3384,7 +3384,7 @@
   },
   {
    "id": "muxtkw2b44xgc",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Cola",
@@ -3392,8 +3392,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Colas",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtl3f3b987g",
@@ -4305,7 +4305,7 @@
   },
   {
    "id": "muxudl7zvq7ng",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Music school",
@@ -4313,8 +4313,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Musikschulen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxue2txdkofw",
@@ -4859,7 +4859,7 @@
   },
   {
    "id": "muxuqq7p2nqh2",
-   "hits": 0,
+   "hits": 1,
    "misses": 3,
    "type": "noun",
    "en": "Meeting",
@@ -4867,8 +4867,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Besprechungen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxur15k6194p",

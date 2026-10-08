@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791486121239,
+ "updatedAt": 1791486753367,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1717,7 +1717,7 @@
   {
    "id": "muoic3rabci8x",
    "hits": 1,
-   "misses": 4,
+   "misses": 5,
    "type": "noun",
    "en": "Postal code",
    "de": "Postleitzahl",
@@ -1897,11 +1897,13 @@
   {
    "id": "muvey2a12yh6q",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "all",
    "de": "alle",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvey4szev06e",
@@ -2448,7 +2450,7 @@
   {
    "id": "muvfihu2tovlb",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "verb",
    "en": "to draw",
    "de": "zeichnen",
@@ -2460,7 +2462,9 @@
     "wir": "zeichnen",
     "ihr": "zeichnt",
     "sie": "zeichnen"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvfivp76szvy",
@@ -3607,7 +3611,7 @@
   },
   {
    "id": "muxtq5vug5yyf",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to need",
@@ -3620,7 +3624,9 @@
     "wir": "brauchen",
     "ihr": "braucht",
     "sie": "brauchen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtqmom9s84b",

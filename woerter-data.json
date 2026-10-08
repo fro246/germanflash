@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791488056576,
+ "updatedAt": 1791488105974,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1813,7 +1813,7 @@
   },
   {
    "id": "muvew8gmctz6g",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Example",
@@ -1821,12 +1821,12 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Beispiele",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvewl0dwujjk",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Key",
@@ -1834,8 +1834,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Schlüssel",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvex455vgvc8",
@@ -2054,7 +2054,7 @@
   },
   {
    "id": "muvf0tmtu9g6m",
-   "hits": 4,
+   "hits": 5,
    "misses": 1,
    "type": "noun",
    "en": "House",
@@ -2062,8 +2062,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Häuser",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muvf188l2tfyt",
@@ -3517,14 +3517,16 @@
   },
   {
    "id": "muxtnevq8tn44",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Package",
    "de": "Packung",
    "level": "A1.1",
    "article": "die",
-   "plural": "Packungen"
+   "plural": "Packungen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtnozsrpg1m",
@@ -3687,8 +3689,8 @@
   },
   {
    "id": "muxtqspv4snj6",
-   "hits": 1,
-   "misses": 0,
+   "hits": 2,
+   "misses": 1,
    "type": "verb",
    "en": "to find",
    "de": "finden",
@@ -3701,8 +3703,8 @@
     "ihr": "findet",
     "sie": "finden"
    },
-   "box": 2,
-   "streak": 4
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxtr8nk8e1ss",
@@ -5475,14 +5477,16 @@
   },
   {
    "id": "muxvxcsbgpp0y",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Ice cream",
    "de": "Eis",
    "level": "A1.1",
    "article": "das",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvxnijs4coa",

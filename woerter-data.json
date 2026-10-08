@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791488659969,
+ "updatedAt": 1791488696814,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -76,15 +76,15 @@
   {
    "id": "mun9woaj80t8g",
    "hits": 4,
-   "misses": 8,
+   "misses": 9,
    "type": "noun",
    "en": "Appointment",
    "de": "Verabredung",
    "level": "A1.1",
    "article": "die",
    "plural": "Verabredungen",
-   "box": 2,
-   "streak": 2
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mun9wxbjjzrr7",
@@ -1405,13 +1405,15 @@
   {
    "id": "muo25ubmec4um",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Hospital",
    "de": "Krankenhaus",
    "level": "A1.1",
    "article": "das",
-   "plural": "Krankenhäuser"
+   "plural": "Krankenhäuser",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo267991d5p3",
@@ -1734,7 +1736,7 @@
   },
   {
    "id": "muoic3rabci8x",
-   "hits": 2,
+   "hits": 3,
    "misses": 5,
    "type": "noun",
    "en": "Postal code",
@@ -1742,8 +1744,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Postleitzahlen",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muoicwbbna7wg",
@@ -4607,7 +4609,7 @@
   },
   {
    "id": "muxuie1111u9r",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Son",
@@ -4615,8 +4617,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Söhne",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxuirzmtpj99",

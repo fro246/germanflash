@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487804406,
+ "updatedAt": 1791487866180,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -434,7 +434,7 @@
   },
   {
    "id": "muna84u5fefhj",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Letters (spelling)",
@@ -442,8 +442,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Buchstaben",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "muna8rltza7um",
@@ -1891,7 +1891,7 @@
   },
   {
    "id": "muvexvpmkbpcq",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to wait",
@@ -1904,7 +1904,9 @@
     "wir": "warten",
     "ihr": "wartet",
     "sie": "warten"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvey2a12yh6q",
@@ -3863,12 +3865,14 @@
   },
   {
    "id": "muxtvs9d31xf4",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "finished",
    "de": "fertig",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtw5ii7a3tz",
@@ -4280,7 +4284,7 @@
   },
   {
    "id": "muxuc1alxss28",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to meet",
@@ -4293,7 +4297,9 @@
     "wir": "treffen",
     "ihr": "trefft",
     "sie": "treffen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuck70tj6to",
@@ -4548,14 +4554,16 @@
   },
   {
    "id": "muxui67y5w2ym",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Girl",
    "de": "Mädchen",
    "level": "A1.1",
    "article": "das",
-   "plural": "Mädchen"
+   "plural": "Mädchen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxuie1111u9r",
@@ -4720,14 +4728,16 @@
   },
   {
    "id": "muxum9q3u3lpv",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Husband",
    "de": "Mann",
    "level": "A1.1",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxumfqkttiss",
@@ -5793,7 +5803,7 @@
   },
   {
    "id": "muxw4edd4xw9d",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Establishment / restaurant / place",
@@ -5801,8 +5811,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Lokale",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxw4ybsmnzl7",

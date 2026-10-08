@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791488562302,
+ "updatedAt": 1791488612532,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1031,7 +1031,7 @@
   },
   {
    "id": "muo1owkym2h7k",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Hairdresser (female)",
@@ -1039,8 +1039,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Friseurinnen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo1q3ii9vl55",
@@ -2027,12 +2027,14 @@
   },
   {
    "id": "muvezk7rg04iq",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "many",
    "de": "viel",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvezngzxt65b",
@@ -2853,15 +2855,15 @@
   {
    "id": "muvfsva0y2gaz",
    "hits": 1,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Poster",
    "de": "Plakat",
    "level": "A1.1",
    "article": "das",
    "plural": "Plakate",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvft1pctg5t9",
@@ -3699,8 +3701,8 @@
   },
   {
    "id": "muxtqspv4snj6",
-   "hits": 2,
-   "misses": 1,
+   "hits": 3,
+   "misses": 2,
    "type": "verb",
    "en": "to find",
    "de": "finden",
@@ -5373,14 +5375,16 @@
   },
   {
    "id": "muxvtmt4rr2hc",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Gift",
    "de": "Geschenk",
    "level": "A1.1",
    "article": "das",
-   "plural": "Geschenke"
+   "plural": "Geschenke",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxvtt7j0mgox",

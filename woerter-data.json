@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487656840,
+ "updatedAt": 1791487716081,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -36,7 +36,7 @@
   },
   {
    "id": "mun9v6b6dogtx",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "noun",
    "en": "Book",
@@ -44,8 +44,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Bücher",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "mun9vgh87r3kc",
@@ -1184,14 +1184,16 @@
   },
   {
    "id": "muo1xdcgqjk9e",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Mechanic (female)",
    "de": "Mechanikerin",
    "level": "A1.1",
    "article": "die",
-   "plural": "Mechanikerinnen"
+   "plural": "Mechanikerinnen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo1xy4q4ezva",
@@ -2143,15 +2145,15 @@
   {
    "id": "muvf33uhowfwu",
    "hits": 1,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Market",
    "de": "Markt",
    "level": "A1.1",
    "article": "der",
    "plural": "Märkte",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvf3tak7xh06",
@@ -2981,14 +2983,16 @@
   },
   {
    "id": "muxtak6rkzf55",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Potato",
    "de": "Kartoffel",
    "level": "A1.1",
    "article": "die",
-   "plural": "Kartoffeln"
+   "plural": "Kartoffeln",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtatnm0w754",
@@ -4058,15 +4062,15 @@
   {
    "id": "muxu0ut4h8jx5",
    "hits": 1,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Night",
    "de": "Nacht",
    "level": "A1.1",
    "article": "die",
    "plural": "Nächte",
-   "box": 2,
-   "streak": 4
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxu1601g1966",
@@ -4090,12 +4094,14 @@
   },
   {
    "id": "muxu1g5iwdaky",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "health",
    "de": "gesund",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxu1ls47htyf",
@@ -5281,7 +5287,7 @@
   },
   {
    "id": "muxvrc4apogyz",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Birthday",
@@ -5289,8 +5295,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Geburtstage",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxvt53y9v9k7",

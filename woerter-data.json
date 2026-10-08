@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791486838441,
+ "updatedAt": 1791487317009,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1751,38 +1751,38 @@
   },
   {
    "id": "muoidw33l3ayz",
-   "hits": 1,
-   "misses": 0,
+   "hits": 2,
+   "misses": 1,
    "type": "noun",
    "en": "Birthplace",
    "de": "Geburtsort",
    "level": "A1.1",
    "article": "der",
    "plural": "Geburtsorte",
-   "box": 2,
-   "streak": 4
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muoiej5rtopii",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "male",
    "de": "männlich",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muoiev7xpknow",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "other",
    "en": "female",
    "de": "weiblich",
    "level": "A1.1",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muoikawvmekz9",
@@ -2552,13 +2552,15 @@
   {
    "id": "muvfn7tf00p9e",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Audience",
    "de": "Publikum",
    "level": "A1.1",
    "article": "das",
-   "plural": ""
+   "plural": "",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muvfnfq1rdo8t",
@@ -2937,7 +2939,7 @@
   },
   {
    "id": "muxta2mzkz0ql",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Vegetable",
@@ -2945,8 +2947,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtabk4ci4p7",
@@ -3229,7 +3231,7 @@
   },
   {
    "id": "muxthhd9efenw",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Vinegar",
@@ -3237,8 +3239,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Essige",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxthvl164cnv",

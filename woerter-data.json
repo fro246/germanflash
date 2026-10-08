@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487493021,
+ "updatedAt": 1791487554938,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -651,12 +651,14 @@
   },
   {
    "id": "muo0q35fux1xu",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "Good day",
    "de": "Guten Tag",
-   "level": "A1.1"
+   "level": "A1.1",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0q8ftr2egl",
@@ -1258,7 +1260,7 @@
   },
   {
    "id": "muo207787amtp",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Seminar",
@@ -1266,8 +1268,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Seminare",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muo20nj3d8u2k",
@@ -3361,7 +3363,7 @@
   },
   {
    "id": "muxtk5xofl3ty",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Water",
@@ -3369,8 +3371,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Wasser",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtkfi2djq18",
@@ -3702,7 +3704,7 @@
   },
   {
    "id": "muxtruwnf3ju4",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Receipt",
@@ -3710,8 +3712,8 @@
    "level": "A1.1",
    "article": "der",
    "plural": "Kassenzettel",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "muxts2c4000ok",
@@ -3809,7 +3811,7 @@
   },
   {
    "id": "muxtups0iht43",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to like",
@@ -3823,8 +3825,8 @@
     "ihr": "mögt",
     "sie": "mögen"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxtvgss4pc7v",
@@ -4239,7 +4241,7 @@
   },
   {
    "id": "muxubtceqeyw3",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to visit",
@@ -4253,8 +4255,8 @@
     "ihr": "besucht",
     "sie": "besuchen"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxuc1alxss28",
@@ -5517,7 +5519,7 @@
   },
   {
    "id": "muxvzi8tcu8di",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Order",
@@ -5525,8 +5527,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Bestellungen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxvzserboh91",

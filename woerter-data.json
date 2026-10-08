@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791486076753,
+ "updatedAt": 1791486121239,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -447,7 +447,7 @@
   },
   {
    "id": "muna8rltza7um",
-   "hits": 3,
+   "hits": 4,
    "misses": 3,
    "type": "noun",
    "en": "Number",
@@ -455,8 +455,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Zahlen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muna9j1hemjsh",
@@ -1717,15 +1717,15 @@
   {
    "id": "muoic3rabci8x",
    "hits": 1,
-   "misses": 3,
+   "misses": 4,
    "type": "noun",
    "en": "Postal code",
    "de": "Postleitzahl",
    "level": "A1.1",
    "article": "die",
    "plural": "Postleitzahlen",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muoicwbbna7wg",
@@ -3421,14 +3421,16 @@
   },
   {
    "id": "muxtlnpat544s",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Backery",
    "de": "Bäckerei",
    "level": "A1.1",
    "article": "die",
-   "plural": "Bäckereien"
+   "plural": "Bäckereien",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtm31n3g98y",
@@ -4563,14 +4565,16 @@
   },
   {
    "id": "muxujm9csd4yv",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Parents",
    "de": "Eltern",
    "level": "A1.1",
    "article": "die",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxujwidb4oce",

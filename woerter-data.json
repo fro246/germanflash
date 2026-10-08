@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791487554938,
+ "updatedAt": 1791487605194,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -732,7 +732,7 @@
   },
   {
    "id": "muo0silntom7z",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to listen",
@@ -745,7 +745,9 @@
     "wir": "hören",
     "ihr": "hört",
     "sie": "hören"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muo0ssllq1ouq",
@@ -1628,14 +1630,14 @@
   },
   {
    "id": "muoi9d7n8bhdk",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "Friday",
    "de": "Freitag",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muoi9j0ce5bj5",
@@ -2164,14 +2166,16 @@
   },
   {
    "id": "muvf4acc0d1h5",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Port",
    "de": "Hafen",
    "level": "A1.1",
    "article": "der",
-   "plural": "Häfen"
+   "plural": "Häfen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf4h4qbfe3y",
@@ -2271,7 +2275,7 @@
   },
   {
    "id": "muvf6mpooi418",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "noun",
    "en": "Bicycle",
@@ -2279,8 +2283,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Fahrräder",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "muvf6tqgnvl4m",
@@ -2570,14 +2574,16 @@
   },
   {
    "id": "muvfnfq1rdo8t",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Visitor",
    "de": "Besucher",
    "level": "A1.1",
    "article": "der",
-   "plural": "Besucher"
+   "plural": "Besucher",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muvfns6atuijh",
@@ -2887,13 +2893,15 @@
   {
    "id": "muvfu3jdxhoqu",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Solution",
    "de": "Lösung",
    "level": "A1.1",
    "article": "die",
-   "plural": "Lösungen"
+   "plural": "Lösungen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxt8uf75wdjf",
@@ -5336,14 +5344,14 @@
   },
   {
    "id": "muxvv1yvvb5f7",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "Caution",
    "de": "Achtung",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muxvvd5mzxhhy",

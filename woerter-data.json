@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791485961141,
+ "updatedAt": 1791486022076,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1309,13 +1309,15 @@
   {
    "id": "muo22k22idbql",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Sales person",
    "de": "Verkäufer",
    "level": "A1.1",
    "article": "der",
-   "plural": "Verkäufer"
+   "plural": "Verkäufer",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muo2331gzhxzb",
@@ -3090,14 +3092,16 @@
   },
   {
    "id": "muxtd54fe5yn8",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Ham",
    "de": "Schinken",
    "level": "A1.1",
    "article": "das",
-   "plural": "Schinken"
+   "plural": "Schinken",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxtdz3jqpe4y",
@@ -4856,7 +4860,7 @@
   {
    "id": "muxuqq7p2nqh2",
    "hits": 0,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Meeting",
    "de": "Besprechung",
@@ -5936,7 +5940,7 @@
   },
   {
    "id": "muxwbvhqllrk7",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "verb",
    "en": "to begin",
@@ -5950,8 +5954,8 @@
     "ihr": "fangt an",
     "sie": "fangen an"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxwci4925cho",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791488154182,
+ "updatedAt": 1791488212918,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -23,7 +23,7 @@
   },
   {
    "id": "mun9uquf82t6v",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Hobby",
@@ -31,8 +31,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Hobbys",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mun9v6b6dogtx",
@@ -1656,14 +1656,14 @@
   },
   {
    "id": "muoi9mwb7suf3",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "Sunday",
    "de": "Sonntag",
    "level": "A1.1",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "muoia5le22a1l",
@@ -2204,14 +2204,16 @@
   },
   {
    "id": "muvf4rnpqfrb9",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "River",
    "de": "Fluss",
    "level": "A1.1",
    "article": "der",
-   "plural": "Flüsse"
+   "plural": "Flüsse",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muvf4y1kdleb5",
@@ -4358,14 +4360,16 @@
   },
   {
    "id": "muxudanoh6xeb",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Library",
    "de": "Bibliothek",
    "level": "A1.1",
    "article": "die",
-   "plural": "Bibliotheken"
+   "plural": "Bibliotheken",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "muxudl7zvq7ng",
@@ -4785,14 +4789,14 @@
   },
   {
    "id": "muxums5vet8wg",
-   "hits": 2,
+   "hits": 3,
    "misses": 3,
    "type": "other",
    "en": "married",
    "de": "verheiratet",
    "level": "A1.1",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxun2gh9meej",
@@ -5254,7 +5258,7 @@
   {
    "id": "muxvpadd0wsuq",
    "hits": 2,
-   "misses": 3,
+   "misses": 4,
    "type": "verb",
    "en": "to invite",
    "de": "einladen",
@@ -5267,8 +5271,8 @@
     "ihr": "ladet ein",
     "sie": "laden ein"
    },
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "muxvpm64oeape",

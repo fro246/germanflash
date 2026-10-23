@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753735113,
+ "updatedAt": 1792753747443,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6422,6 +6422,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Fehler"
+  },
+  {
+   "id": "mvkvakmrhfa0b",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Break",
+   "de": "Pause",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Pausen"
   }
  ]
 }

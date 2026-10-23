@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753947457,
+ "updatedAt": 1792753963405,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6608,6 +6608,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": ""
+  },
+  {
+   "id": "mvkvf79pb51fg",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "File",
+   "de": "Datei",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Dateien"
   }
  ]
 }

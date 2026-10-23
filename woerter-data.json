@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754559560,
+ "updatedAt": 1792754572760,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7042,6 +7042,15 @@
    "type": "other",
    "en": "understood",
    "de": "alles klar",
+   "level": "A1.2"
+  },
+  {
+   "id": "mvkvs9g80mca1",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "what a coincidence",
+   "de": "so ein Zufall",
    "level": "A1.2"
   }
  ]

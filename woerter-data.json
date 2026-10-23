@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754363133,
+ "updatedAt": 1792754373372,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6875,6 +6875,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Kontakte"
+  },
+  {
+   "id": "mvkvnzloxudgf",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Song",
+   "de": "Lied",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Lieder"
   }
  ]
 }

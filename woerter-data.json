@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754221482,
+ "updatedAt": 1792754235995,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6771,6 +6771,23 @@
     "wir": "holen",
     "ihr": "holt",
     "sie": "holen"
+   }
+  },
+  {
+   "id": "mvkvl1lnd2bnc",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to transfer",
+   "de": "überweisen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "überweise",
+    "du": "überweist",
+    "er": "überweist",
+    "wir": "überweisen",
+    "ihr": "überweist",
+    "sie": "überweisen"
    }
   }
  ]

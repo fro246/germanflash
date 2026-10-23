@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754625837,
+ "updatedAt": 1792754659712,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7085,6 +7085,23 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Pakete"
+  },
+  {
+   "id": "mvkvu4jkbxpfm",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "pick up",
+   "de": "annehmen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "nehme an",
+    "du": "nimmst am",
+    "er": "nimmt an",
+    "wir": "nehmen an",
+    "ihr": "nehmt an",
+    "sie": "nehmen an"
+   }
   }
  ]
 }

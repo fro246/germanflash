@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754455542,
+ "updatedAt": 1792754471652,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6954,6 +6954,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Leben"
+  },
+  {
+   "id": "mvkvq3foqdmr0",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Elevator",
+   "de": "Aufzug",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Aufzüge"
   }
  ]
 }

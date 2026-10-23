@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754528013,
+ "updatedAt": 1792754533537,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7006,6 +7006,15 @@
    "type": "other",
    "en": "the most",
    "de": "die meisten",
+   "level": "A1.2"
+  },
+  {
+   "id": "mvkvrf6pv12lg",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "boring",
+   "de": "langweilig",
    "level": "A1.2"
   }
  ]

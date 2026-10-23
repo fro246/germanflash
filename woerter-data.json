@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754546368,
+ "updatedAt": 1792754559560,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7033,6 +7033,15 @@
    "type": "other",
    "en": "terrible",
    "de": "schrecklich",
+   "level": "A1.2"
+  },
+  {
+   "id": "mvkvrz9kcygh4",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "understood",
+   "de": "alles klar",
    "level": "A1.2"
   }
  ]

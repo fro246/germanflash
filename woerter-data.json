@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791488800515,
+ "updatedAt": 1791488851439,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -1261,7 +1261,7 @@
   },
   {
    "id": "muo1zq9lrqi51",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "University",
@@ -1269,8 +1269,8 @@
    "level": "A1.1",
    "article": "die",
    "plural": "Universitäten",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muo207787amtp",
@@ -2369,7 +2369,7 @@
   {
    "id": "muvf87evx7qdf",
    "hits": 1,
-   "misses": 3,
+   "misses": 4,
    "type": "noun",
    "en": "Airplane",
    "de": "Flugzeug",
@@ -5006,7 +5006,7 @@
   },
   {
    "id": "muxurp2fe0sdo",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Motorcycle",
@@ -5014,8 +5014,8 @@
    "level": "A1.1",
    "article": "das",
    "plural": "Motorräder",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "muxurw55nxox5",
@@ -6302,8 +6302,8 @@
   },
   {
    "id": "muxwkvejocfh6",
-   "hits": 1,
-   "misses": 2,
+   "hits": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Playground",
    "de": "Spielplatz",

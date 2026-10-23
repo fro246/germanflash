@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754725860,
+ "updatedAt": 1792754733480,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7186,6 +7186,23 @@
     "wir": "nehmen mit",
     "ihr": "nehmt mit",
     "sie": "nehmen mit"
+   }
+  },
+  {
+   "id": "mvkvvpgo77lwv",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to use",
+   "de": "verwenden",
+   "level": "A1.2",
+   "forms": {
+    "ich": "verwende",
+    "du": "verwendest",
+    "er": "verwendet",
+    "wir": "verwenden",
+    "ihr": "verwendet",
+    "sie": "verwenden"
    }
   }
  ]

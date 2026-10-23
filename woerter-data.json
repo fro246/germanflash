@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753638240,
+ "updatedAt": 1792753666201,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6367,6 +6367,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Mitarbeiter"
+  },
+  {
+   "id": "mvkv8ty1bdn19",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Female employee",
+   "de": "Mitarbeiterin",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Mitarbeiterinnen"
   }
  ]
 }

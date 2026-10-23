@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753760232,
+ "updatedAt": 1792753781165,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6444,6 +6444,23 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Urlaube"
+  },
+  {
+   "id": "mvkvbanh0i5jo",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to explain",
+   "de": "erklären",
+   "level": "A1.2",
+   "forms": {
+    "ich": "erkläre",
+    "du": "erklärst",
+    "er": "erklärt",
+    "wir": "erklären",
+    "ihr": "erklärt",
+    "sie": "erklären"
+   }
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754084283,
+ "updatedAt": 1792754148497,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6700,6 +6700,17 @@
    "en": "empty",
    "de": "leer",
    "level": "A1.2"
+  },
+  {
+   "id": "mvkvj635724e9",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Bank",
+   "de": "Bank",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Banken"
   }
  ]
 }

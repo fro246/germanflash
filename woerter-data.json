@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754693304,
+ "updatedAt": 1792754700066,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7152,6 +7152,23 @@
     "wir": "bleiben",
     "ihr": "bleibt",
     "sie": "bleiben"
+   }
+  },
+  {
+   "id": "mvkvuzoilcvru",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to think",
+   "de": "denken",
+   "level": "A1.2",
+   "forms": {
+    "ich": "denke",
+    "du": "denkst",
+    "er": "denkt",
+    "wir": "denken",
+    "ihr": "denkt",
+    "sie": "denken"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754471652,
+ "updatedAt": 1792754480770,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6965,6 +6965,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Aufzüge"
+  },
+  {
+   "id": "mvkvqagygqcnx",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Politics",
+   "de": "Politik",
+   "level": "A1.2",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

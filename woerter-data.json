@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753781165,
+ "updatedAt": 1792753792551,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6460,6 +6460,23 @@
     "wir": "erklären",
     "ihr": "erklärt",
     "sie": "erklären"
+   }
+  },
+  {
+   "id": "mvkvbjfrymxgj",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to correct",
+   "de": "korrigieren",
+   "level": "A1.2",
+   "forms": {
+    "ich": "korrigiere",
+    "du": "korrigierst",
+    "er": "korrigiert",
+    "wir": "korrigieren",
+    "ihr": "korrigiert",
+    "sie": "korrigieren"
    }
   }
  ]

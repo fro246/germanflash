@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754673846,
+ "updatedAt": 1792754680379,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7118,6 +7118,23 @@
     "wir": "bedeuten",
     "ihr": "bedeutet",
     "sie": "bedeuten"
+   }
+  },
+  {
+   "id": "mvkvukhnum4tz",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to last",
+   "de": "dauern",
+   "level": "A1.2",
+   "forms": {
+    "ich": "dauere",
+    "du": "dauerst",
+    "er": "dauert",
+    "wir": "dauern",
+    "ihr": "dauert",
+    "sie": "dauern"
    }
   }
  ]

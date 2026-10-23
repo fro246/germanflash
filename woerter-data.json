@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754202645,
+ "updatedAt": 1792754221482,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6755,6 +6755,23 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Kreditkarten"
+  },
+  {
+   "id": "mvkvkqei83vci",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to collect",
+   "de": "holen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "hole",
+    "du": "holst",
+    "er": "holt",
+    "wir": "holen",
+    "ihr": "holt",
+    "sie": "holen"
+   }
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754733480,
+ "updatedAt": 1792754742787,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7204,6 +7204,15 @@
     "ihr": "verwendet",
     "sie": "verwenden"
    }
+  },
+  {
+   "id": "mvkvvwn79clx7",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "different",
+   "de": "anders",
+   "level": "A1.2"
   }
  ]
 }

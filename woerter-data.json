@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753723479,
+ "updatedAt": 1792753735113,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6411,6 +6411,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Präsentationen"
+  },
+  {
+   "id": "mvkvab49jeuif",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Mistake",
+   "de": "Fehler",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Fehler"
   }
  ]
 }

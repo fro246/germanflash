@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754347130,
+ "updatedAt": 1792754363133,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6864,6 +6864,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Mitglieder"
+  },
+  {
+   "id": "mvkvnrp9eo57z",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Contact",
+   "de": "Kontakt",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Kontakte"
   }
  ]
 }

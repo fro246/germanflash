@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753923769,
+ "updatedAt": 1792753929870,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6579,6 +6579,23 @@
     "wir": "speichern",
     "ihr": "speichert",
     "sie": "speichern"
+   }
+  },
+  {
+   "id": "mvkvehe60vzrt",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to print",
+   "de": "drucken",
+   "level": "A1.2",
+   "forms": {
+    "ich": "drucke",
+    "du": "druckst",
+    "er": "druckt",
+    "wir": "drucken",
+    "ihr": "druckt",
+    "sie": "drucken"
    }
   }
  ]

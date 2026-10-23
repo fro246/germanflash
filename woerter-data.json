@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753686211,
+ "updatedAt": 1792753699715,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6389,6 +6389,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Praktika"
+  },
+  {
+   "id": "mvkv9jszwycrp",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Report",
+   "de": "Bericht",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Berichte"
   }
  ]
 }

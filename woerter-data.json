@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754422167,
+ "updatedAt": 1792754434922,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6925,6 +6925,15 @@
     "ihr": "redet",
     "sie": "reden"
    }
+  },
+  {
+   "id": "mvkvpb3evrq16",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "current",
+   "de": "aktuell",
+   "level": "A1.2"
   }
  ]
 }

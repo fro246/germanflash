@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754406218,
+ "updatedAt": 1792754422167,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6908,6 +6908,23 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Spezialitäten"
+  },
+  {
+   "id": "mvkvp193harcp",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to talk",
+   "de": "reden",
+   "level": "A1.2",
+   "forms": {
+    "ich": "rede",
+    "du": "redest",
+    "er": "redet",
+    "wir": "reden",
+    "ihr": "redet",
+    "sie": "reden"
+   }
   }
  ]
 }

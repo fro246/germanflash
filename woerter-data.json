@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753974914,
+ "updatedAt": 1792754001519,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6630,6 +6630,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Drucker"
+  },
+  {
+   "id": "mvkvg0ofa0uug",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Password",
+   "de": "Passwort",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Passwörter"
   }
  ]
 }

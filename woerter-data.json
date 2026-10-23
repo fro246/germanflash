@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754387954,
+ "updatedAt": 1792754406218,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6897,6 +6897,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Musikgruppen"
+  },
+  {
+   "id": "mvkvooy2zmath",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Specialty",
+   "de": "Spezialität",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Spezialitäten"
   }
  ]
 }

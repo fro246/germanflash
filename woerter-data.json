@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754494427,
+ "updatedAt": 1792754507971,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6987,6 +6987,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Serien"
+  },
+  {
+   "id": "mvkvqvgjg3xnq",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Religion",
+   "de": "Religion",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Religionen"
   }
  ]
 }

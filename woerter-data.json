@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754159519,
+ "updatedAt": 1792754173444,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6722,6 +6722,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Automaten"
+  },
+  {
+   "id": "mvkvjpc4uz78g",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Account",
+   "de": "Konto",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Konten"
   }
  ]
 }

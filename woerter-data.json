@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754680379,
+ "updatedAt": 1792754693304,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7135,6 +7135,23 @@
     "wir": "dauern",
     "ihr": "dauert",
     "sie": "dauern"
+   }
+  },
+  {
+   "id": "mvkvuugomvfek",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to remain/stay",
+   "de": "bleiben",
+   "level": "A1.2",
+   "forms": {
+    "ich": "bleibe",
+    "du": "bleibst",
+    "er": "bleibt",
+    "wir": "bleiben",
+    "ihr": "bleibt",
+    "sie": "bleiben"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754191652,
+ "updatedAt": 1792754202645,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6744,6 +6744,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Kontonummern"
+  },
+  {
+   "id": "mvkvkbv933ujc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Credit card",
+   "de": "Kreditkarte",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Kreditkarten"
   }
  ]
 }

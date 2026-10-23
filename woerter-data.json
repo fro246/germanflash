@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753856332,
+ "updatedAt": 1792753879660,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6511,6 +6511,23 @@
     "wir": "fahren hoch",
     "ihr": "fahrt hoch",
     "sie": "fahren hoch"
+   }
+  },
+  {
+   "id": "mvkvdeng9f10m",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to turn on",
+   "de": "anmachen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "mache an",
+    "du": "machst an",
+    "er": "macht an",
+    "wir": "machen an",
+    "ihr": "macht an",
+    "sie": "machen an"
    }
   }
  ]

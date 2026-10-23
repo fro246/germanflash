@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754036072,
+ "updatedAt": 1792754074262,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6674,6 +6674,23 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Netze"
+  },
+  {
+   "id": "mvkvhkt2zubid",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to input",
+   "de": "eingeben",
+   "level": "A1.2",
+   "forms": {
+    "ich": "gebe ein",
+    "du": "gibst ein",
+    "er": "gibt ein",
+    "wir": "geben ein",
+    "ihr": "gebt ein",
+    "sie": "geben ein"
+   }
   }
  ]
 }

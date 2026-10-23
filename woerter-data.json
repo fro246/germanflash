@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754595289,
+ "updatedAt": 1792754608684,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7063,6 +7063,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Erwachsenen"
+  },
+  {
+   "id": "mvkvt1644fr1u",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Neighbor",
+   "de": "Nachbar",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Nachbar"
   }
  ]
 }

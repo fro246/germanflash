@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753879660,
+ "updatedAt": 1792753898709,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6528,6 +6528,23 @@
     "wir": "machen an",
     "ihr": "macht an",
     "sie": "machen an"
+   }
+  },
+  {
+   "id": "mvkvdtclhieyy",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to turn off",
+   "de": "ausmachen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "mache aus",
+    "du": "machst aus",
+    "er": "macht aus",
+    "wir": "machen aus",
+    "ihr": "macht aus",
+    "sie": "machen aus"
    }
   }
  ]

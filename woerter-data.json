@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753623216,
+ "updatedAt": 1792753638240,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6356,6 +6356,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Hausmeister"
+  },
+  {
+   "id": "mvkv88dc30rqu",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Employee",
+   "de": "Mitarbeiter",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Mitarbeiter"
   }
  ]
 }

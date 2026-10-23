@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753597384,
+ "updatedAt": 1792753613589,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6334,6 +6334,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Bäcker"
+  },
+  {
+   "id": "mvkv7pcl8947e",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Dentist",
+   "de": "Zahnarzt",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Zahnärzte"
   }
  ]
 }

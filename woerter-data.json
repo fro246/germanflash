@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754275585,
+ "updatedAt": 1792754288549,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6820,6 +6820,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": ""
+  },
+  {
+   "id": "mvkvm65h03mro",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Sender",
+   "de": "Absender",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Absender"
   }
  ]
 }

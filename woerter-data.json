@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753792551,
+ "updatedAt": 1792753803676,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6477,6 +6477,23 @@
     "wir": "korrigieren",
     "ihr": "korrigiert",
     "sie": "korrigieren"
+   }
+  },
+  {
+   "id": "mvkvbs0s6o7mj",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to interest",
+   "de": "interessieren",
+   "level": "A1.2",
+   "forms": {
+    "ich": "interessiere",
+    "du": "interessierst",
+    "er": "interessiert",
+    "wir": "interessieren",
+    "ihr": "interessiert",
+    "sie": "interessieren"
    }
   }
  ]

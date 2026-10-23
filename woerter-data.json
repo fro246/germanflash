@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754288549,
+ "updatedAt": 1792754307793,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6831,6 +6831,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Absender"
+  },
+  {
+   "id": "mvkvml01nu6u2",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Reciepient",
+   "de": "Empfänger",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Empfänger"
   }
  ]
 }

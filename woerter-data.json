@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754700066,
+ "updatedAt": 1792754725860,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7169,6 +7169,23 @@
     "wir": "denken",
     "ihr": "denkt",
     "sie": "denken"
+   }
+  },
+  {
+   "id": "mvkvvjl0hkwc1",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to take along",
+   "de": "mitnehmen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "nehme mit",
+    "du": "nimmst mit",
+    "er": "nimmt mit",
+    "wir": "nehmen mit",
+    "ihr": "nehmt mit",
+    "sie": "nehmen mit"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754235995,
+ "updatedAt": 1792754243481,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6789,6 +6789,15 @@
     "ihr": "überweist",
     "sie": "überweisen"
    }
+  },
+  {
+   "id": "mvkvl7dlinf76",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "cash",
+   "de": "bar",
+   "level": "A1.2"
   }
  ]
 }

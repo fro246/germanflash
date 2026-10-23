@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754264173,
+ "updatedAt": 1792754275585,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6809,6 +6809,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Briefe"
+  },
+  {
+   "id": "mvkvlw5d6ngig",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Post office",
+   "de": "Post",
+   "level": "A1.2",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

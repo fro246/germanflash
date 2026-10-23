@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753747443,
+ "updatedAt": 1792753760232,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6433,6 +6433,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Pausen"
+  },
+  {
+   "id": "mvkvaui0g39lg",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Vacation",
+   "de": "Urlaub",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Urlaube"
   }
  ]
 }

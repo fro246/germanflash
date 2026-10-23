@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754373372,
+ "updatedAt": 1792754387954,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6886,6 +6886,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Lieder"
+  },
+  {
+   "id": "mvkvoauqgmcpt",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Music group",
+   "de": "Musikgruppe",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Musikgruppen"
   }
  ]
 }

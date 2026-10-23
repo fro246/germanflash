@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754001519,
+ "updatedAt": 1792754010502,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6641,6 +6641,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Passwörter"
+  },
+  {
+   "id": "mvkvg7ly2jemr",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Blog",
+   "de": "Blog",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Blogs"
   }
  ]
 }

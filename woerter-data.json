@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754243481,
+ "updatedAt": 1792754264173,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6798,6 +6798,17 @@
    "en": "cash",
    "de": "bar",
    "level": "A1.2"
+  },
+  {
+   "id": "mvkvlncdrm7mi",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Letter",
+   "de": "Brief",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Briefe"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753699715,
+ "updatedAt": 1792753723479,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6400,6 +6400,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Berichte"
+  },
+  {
+   "id": "mvkva253lqhy4",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Presentation",
+   "de": "Präsentation",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Präsentationen"
   }
  ]
 }

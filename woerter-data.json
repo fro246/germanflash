@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754659712,
+ "updatedAt": 1792754673846,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7101,6 +7101,23 @@
     "wir": "nehmen an",
     "ihr": "nehmt an",
     "sie": "nehmen an"
+   }
+  },
+  {
+   "id": "mvkvufg6lh2xq",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to mean",
+   "de": "bedeuten",
+   "level": "A1.2",
+   "forms": {
+    "ich": "bedeute",
+    "du": "bedeutest",
+    "er": "bedeutet",
+    "wir": "bedeuten",
+    "ihr": "bedeutet",
+    "sie": "bedeuten"
    }
   }
  ]

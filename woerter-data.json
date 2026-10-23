@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754148497,
+ "updatedAt": 1792754159519,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6711,6 +6711,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Banken"
+  },
+  {
+   "id": "mvkvjelb0zrat",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "ATM",
+   "de": "Automat",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Automaten"
   }
  ]
 }

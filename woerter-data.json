@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753898709,
+ "updatedAt": 1792753912470,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6545,6 +6545,23 @@
     "wir": "machen aus",
     "ihr": "macht aus",
     "sie": "machen aus"
+   }
+  },
+  {
+   "id": "mvkve3yuuepiq",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to open",
+   "de": "öffnen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "öffne",
+    "du": "öffnest",
+    "er": "öffnet",
+    "wir": "öffnen",
+    "ihr": "öffnet",
+    "sie": "öffnen"
    }
   }
  ]

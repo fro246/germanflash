@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753912470,
+ "updatedAt": 1792753923769,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6562,6 +6562,23 @@
     "wir": "öffnen",
     "ihr": "öffnet",
     "sie": "öffnen"
+   }
+  },
+  {
+   "id": "mvkvecopnzguc",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to save",
+   "de": "speichern",
+   "level": "A1.2",
+   "forms": {
+    "ich": "speichere",
+    "du": "speicherst",
+    "er": "speichert",
+    "wir": "speichern",
+    "ihr": "speichert",
+    "sie": "speichern"
    }
   }
  ]

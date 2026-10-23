@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754507971,
+ "updatedAt": 1792754528013,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6998,6 +6998,15 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Religionen"
+  },
+  {
+   "id": "mvkvrax97z53h",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "the most",
+   "de": "die meisten",
+   "level": "A1.2"
   }
  ]
 }

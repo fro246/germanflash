@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753803676,
+ "updatedAt": 1792753856332,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6494,6 +6494,23 @@
     "wir": "interessieren",
     "ihr": "interessiert",
     "sie": "interessieren"
+   }
+  },
+  {
+   "id": "mvkvcwngg9ilm",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to start up (like a computer)",
+   "de": "hochfahren",
+   "level": "A1.2",
+   "forms": {
+    "ich": "fahre hoch",
+    "du": "fährst hoch",
+    "er": "fährt hoch",
+    "wir": "fahren hoch",
+    "ihr": "fahrt hoch",
+    "sie": "fahren hoch"
    }
   }
  ]

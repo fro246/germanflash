@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754074262,
+ "updatedAt": 1792754084283,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6691,6 +6691,15 @@
     "ihr": "gebt ein",
     "sie": "geben ein"
    }
+  },
+  {
+   "id": "mvkvhsjful0r4",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "empty",
+   "de": "leer",
+   "level": "A1.2"
   }
  ]
 }

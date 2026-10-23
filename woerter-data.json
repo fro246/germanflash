@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754173444,
+ "updatedAt": 1792754191652,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6733,6 +6733,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Konten"
+  },
+  {
+   "id": "mvkvk3dww07r8",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Account number",
+   "de": "Kontonummer",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Kontonummern"
   }
  ]
 }

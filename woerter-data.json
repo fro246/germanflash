@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792753963405,
+ "updatedAt": 1792753974914,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6619,6 +6619,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Dateien"
+  },
+  {
+   "id": "mvkvfg5e9dlk2",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Printer",
+   "de": "Drucker",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Drucker"
   }
  ]
 }

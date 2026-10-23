@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754572760,
+ "updatedAt": 1792754595289,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7052,6 +7052,17 @@
    "en": "what a coincidence",
    "de": "so ein Zufall",
    "level": "A1.2"
+  },
+  {
+   "id": "mvkvsqu13hocd",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Adult",
+   "de": "Erwachsene",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Erwachsenen"
   }
  ]
 }

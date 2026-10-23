@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1791488851439,
+ "updatedAt": 1792753578924,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6312,6 +6312,17 @@
    "plural": "Spielplätze",
    "box": 1,
    "streak": 1
+  },
+  {
+   "id": "mvkv6ylo92a02",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Everyday Working Life",
+   "de": "Arbeitsalltag",
+   "level": "A1.2",
+   "article": "der",
+   "plural": ""
   }
  ]
 }

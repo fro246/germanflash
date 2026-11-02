@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654279037,
+ "updatedAt": 1793654329738,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6315,7 +6315,7 @@
   },
   {
    "id": "mvkv6ylo92a02",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Everyday Working Life",
@@ -6323,8 +6323,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "mvkv7cugqrdca",
@@ -6636,13 +6636,15 @@
   {
    "id": "mvkvf79pb51fg",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "File",
    "de": "Datei",
    "level": "A1.2",
    "article": "die",
-   "plural": "Dateien"
+   "plural": "Dateien",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvfg5e9dlk2",
@@ -6720,12 +6722,14 @@
   },
   {
    "id": "mvkvhsjful0r4",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "empty",
    "de": "leer",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvj635724e9",
@@ -6777,14 +6781,16 @@
   },
   {
    "id": "mvkvkbv933ujc",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Credit card",
    "de": "Kreditkarte",
    "level": "A1.2",
    "article": "die",
-   "plural": "Kreditkarten"
+   "plural": "Kreditkarten",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvkqei83vci",
@@ -6938,7 +6944,7 @@
   },
   {
    "id": "mvkvooy2zmath",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Specialty",
@@ -6946,8 +6952,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Spezialitäten",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvp193harcp",
@@ -7027,14 +7033,16 @@
   },
   {
    "id": "mvkvql0b87qxp",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Series",
    "de": "Serie",
    "level": "A1.2",
    "article": "die",
-   "plural": "Serien"
+   "plural": "Serien",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvqvgjg3xnq",

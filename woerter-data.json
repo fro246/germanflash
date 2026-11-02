@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655073725,
+ "updatedAt": 1793655086414,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7558,6 +7558,15 @@
    "type": "other",
    "en": "active",
    "de": "aktiv",
+   "level": "A1.2"
+  },
+  {
+   "id": "mvzrxe8efo9s9",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "dangerous",
+   "de": "gefährlich",
    "level": "A1.2"
   }
  ]

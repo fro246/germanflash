@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655151721,
+ "updatedAt": 1793655170692,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7632,6 +7632,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": ""
+  },
+  {
+   "id": "mvzrz79gz557a",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Size",
+   "de": "Größe",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Größen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655362567,
+ "updatedAt": 1793655381987,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7786,6 +7786,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Gesichter"
+  },
+  {
+   "id": "mvzs3qarsywiz",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Mouth",
+   "de": "Mund",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Münder"
   }
  ]
 }

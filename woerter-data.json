@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655028790,
+ "updatedAt": 1793655033079,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7504,6 +7504,15 @@
    "type": "other",
    "en": "fit",
    "de": "fit",
+   "level": "A1.2"
+  },
+  {
+   "id": "mvzrw92vwgoal",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "athletic",
+   "de": "sportlich",
    "level": "A1.2"
   }
  ]

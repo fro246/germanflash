@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654533648,
+ "updatedAt": 1793654582862,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6424,7 +6424,7 @@
   },
   {
    "id": "mvkvab49jeuif",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Mistake",
@@ -6432,8 +6432,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Fehler",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvakmrhfa0b",
@@ -6756,7 +6756,7 @@
   },
   {
    "id": "mvkvjelb0zrat",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "ATM",
@@ -6764,12 +6764,12 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Automaten",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvjpc4uz78g",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Account",
@@ -6777,8 +6777,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Konten",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvk3dww07r8",
@@ -7003,14 +7003,14 @@
   },
   {
    "id": "mvkvpf1sjendj",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "other",
    "en": "neutral",
    "de": "neutral",
    "level": "A1.2",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "mvkvpr06lwoqs",
@@ -7093,23 +7093,25 @@
   },
   {
    "id": "mvkvrinklgyqb",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "hot",
    "de": "heiß",
    "level": "A1.2",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvkvrp34ptqve",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "other",
    "en": "terrible",
    "de": "schrecklich",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvrz9kcygh4",
@@ -7145,13 +7147,15 @@
   {
    "id": "mvkvt1644fr1u",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Neighbor",
    "de": "Nachbar",
    "level": "A1.2",
    "article": "der",
-   "plural": "Nachbar"
+   "plural": "Nachbar",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvteelvxt5x",

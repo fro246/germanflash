@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655120855,
+ "updatedAt": 1793655136152,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7604,6 +7604,23 @@
    "en": "heavy",
    "de": "schwer",
    "level": "A1.2"
+  },
+  {
+   "id": "mvzrygm021fg5",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to weigh",
+   "de": "wiegen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "wiege",
+    "du": "wiegst",
+    "er": "wiegt",
+    "wir": "wiegen",
+    "ihr": "wiegt",
+    "sie": "wiegen"
+   }
   }
  ]
 }

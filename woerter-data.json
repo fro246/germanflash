@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655065936,
+ "updatedAt": 1793655070185,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7540,6 +7540,15 @@
    "type": "other",
    "en": "daily",
    "de": "täglich",
+   "level": "A1.2"
+  },
+  {
+   "id": "mvzrx1plib2no",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "lazy",
+   "de": "faul",
    "level": "A1.2"
   }
  ]

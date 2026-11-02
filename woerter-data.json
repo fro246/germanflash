@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793653814696,
+ "updatedAt": 1793653868249,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6349,7 +6349,7 @@
   {
    "id": "mvkv7ws0wwves",
    "hits": 0,
-   "misses": 1,
+   "misses": 3,
    "type": "noun",
    "en": "Landlord",
    "de": "Hausmeister",
@@ -6395,13 +6395,15 @@
   {
    "id": "mvkv9jszwycrp",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Report",
    "de": "Bericht",
    "level": "A1.2",
    "article": "der",
-   "plural": "Berichte"
+   "plural": "Berichte",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkva253lqhy4",
@@ -6802,23 +6804,27 @@
   },
   {
    "id": "mvkvl7dlinf76",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "cash",
    "de": "bar",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvlncdrm7mi",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Letter",
    "de": "Brief",
    "level": "A1.2",
    "article": "der",
-   "plural": "Briefe"
+   "plural": "Briefe",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvlw5d6ngig",
@@ -7221,12 +7227,14 @@
   },
   {
    "id": "mvkvvwn79clx7",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "different",
    "de": "anders",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvw26r2vnnx",

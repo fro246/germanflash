@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654962626,
+ "updatedAt": 1793654979543,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7444,6 +7444,23 @@
     "wir": "machen weiter",
     "ihr": "macht weiter",
     "sie": "machen weiter"
+   }
+  },
+  {
+   "id": "mvzrv3rre492n",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to create",
+   "de": "schaffen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "schaffe",
+    "du": "schaffst",
+    "er": "schafft",
+    "wir": "schaffen",
+    "ihr": "schafft",
+    "sie": "schaffen"
    }
   }
  ]

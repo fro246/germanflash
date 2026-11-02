@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655255599,
+ "updatedAt": 1793655263685,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7709,6 +7709,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Rücken"
+  },
+  {
+   "id": "mvzs170l3s00x",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Arm",
+   "de": "Arm",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Arme"
   }
  ]
 }

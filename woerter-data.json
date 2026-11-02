@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654428824,
+ "updatedAt": 1793654480436,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6571,7 +6571,7 @@
   },
   {
    "id": "mvkve3yuuepiq",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to open",
@@ -6584,7 +6584,9 @@
     "wir": "öffnen",
     "ihr": "öffnet",
     "sie": "öffnen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvecopnzguc",
@@ -6663,14 +6665,16 @@
   },
   {
    "id": "mvkvg0ofa0uug",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Password",
    "de": "Passwort",
    "level": "A1.2",
    "article": "das",
-   "plural": "Passwörter"
+   "plural": "Passwörter",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvg7ly2jemr",
@@ -6751,17 +6755,19 @@
   {
    "id": "mvkvjelb0zrat",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "ATM",
    "de": "Automat",
    "level": "A1.2",
    "article": "der",
-   "plural": "Automaten"
+   "plural": "Automaten",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvjpc4uz78g",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Account",
@@ -6769,8 +6775,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Konten",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvk3dww07r8",

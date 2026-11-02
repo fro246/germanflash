@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655294598,
+ "updatedAt": 1793655312048,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7742,6 +7742,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Finger"
+  },
+  {
+   "id": "mvzs28c0qiq4s",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Leg",
+   "de": "Bein",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Beine"
   }
  ]
 }

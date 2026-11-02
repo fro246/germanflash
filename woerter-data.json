@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654677968,
+ "updatedAt": 1793654723051,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6809,7 +6809,7 @@
   {
    "id": "mvkvkqei83vci",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to collect",
    "de": "holen",
@@ -6821,7 +6821,9 @@
     "wir": "holen",
     "ihr": "holt",
     "sie": "holen"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvl1lnd2bnc",
@@ -6890,14 +6892,16 @@
   },
   {
    "id": "mvkvml01nu6u2",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Reciepient",
    "de": "Empfänger",
    "level": "A1.2",
    "article": "der",
-   "plural": "Empfänger"
+   "plural": "Empfänger",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvn0w5u8sfv",
@@ -7187,7 +7191,7 @@
   },
   {
    "id": "mvkvufg6lh2xq",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to mean",
@@ -7201,8 +7205,8 @@
     "ihr": "bedeutet",
     "sie": "bedeuten"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvukhnum4tz",

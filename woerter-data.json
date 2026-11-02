@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654378453,
+ "updatedAt": 1793654428824,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6446,7 +6446,7 @@
   },
   {
    "id": "mvkvaui0g39lg",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Vacation",
@@ -6454,8 +6454,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Urlaube",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvbanh0i5jo",
@@ -6497,7 +6497,7 @@
   },
   {
    "id": "mvkvbs0s6o7mj",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to interest",
@@ -6511,8 +6511,8 @@
     "ihr": "interessiert",
     "sie": "interessieren"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvcwngg9ilm",
@@ -6762,13 +6762,15 @@
   {
    "id": "mvkvjpc4uz78g",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Account",
    "de": "Konto",
    "level": "A1.2",
    "article": "das",
-   "plural": "Konten"
+   "plural": "Konten",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvk3dww07r8",
@@ -6867,16 +6869,16 @@
   },
   {
    "id": "mvkvm65h03mro",
-   "hits": 0,
-   "misses": 1,
+   "hits": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Sender",
    "de": "Absender",
    "level": "A1.2",
    "article": "der",
    "plural": "Absender",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvml01nu6u2",

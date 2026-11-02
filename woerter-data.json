@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793653868249,
+ "updatedAt": 1793653930009,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6348,7 +6348,7 @@
   },
   {
    "id": "mvkv7ws0wwves",
-   "hits": 0,
+   "hits": 1,
    "misses": 3,
    "type": "noun",
    "en": "Landlord",
@@ -6356,8 +6356,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Hausmeister",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkv88dc30rqu",
@@ -6394,7 +6394,7 @@
   },
   {
    "id": "mvkv9jszwycrp",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Report",
@@ -6402,8 +6402,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Berichte",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkva253lqhy4",
@@ -6953,12 +6953,14 @@
   },
   {
    "id": "mvkvpf1sjendj",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "neutral",
    "de": "neutral",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvpr06lwoqs",
@@ -6973,14 +6975,16 @@
   },
   {
    "id": "mvkvq3foqdmr0",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Elevator",
    "de": "Aufzug",
    "level": "A1.2",
    "article": "der",
-   "plural": "Aufzüge"
+   "plural": "Aufzüge",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvqagygqcnx",

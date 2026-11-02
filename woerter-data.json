@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655017411,
+ "updatedAt": 1793655028790,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7496,6 +7496,15 @@
     "ihr": "vermisst",
     "sie": "vermissen"
    }
+  },
+  {
+   "id": "mvzrw5rpm5iri",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "fit",
+   "de": "fit",
+   "level": "A1.2"
   }
  ]
 }

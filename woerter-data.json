@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655101375,
+ "updatedAt": 1793655111602,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7585,6 +7585,15 @@
    "type": "other",
    "en": "hungry",
    "de": "hungrig",
+   "level": "A1.2"
+  },
+  {
+   "id": "mvzrxxo289ua7",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "at least",
+   "de": "mindestens",
    "level": "A1.2"
   }
  ]

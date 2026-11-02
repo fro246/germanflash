@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655312048,
+ "updatedAt": 1793655320292,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7753,6 +7753,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Beine"
+  },
+  {
+   "id": "mvzs2ep0wpgu1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Knee",
+   "de": "Knie",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Knie"
   }
  ]
 }

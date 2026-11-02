@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654931624,
+ "updatedAt": 1793654962626,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7427,6 +7427,23 @@
     "wir": "ziehen an",
     "ihr": "ziehet an",
     "sie": "ziehen an"
+   }
+  },
+  {
+   "id": "mvzruqpurosj1",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to carry on",
+   "de": "weitermachen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "mache weiter",
+    "du": "machst weiter",
+    "er": "macht weiter",
+    "wir": "machen weiter",
+    "ihr": "macht weiter",
+    "sie": "machen weiter"
    }
   }
  ]

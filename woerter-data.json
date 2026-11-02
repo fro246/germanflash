@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1792754800429,
+ "updatedAt": 1793653769672,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6447,7 +6447,7 @@
   },
   {
    "id": "mvkvbanh0i5jo",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to explain",
@@ -6460,7 +6460,9 @@
     "wir": "erklären",
     "ihr": "erklärt",
     "sie": "erklären"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvbjfrymxgj",
@@ -6678,7 +6680,7 @@
   {
    "id": "mvkvhkt2zubid",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to input",
    "de": "eingeben",
@@ -6690,7 +6692,9 @@
     "wir": "geben ein",
     "ihr": "gebt ein",
     "sie": "geben ein"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvhsjful0r4",
@@ -7156,7 +7160,7 @@
   },
   {
    "id": "mvkvuzoilcvru",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to think",
@@ -7169,7 +7173,9 @@
     "wir": "denken",
     "ihr": "denkt",
     "sie": "denken"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvvjl0hkwc1",

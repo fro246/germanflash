@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655059497,
+ "updatedAt": 1793655065936,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7531,6 +7531,15 @@
    "type": "other",
    "en": "regularly",
    "de": "regelmäßig",
+   "level": "A1.2"
+  },
+  {
+   "id": "mvzrwyfkokzav",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "daily",
+   "de": "täglich",
    "level": "A1.2"
   }
  ]

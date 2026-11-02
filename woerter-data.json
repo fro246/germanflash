@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793653930009,
+ "updatedAt": 1793653976932,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6327,13 +6327,15 @@
   {
    "id": "mvkv7cugqrdca",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Baker",
    "de": "Bäcker",
    "level": "A1.2",
    "article": "der",
-   "plural": "Bäcker"
+   "plural": "Bäcker",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkv7pcl8947e",
@@ -6716,13 +6718,15 @@
   {
    "id": "mvkvj635724e9",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Bank",
    "de": "Bank",
    "level": "A1.2",
    "article": "die",
-   "plural": "Banken"
+   "plural": "Banken",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvjelb0zrat",
@@ -6905,14 +6909,16 @@
   },
   {
    "id": "mvkvoauqgmcpt",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Music group",
    "de": "Musikgruppe",
    "level": "A1.2",
    "article": "die",
-   "plural": "Musikgruppen"
+   "plural": "Musikgruppen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvooy2zmath",
@@ -6944,23 +6950,25 @@
   },
   {
    "id": "mvkvpb3evrq16",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "other",
    "en": "current",
    "de": "aktuell",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvpf1sjendj",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "neutral",
    "de": "neutral",
    "level": "A1.2",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvkvpr06lwoqs",

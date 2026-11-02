@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655347947,
+ "updatedAt": 1793655362567,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7784,8 +7784,8 @@
    "en": "Face",
    "de": "Gesicht",
    "level": "A1.2",
-   "article": "der",
-   "plural": ""
+   "article": "das",
+   "plural": "Gesichter"
   }
  ]
 }

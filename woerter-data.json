@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655136152,
+ "updatedAt": 1793655151721,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7621,6 +7621,17 @@
     "ihr": "wiegt",
     "sie": "wiegen"
    }
+  },
+  {
+   "id": "mvzrysmh418nw",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Age",
+   "de": "Alter",
+   "level": "A1.2",
+   "article": "das",
+   "plural": ""
   }
  ]
 }

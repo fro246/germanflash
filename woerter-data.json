@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655433817,
+ "updatedAt": 1793655447390,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7852,6 +7852,23 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Haare"
+  },
+  {
+   "id": "mvzs54riiwnmb",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to smell",
+   "de": "riechen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "rieche",
+    "du": "riechst",
+    "er": "riecht",
+    "wir": "riechen",
+    "ihr": "riecht",
+    "sie": "riechen"
+   }
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655184643,
+ "updatedAt": 1793655203991,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7654,6 +7654,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": ""
+  },
+  {
+   "id": "mvzrzwyfyzg7a",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Body",
+   "de": "Körper",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Körper"
   }
  ]
 }

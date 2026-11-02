@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655263685,
+ "updatedAt": 1793655274135,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7720,6 +7720,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Arme"
+  },
+  {
+   "id": "mvzs1f2viflue",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Hand",
+   "de": "Hand",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Hände"
   }
  ]
 }

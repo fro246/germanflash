@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655320292,
+ "updatedAt": 1793655340276,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7764,6 +7764,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Knie"
+  },
+  {
+   "id": "mvzs2u4451mco",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Foot",
+   "de": "Fuß",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Füße"
   }
  ]
 }

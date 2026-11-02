@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793653769672,
+ "updatedAt": 1793653814696,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6349,13 +6349,15 @@
   {
    "id": "mvkv7ws0wwves",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Landlord",
    "de": "Hausmeister",
    "level": "A1.2",
    "article": "der",
-   "plural": "Hausmeister"
+   "plural": "Hausmeister",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkv88dc30rqu",
@@ -6517,7 +6519,7 @@
   },
   {
    "id": "mvkvdeng9f10m",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to turn on",
@@ -6530,7 +6532,9 @@
     "wir": "machen an",
     "ihr": "macht an",
     "sie": "machen an"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvdtclhieyy",
@@ -6585,7 +6589,7 @@
   },
   {
    "id": "mvkvehe60vzrt",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to print",
@@ -6598,7 +6602,9 @@
     "wir": "drucken",
     "ihr": "druckt",
     "sie": "drucken"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkveuypgpdp5",
@@ -6679,7 +6685,7 @@
   },
   {
    "id": "mvkvhkt2zubid",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to input",
@@ -6693,8 +6699,8 @@
     "ihr": "gebt ein",
     "sie": "geben ein"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvhsjful0r4",
@@ -7023,12 +7029,14 @@
   },
   {
    "id": "mvkvrinklgyqb",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "hot",
    "de": "heiß",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvrp34ptqve",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654188713,
+ "updatedAt": 1793654217076,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6315,7 +6315,7 @@
   },
   {
    "id": "mvkv6ylo92a02",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Everyday Working Life",
@@ -6323,12 +6323,12 @@
    "level": "A1.2",
    "article": "der",
    "plural": "",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkv7cugqrdca",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Baker",
@@ -6336,8 +6336,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Bäcker",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkv7pcl8947e",
@@ -7043,14 +7043,14 @@
   },
   {
    "id": "mvkvrax97z53h",
-   "hits": 1,
+   "hits": 2,
    "misses": 2,
    "type": "other",
    "en": "the most",
    "de": "die meisten",
    "level": "A1.2",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvrf6pv12lg",
@@ -7083,14 +7083,14 @@
   },
   {
    "id": "mvkvrz9kcygh4",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "other",
    "en": "understood",
    "de": "alles klar",
    "level": "A1.2",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvs9g80mca1",

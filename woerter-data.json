@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655403675,
+ "updatedAt": 1793655412450,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7819,6 +7819,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Augen"
+  },
+  {
+   "id": "mvzs4dsyyzj7v",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Ear",
+   "de": "Ohr",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Ohren"
   }
  ]
 }

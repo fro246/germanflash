@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655009256,
+ "updatedAt": 1793655017411,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7478,6 +7478,23 @@
     "wir": "vergessen",
     "ihr": "vergesst",
     "sie": "vergessen"
+   }
+  },
+  {
+   "id": "mvzrvwzn7nj9n",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to miss",
+   "de": "vermissen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "vermisse",
+    "du": "vermisst",
+    "er": "vermisst",
+    "wir": "vermissen",
+    "ihr": "vermisst",
+    "sie": "vermissen"
    }
   }
  ]

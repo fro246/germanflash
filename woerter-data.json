@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655231481,
+ "updatedAt": 1793655245402,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7687,6 +7687,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Hälse"
+  },
+  {
+   "id": "mvzs0swqyx0ae",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Stomach",
+   "de": "Bauch",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Bäuche"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793653976932,
+ "updatedAt": 1793654033167,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6326,7 +6326,7 @@
   },
   {
    "id": "mvkv7cugqrdca",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Baker",
@@ -6334,8 +6334,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Bäcker",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkv7pcl8947e",
@@ -6374,14 +6374,16 @@
   },
   {
    "id": "mvkv8ty1bdn19",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Female employee",
    "de": "Mitarbeiterin",
    "level": "A1.2",
    "article": "die",
-   "plural": "Mitarbeiterinnen"
+   "plural": "Mitarbeiterinnen",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkv99dvvg30m",
@@ -6717,7 +6719,7 @@
   },
   {
    "id": "mvkvj635724e9",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Bank",
@@ -6725,8 +6727,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Banken",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvjelb0zrat",
@@ -6983,7 +6985,7 @@
   },
   {
    "id": "mvkvq3foqdmr0",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Elevator",
@@ -6991,8 +6993,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Aufzüge",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvqagygqcnx",

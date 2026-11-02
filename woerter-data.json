@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654033167,
+ "updatedAt": 1793654086872,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6315,14 +6315,16 @@
   },
   {
    "id": "mvkv6ylo92a02",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Everyday Working Life",
    "de": "Arbeitsalltag",
    "level": "A1.2",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkv7cugqrdca",
@@ -6615,13 +6617,15 @@
   {
    "id": "mvkveuypgpdp5",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "noun",
    "en": "Media",
    "de": "Medien",
    "level": "A1.2",
    "article": "die",
-   "plural": ""
+   "plural": "",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvf79pb51fg",
@@ -6890,13 +6894,15 @@
   {
    "id": "mvkvnrp9eo57z",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Contact",
    "de": "Kontakt",
    "level": "A1.2",
    "article": "der",
-   "plural": "Kontakte"
+   "plural": "Kontakte",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvnzloxudgf",
@@ -7288,12 +7294,14 @@
   },
   {
    "id": "mvkvwpfv577x5",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "actually",
    "de": "eigentlich",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvwtt2nk7ce",

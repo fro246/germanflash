@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654582862,
+ "updatedAt": 1793654629761,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6376,7 +6376,7 @@
   },
   {
    "id": "mvkv8ty1bdn19",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Female employee",
@@ -6384,8 +6384,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Mitarbeiterinnen",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkv99dvvg30m",
@@ -6554,7 +6554,7 @@
   },
   {
    "id": "mvkvdtclhieyy",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to turn off",
@@ -6568,8 +6568,8 @@
     "ihr": "macht aus",
     "sie": "machen aus"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvkve3yuuepiq",
@@ -6611,7 +6611,7 @@
   },
   {
    "id": "mvkvehe60vzrt",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to print",
@@ -6625,8 +6625,8 @@
     "ihr": "druckt",
     "sie": "drucken"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvkveuypgpdp5",
@@ -6769,7 +6769,7 @@
   },
   {
    "id": "mvkvjpc4uz78g",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Account",
@@ -6777,8 +6777,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Konten",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "mvkvk3dww07r8",
@@ -7146,7 +7146,7 @@
   },
   {
    "id": "mvkvt1644fr1u",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Neighbor",
@@ -7154,8 +7154,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Nachbar",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvteelvxt5x",
@@ -7302,12 +7302,14 @@
   },
   {
    "id": "mvkvw26r2vnnx",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "popular",
    "de": "beliebt",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvw8i6yzqgf",
@@ -7320,14 +7322,14 @@
   },
   {
    "id": "mvkvwbmm0nj2s",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "heavy",
    "de": "schwer",
    "level": "A1.2",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvkvwhzcz1xfw",

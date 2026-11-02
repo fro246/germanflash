@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654774670,
+ "updatedAt": 1793654796260,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6881,7 +6881,7 @@
   },
   {
    "id": "mvkvm65h03mro",
-   "hits": 1,
+   "hits": 2,
    "misses": 2,
    "type": "noun",
    "en": "Sender",
@@ -6889,8 +6889,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Absender",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvml01nu6u2",
@@ -6908,13 +6908,15 @@
   {
    "id": "mvkvn0w5u8sfv",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Signature",
    "de": "Unterschrift",
    "level": "A1.2",
    "article": "die",
-   "plural": "Unterschriften"
+   "plural": "Unterschriften",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvnfcq6zybx",

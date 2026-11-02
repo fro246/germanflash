@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654217076,
+ "updatedAt": 1793654279037,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6764,14 +6764,16 @@
   },
   {
    "id": "mvkvk3dww07r8",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Account number",
    "de": "Kontonummer",
    "level": "A1.2",
    "article": "die",
-   "plural": "Kontonummern"
+   "plural": "Kontonummern",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvkbv933ujc",
@@ -6937,18 +6939,20 @@
   {
    "id": "mvkvooy2zmath",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Specialty",
    "de": "Spezialität",
    "level": "A1.2",
    "article": "die",
-   "plural": "Spezialitäten"
+   "plural": "Spezialitäten",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvp193harcp",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "verb",
    "en": "to talk",
    "de": "reden",
@@ -6960,7 +6964,9 @@
     "wir": "reden",
     "ihr": "redet",
     "sie": "reden"
-   }
+   },
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvpb3evrq16",
@@ -7286,12 +7292,14 @@
   },
   {
    "id": "mvkvwbmm0nj2s",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "heavy",
    "de": "schwer",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvwhzcz1xfw",

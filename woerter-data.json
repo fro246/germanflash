@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655393025,
+ "updatedAt": 1793655403675,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7808,6 +7808,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Zähne"
+  },
+  {
+   "id": "mvzs4717hp3re",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Eye",
+   "de": "Auge",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Augen"
   }
  ]
 }

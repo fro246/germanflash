@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655412450,
+ "updatedAt": 1793655424010,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7830,6 +7830,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Ohren"
+  },
+  {
+   "id": "mvzs4mq2np3yb",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Nose",
+   "de": "Nase",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Nasen"
   }
  ]
 }

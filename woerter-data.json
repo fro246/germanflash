@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654480436,
+ "updatedAt": 1793654533648,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6425,13 +6425,15 @@
   {
    "id": "mvkvab49jeuif",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Mistake",
    "de": "Fehler",
    "level": "A1.2",
    "article": "der",
-   "plural": "Fehler"
+   "plural": "Fehler",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvakmrhfa0b",
@@ -6497,7 +6499,7 @@
   },
   {
    "id": "mvkvbs0s6o7mj",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "verb",
    "en": "to interest",
@@ -6511,8 +6513,8 @@
     "ihr": "interessiert",
     "sie": "interessieren"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvcwngg9ilm",
@@ -6741,7 +6743,7 @@
   },
   {
    "id": "mvkvj635724e9",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Bank",
@@ -6749,13 +6751,13 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Banken",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvjelb0zrat",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "ATM",
    "de": "Automat",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793654329738,
+ "updatedAt": 1793654378453,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6447,13 +6447,15 @@
   {
    "id": "mvkvaui0g39lg",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Vacation",
    "de": "Urlaub",
    "level": "A1.2",
    "article": "der",
-   "plural": "Urlaube"
+   "plural": "Urlaube",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvbanh0i5jo",
@@ -6496,7 +6498,7 @@
   {
    "id": "mvkvbs0s6o7mj",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to interest",
    "de": "interessieren",
@@ -6508,7 +6510,9 @@
     "wir": "interessieren",
     "ihr": "interessiert",
     "sie": "interessieren"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvcwngg9ilm",
@@ -6635,7 +6639,7 @@
   },
   {
    "id": "mvkvf79pb51fg",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "File",
@@ -6643,8 +6647,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Dateien",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvfg5e9dlk2",
@@ -6864,13 +6868,15 @@
   {
    "id": "mvkvm65h03mro",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Sender",
    "de": "Absender",
    "level": "A1.2",
    "article": "der",
-   "plural": "Absender"
+   "plural": "Absender",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvml01nu6u2",

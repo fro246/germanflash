@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793655424010,
+ "updatedAt": 1793655433817,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7841,6 +7841,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Nasen"
+  },
+  {
+   "id": "mvzs4uahr6wh5",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Hair",
+   "de": "Haar",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Haare"
   }
  ]
 }

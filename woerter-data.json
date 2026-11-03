@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793735817124,
+ "updatedAt": 1793735861886,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6355,7 +6355,7 @@
   {
    "id": "mvkv7ws0wwves",
    "hits": 1,
-   "misses": 5,
+   "misses": 6,
    "type": "noun",
    "en": "Landlord",
    "de": "Hausmeister",
@@ -7955,7 +7955,7 @@
   {
    "id": "mw12tjo7lmtxy",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Injured person",
    "de": "Verletzte",
@@ -8387,7 +8387,7 @@
   {
    "id": "mw138gqtwinbv",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Result",
    "de": "Ergebnis",
@@ -8571,7 +8571,7 @@
   },
   {
    "id": "mw13e05rlvihh",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to try",
@@ -8585,8 +8585,8 @@
     "ihr": "versucht",
     "sie": "versuchen"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw13e5gm0m2fo",

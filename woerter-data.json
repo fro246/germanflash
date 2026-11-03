@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793733927248,
+ "updatedAt": 1793733941643,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7992,6 +7992,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Verbände"
+  },
+  {
+   "id": "mw12vjbf0dbr8",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Band-Aid",
+   "de": "Pflaster",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Pflaster"
   }
  ]
 }

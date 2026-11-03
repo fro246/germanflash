@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734438993,
+ "updatedAt": 1793734464346,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8294,6 +8294,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Notärzte"
+  },
+  {
+   "id": "mw136qmyva4hq",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Physical therapy doctor (female)",
+   "de": "Physiotherapeutin",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Physiotherapeutinnen"
   }
  ]
 }

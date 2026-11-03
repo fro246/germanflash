@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734324968,
+ "updatedAt": 1793734355289,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8221,6 +8221,15 @@
     "ihr": "dürft",
     "sie": "dürfen"
    }
+  },
+  {
+   "id": "mw134ehly5d27",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "totally",
+   "de": "total",
+   "level": "A1.2"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734392014,
+ "updatedAt": 1793734405290,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8274,6 +8274,15 @@
     "ihr": "raucht",
     "sie": "rauchen"
    }
+  },
+  {
+   "id": "mw135h2i06crm",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "against",
+   "de": "gegen",
+   "level": "A1.2"
   }
  ]
 }

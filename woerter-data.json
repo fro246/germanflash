@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734199040,
+ "updatedAt": 1793734259692,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8169,6 +8169,23 @@
     "wir": "husten",
     "ihr": "hustet",
     "sie": "husten"
+   }
+  },
+  {
+   "id": "mw132cq42fxys",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to have a cold",
+   "de": "erkältet sein",
+   "level": "A1.2",
+   "forms": {
+    "ich": "erkältet bin",
+    "du": "erkältet bist",
+    "er": "erkältet ist",
+    "wir": "erkältet sein",
+    "ihr": "erkältet seid",
+    "sie": "erkältet sein"
    }
   }
  ]

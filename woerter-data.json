@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793733775271,
+ "updatedAt": 1793733807078,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7902,6 +7902,23 @@
     "wir": "bewegen",
     "ihr": "bewegt",
     "sie": "bewegen"
+   }
+  },
+  {
+   "id": "mw12snhi7lmum",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "should",
+   "de": "sollen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "soll",
+    "du": "sollst",
+    "er": "soll",
+    "wir": "sollen",
+    "ihr": "sollt",
+    "sie": "sollen"
    }
   }
  ]

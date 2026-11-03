@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793735619846,
+ "updatedAt": 1793735673909,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6482,7 +6482,7 @@
   },
   {
    "id": "mvkvbjfrymxgj",
-   "hits": 2,
+   "hits": 3,
    "misses": 2,
    "type": "verb",
    "en": "to correct",
@@ -6496,8 +6496,8 @@
     "ihr": "korrigiert",
     "sie": "korrigieren"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvbs0s6o7mj",
@@ -7320,14 +7320,14 @@
   },
   {
    "id": "mvkvw26r2vnnx",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "popular",
    "de": "beliebt",
    "level": "A1.2",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvkvw8i6yzqgf",
@@ -7516,12 +7516,14 @@
   },
   {
    "id": "mvzrw92vwgoal",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "athletic",
    "de": "sportlich",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvzrwgbsn3ejn",
@@ -7992,7 +7994,7 @@
   },
   {
    "id": "mw12v87krqinu",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Bandage",
@@ -8000,8 +8002,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Verbände",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw12vjbf0dbr8",
@@ -8147,13 +8149,15 @@
   {
    "id": "mw130h16n9dhy",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Home remedies",
    "de": "Hausmittel",
    "level": "A1.2",
    "article": "das",
-   "plural": "Hausmittel"
+   "plural": "Hausmittel",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw130rbf54cad",
@@ -8421,14 +8425,16 @@
   },
   {
    "id": "mw13a271bujyj",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Advice/tip",
    "de": "Tipp",
    "level": "A1.2",
    "article": "der",
-   "plural": "Tipps"
+   "plural": "Tipps",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mw13aa32k68vn",

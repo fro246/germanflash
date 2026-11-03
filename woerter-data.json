@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734003180,
+ "updatedAt": 1793734014871,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8044,6 +8044,15 @@
    "type": "other",
    "en": "injured",
    "de": "verletzt",
+   "level": "A1.2"
+  },
+  {
+   "id": "mw12x3tjfp9qn",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "Get well soon",
+   "de": "Gute Besserung",
    "level": "A1.2"
   }
  ]

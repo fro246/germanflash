@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734803279,
+ "updatedAt": 1793734810150,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8544,6 +8544,23 @@
     "wir": "versuchen",
     "ihr": "versucht",
     "sie": "versuchen"
+   }
+  },
+  {
+   "id": "mw13e5gm0m2fo",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to bathe",
+   "de": "baden",
+   "level": "A1.2",
+   "forms": {
+    "ich": "bade",
+    "du": "badest",
+    "er": "badet",
+    "wir": "baden",
+    "ihr": "badet",
+    "sie": "baden"
    }
   }
  ]

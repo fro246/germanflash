@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793735562539,
+ "updatedAt": 1793735619846,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6483,7 +6483,7 @@
   {
    "id": "mvkvbjfrymxgj",
    "hits": 2,
-   "misses": 1,
+   "misses": 2,
    "type": "verb",
    "en": "to correct",
    "de": "korrigieren",
@@ -6496,12 +6496,12 @@
     "ihr": "korrigiert",
     "sie": "korrigieren"
    },
-   "box": 2,
-   "streak": 2
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvbs0s6o7mj",
-   "hits": 2,
+   "hits": 3,
    "misses": 2,
    "type": "verb",
    "en": "to interest",
@@ -6515,8 +6515,8 @@
     "ihr": "interessiert",
     "sie": "interessieren"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvcwngg9ilm",
@@ -6658,14 +6658,16 @@
   },
   {
    "id": "mvkvfg5e9dlk2",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Printer",
    "de": "Drucker",
    "level": "A1.2",
    "article": "der",
-   "plural": "Drucker"
+   "plural": "Drucker",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvg0ofa0uug",
@@ -6734,14 +6736,14 @@
   },
   {
    "id": "mvkvhsjful0r4",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "empty",
    "de": "leer",
    "level": "A1.2",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvkvj635724e9",
@@ -6784,7 +6786,7 @@
   },
   {
    "id": "mvkvk3dww07r8",
-   "hits": 1,
+   "hits": 2,
    "misses": 5,
    "type": "noun",
    "en": "Account number",
@@ -6792,8 +6794,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Kontonummern",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvkbv933ujc",
@@ -7369,12 +7371,14 @@
   },
   {
    "id": "mvkvwtt2nk7ce",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "finally",
    "de": "endlich",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvwx1qykx5q",
@@ -7989,13 +7993,15 @@
   {
    "id": "mw12v87krqinu",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Bandage",
    "de": "Verband",
    "level": "A1.2",
    "article": "der",
-   "plural": "Verbände"
+   "plural": "Verbände",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw12vjbf0dbr8",
@@ -8010,14 +8016,16 @@
   },
   {
    "id": "mw12vrk7vdmpk",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Ointment",
    "de": "Salbe",
    "level": "A1.2",
    "article": "die",
-   "plural": "Salbe"
+   "plural": "Salbe",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mw12w3ty4v6ip",

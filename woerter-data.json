@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734704032,
+ "updatedAt": 1793734736581,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8476,6 +8476,23 @@
     "wir": "schreiben auf",
     "ihr": "schreibt auf",
     "sie": "schreiben auf"
+   }
+  },
+  {
+   "id": "mw13ckp1x8z4a",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to read out",
+   "de": "vorlesen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "lese vor",
+    "du": "liest vor",
+    "er": "liest vor",
+    "wir": "lesen vor",
+    "ihr": "lest vor",
+    "sie": "lesen vor"
    }
   }
  ]

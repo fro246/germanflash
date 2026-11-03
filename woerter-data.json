@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793733868178,
+ "updatedAt": 1793733877982,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7953,6 +7953,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Schmerzen"
+  },
+  {
+   "id": "mw12u672fbvs5",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Wound",
+   "de": "Wunde",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Wunden"
   }
  ]
 }

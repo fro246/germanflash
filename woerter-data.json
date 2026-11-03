@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734157220,
+ "updatedAt": 1793734171962,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8131,6 +8131,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Spritzen"
+  },
+  {
+   "id": "mw130h16n9dhy",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Home remedies",
+   "de": "Hausmittel",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Hausmittel"
   }
  ]
 }

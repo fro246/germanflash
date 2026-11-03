@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734629518,
+ "updatedAt": 1793734658355,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8426,6 +8426,23 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Apps"
+  },
+  {
+   "id": "mw13awc3e1mjp",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to examine",
+   "de": "untersuchen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "untersuche",
+    "du": "untersuchst",
+    "er": "untersucht",
+    "wir": "untersuchen",
+    "ihr": "untersucht",
+    "sie": "untersuchen"
+   }
   }
  ]
 }

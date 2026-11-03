@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734405290,
+ "updatedAt": 1793734438993,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8283,6 +8283,17 @@
    "en": "against",
    "de": "gegen",
    "level": "A1.2"
+  },
+  {
+   "id": "mw13672pozds7",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Emergency doctor",
+   "de": "Notarzt",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Notärzte"
   }
  ]
 }

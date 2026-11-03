@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734580049,
+ "updatedAt": 1793734594296,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8382,6 +8382,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Fenster"
+  },
+  {
+   "id": "mw139iwowi4ie",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Free time",
+   "de": "Freizeit",
+   "level": "A1.2",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

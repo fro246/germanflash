@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793736019956,
+ "updatedAt": 1793736036031,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7164,7 +7164,7 @@
   },
   {
    "id": "mvkvt1644fr1u",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Neighbor",
@@ -7172,8 +7172,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Nachbar",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "mvkvteelvxt5x",
@@ -7369,13 +7369,13 @@
   {
    "id": "mvkvwpfv577x5",
    "hits": 1,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "actually",
    "de": "eigentlich",
    "level": "A1.2",
-   "box": 2,
-   "streak": 4
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvwtt2nk7ce",
@@ -8072,7 +8072,7 @@
   {
    "id": "mw12wuss1pol3",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "other",
    "en": "injured",
    "de": "verletzt",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734810150,
+ "updatedAt": 1793734835497,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8562,6 +8562,15 @@
     "ihr": "badet",
     "sie": "baden"
    }
+  },
+  {
+   "id": "mw13ep0pm7l2n",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "strenuous",
+   "de": "anstrengend",
+   "level": "A1.2"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734380547,
+ "updatedAt": 1793734392014,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8257,6 +8257,23 @@
    "en": "forbidden",
    "de": "vorboten",
    "level": "A1.2"
+  },
+  {
+   "id": "mw1356tqn4sl1",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to smoke",
+   "de": "rauchen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "rauche",
+    "du": "rauchst",
+    "er": "raucht",
+    "wir": "rauchen",
+    "ihr": "raucht",
+    "sie": "rauchen"
+   }
   }
  ]
 }

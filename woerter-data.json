@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793733952327,
+ "updatedAt": 1793733968230,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8014,6 +8014,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Salbe"
+  },
+  {
+   "id": "mw12w3ty4v6ip",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Perscription",
+   "de": "Rezept",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Rezepte"
   }
  ]
 }

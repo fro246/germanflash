@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734014871,
+ "updatedAt": 1793734056897,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8054,6 +8054,17 @@
    "en": "Get well soon",
    "de": "Gute Besserung",
    "level": "A1.2"
+  },
+  {
+   "id": "mw12y08xrkdjl",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Doctor",
+   "de": "Doktor",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Doktoren"
   }
  ]
 }

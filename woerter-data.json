@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793735861886,
+ "updatedAt": 1793735915968,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6354,7 +6354,7 @@
   },
   {
    "id": "mvkv7ws0wwves",
-   "hits": 1,
+   "hits": 2,
    "misses": 6,
    "type": "noun",
    "en": "Landlord",
@@ -6362,8 +6362,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Hausmeister",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkv88dc30rqu",
@@ -6813,7 +6813,7 @@
   {
    "id": "mvkvkqei83vci",
    "hits": 1,
-   "misses": 1,
+   "misses": 2,
    "type": "verb",
    "en": "to collect",
    "de": "holen",
@@ -6826,8 +6826,8 @@
     "ihr": "holt",
     "sie": "holen"
    },
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvl1lnd2bnc",
@@ -7073,13 +7073,15 @@
   {
    "id": "mvkvqvgjg3xnq",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Religion",
    "de": "Religion",
    "level": "A1.2",
    "article": "die",
-   "plural": "Religionen"
+   "plural": "Religionen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvrax97z53h",
@@ -7954,7 +7956,7 @@
   },
   {
    "id": "mw12tjo7lmtxy",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Injured person",
@@ -7962,8 +7964,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Verletzten",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw12tymqvs9y7",
@@ -8386,7 +8388,7 @@
   },
   {
    "id": "mw138gqtwinbv",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Result",
@@ -8394,8 +8396,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Ergebnisse",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw1391boweucp",

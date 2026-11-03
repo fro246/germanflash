@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793735505785,
+ "updatedAt": 1793735562539,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6502,7 +6502,7 @@
   {
    "id": "mvkvbs0s6o7mj",
    "hits": 2,
-   "misses": 1,
+   "misses": 2,
    "type": "verb",
    "en": "to interest",
    "de": "interessieren",
@@ -6515,8 +6515,8 @@
     "ihr": "interessiert",
     "sie": "interessieren"
    },
-   "box": 2,
-   "streak": 2
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvcwngg9ilm",
@@ -6785,7 +6785,7 @@
   {
    "id": "mvkvk3dww07r8",
    "hits": 1,
-   "misses": 4,
+   "misses": 5,
    "type": "noun",
    "en": "Account number",
    "de": "Kontonummer",
@@ -6907,7 +6907,7 @@
   },
   {
    "id": "mvkvn0w5u8sfv",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Signature",
@@ -6915,8 +6915,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Unterschriften",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvnfcq6zybx",
@@ -8211,7 +8211,7 @@
   },
   {
    "id": "mw133r3c7cxjz",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "may",
@@ -8224,7 +8224,9 @@
     "wir": "dürfen",
     "ihr": "dürft",
     "sie": "dürfen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mw134ehly5d27",

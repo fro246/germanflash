@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734068902,
+ "updatedAt": 1793734085069,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8076,6 +8076,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Krankheiten"
+  },
+  {
+   "id": "mw12ylzgz4aq0",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Sniffles",
+   "de": "Schnupfen",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Schnupfen"
   }
  ]
 }

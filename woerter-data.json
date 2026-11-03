@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734671843,
+ "updatedAt": 1793734704032,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8459,6 +8459,23 @@
     "wir": "wiederholen",
     "ihr": "wiederholt",
     "sie": "wiederholen"
+   }
+  },
+  {
+   "id": "mw13bvkwzz0jw",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to write down",
+   "de": "aufschreiben",
+   "level": "A1.2",
+   "forms": {
+    "ich": "schreibe auf",
+    "du": "schreibst auf",
+    "er": "schreibt auf",
+    "wir": "schreiben auf",
+    "ihr": "schreibt auf",
+    "sie": "schreiben auf"
    }
   }
  ]

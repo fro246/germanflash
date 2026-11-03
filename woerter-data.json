@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793735966903,
+ "updatedAt": 1793736019956,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6451,15 +6451,15 @@
   {
    "id": "mvkvaui0g39lg",
    "hits": 1,
-   "misses": 1,
+   "misses": 3,
    "type": "noun",
    "en": "Vacation",
    "de": "Urlaub",
    "level": "A1.2",
    "article": "der",
    "plural": "Urlaube",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvbanh0i5jo",
@@ -7074,16 +7074,16 @@
   },
   {
    "id": "mvkvqvgjg3xnq",
-   "hits": 0,
-   "misses": 2,
+   "hits": 1,
+   "misses": 3,
    "type": "noun",
    "en": "Religion",
    "de": "Religion",
    "level": "A1.2",
    "article": "die",
    "plural": "Religionen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvrax97z53h",
@@ -7703,7 +7703,7 @@
   },
   {
    "id": "mvzs0i61tqm5x",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Neck",
@@ -7711,8 +7711,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Hälse",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvzs0swqyx0ae",
@@ -8072,11 +8072,13 @@
   {
    "id": "mw12wuss1pol3",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "injured",
    "de": "verletzt",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw12x3tjfp9qn",
@@ -8300,7 +8302,7 @@
   },
   {
    "id": "mw1356tqn4sl1",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to smoke",
@@ -8313,7 +8315,9 @@
     "wir": "rauchen",
     "ihr": "raucht",
     "sie": "rauchen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mw135h2i06crm",

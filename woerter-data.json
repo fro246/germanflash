@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734484638,
+ "updatedAt": 1793734499579,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8316,6 +8316,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Übungen"
+  },
+  {
+   "id": "mw137htnvs7h2",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Nurse",
+   "de": "Krankenpfleger",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Krankenpfleger"
   }
  ]
 }

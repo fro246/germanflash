@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734835497,
+ "updatedAt": 1793734842178,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8570,6 +8570,15 @@
    "type": "other",
    "en": "strenuous",
    "de": "anstrengend",
+   "level": "A1.2"
+  },
+  {
+   "id": "mw13eu6an4nlp",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "quiet",
+   "de": "leise",
    "level": "A1.2"
   }
  ]

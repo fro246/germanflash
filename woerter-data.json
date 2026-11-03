@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793733987190,
+ "updatedAt": 1793734003180,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8036,6 +8036,15 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Apotheken"
+  },
+  {
+   "id": "mw12wuss1pol3",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "injured",
+   "de": "verletzt",
+   "level": "A1.2"
   }
  ]
 }

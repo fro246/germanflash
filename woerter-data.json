@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734736581,
+ "updatedAt": 1793734757568,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8493,6 +8493,23 @@
     "wir": "lesen vor",
     "ihr": "lest vor",
     "sie": "lesen vor"
+   }
+  },
+  {
+   "id": "mw13d0w06vezy",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to open up",
+   "de": "aufmachen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "mache auf",
+    "du": "machst auf",
+    "er": "macht auf",
+    "wir": "machen auf",
+    "ihr": "macht auf",
+    "sie": "machen auf"
    }
   }
  ]

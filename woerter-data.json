@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734145785,
+ "updatedAt": 1793734157220,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8120,6 +8120,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Tropfen"
+  },
+  {
+   "id": "mw1305no5jav2",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Syringe",
+   "de": "Spritze",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Spritzen"
   }
  ]
 }

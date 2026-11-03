@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734101636,
+ "updatedAt": 1793734128335,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8098,6 +8098,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": ""
+  },
+  {
+   "id": "mw12zjdb1fs5n",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Pill",
+   "de": "Tablette",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Tabletten"
   }
  ]
 }

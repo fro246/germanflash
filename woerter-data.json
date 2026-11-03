@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734128335,
+ "updatedAt": 1793734145785,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8109,6 +8109,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Tabletten"
+  },
+  {
+   "id": "mw12zwu1yebil",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Drops",
+   "de": "Tropfen",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Tropfen"
   }
  ]
 }

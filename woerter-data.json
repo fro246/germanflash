@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734853062,
+ "updatedAt": 1793734862339,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8597,6 +8597,15 @@
    "type": "other",
    "en": "somebody",
    "de": "jemand",
+   "level": "A1.2"
+  },
+  {
+   "id": "mw13f9qboset9",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "happy",
+   "de": "glücklich",
    "level": "A1.2"
   }
  ]

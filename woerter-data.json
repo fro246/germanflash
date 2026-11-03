@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734571508,
+ "updatedAt": 1793734580049,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8371,6 +8371,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Tafeln"
+  },
+  {
+   "id": "mw1397wwc8zqc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Window",
+   "de": "Fenster",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Fenster"
   }
  ]
 }

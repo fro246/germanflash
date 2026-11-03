@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793733877982,
+ "updatedAt": 1793733903278,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7964,6 +7964,23 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Wunden"
+  },
+  {
+   "id": "mw12uppqh3yp5",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to clean up (wound)",
+   "de": "sauber machen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "sauber mache",
+    "du": "sauber machst",
+    "er": "sauber macht",
+    "wir": "sauber machen",
+    "ihr": "sauber macht",
+    "sie": "sauber machen"
+   }
   }
  ]
 }

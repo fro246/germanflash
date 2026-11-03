@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734274023,
+ "updatedAt": 1793734324968,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8203,6 +8203,23 @@
     "wir": "schmerzen",
     "ihr": "schmerzt",
     "sie": "schmerzen"
+   }
+  },
+  {
+   "id": "mw133r3c7cxjz",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "may",
+   "de": "dürfen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "darf",
+    "du": "darfst",
+    "er": "darf",
+    "wir": "dürfen",
+    "ihr": "dürft",
+    "sie": "dürfen"
    }
   }
  ]

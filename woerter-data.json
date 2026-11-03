@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734619293,
+ "updatedAt": 1793734629518,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8415,6 +8415,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Tipps"
+  },
+  {
+   "id": "mw13aa32k68vn",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "App",
+   "de": "App",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Apps"
   }
  ]
 }

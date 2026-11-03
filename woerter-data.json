@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734877160,
+ "updatedAt": 1793735505785,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6785,7 +6785,7 @@
   {
    "id": "mvkvk3dww07r8",
    "hits": 1,
-   "misses": 2,
+   "misses": 4,
    "type": "noun",
    "en": "Account number",
    "de": "Kontonummer",
@@ -6908,7 +6908,7 @@
   {
    "id": "mvkvn0w5u8sfv",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Signature",
    "de": "Unterschrift",
@@ -7092,12 +7092,14 @@
   },
   {
    "id": "mvkvrf6pv12lg",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "boring",
    "de": "langweilig",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvrinklgyqb",
@@ -7231,7 +7233,7 @@
   },
   {
    "id": "mvkvuugomvfek",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to remain/stay",
@@ -7244,7 +7246,9 @@
     "wir": "bleiben",
     "ihr": "bleibt",
     "sie": "bleiben"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvuzoilcvru",

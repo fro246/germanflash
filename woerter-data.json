@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734658355,
+ "updatedAt": 1793734671843,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8442,6 +8442,23 @@
     "wir": "untersuchen",
     "ihr": "untersucht",
     "sie": "untersuchen"
+   }
+  },
+  {
+   "id": "mw13b6qrhzoju",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to repeat",
+   "de": "wiederholen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "wiederhole",
+    "du": "wiederholst",
+    "er": "wiederholt",
+    "wir": "wiederholen",
+    "ihr": "wiederholt",
+    "sie": "wiederholen"
    }
   }
  ]

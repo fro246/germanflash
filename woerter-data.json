@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793735772403,
+ "updatedAt": 1793735817124,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6355,7 +6355,7 @@
   {
    "id": "mvkv7ws0wwves",
    "hits": 1,
-   "misses": 4,
+   "misses": 5,
    "type": "noun",
    "en": "Landlord",
    "de": "Hausmeister",
@@ -7686,14 +7686,16 @@
   },
   {
    "id": "mvzs08x47p2k9",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Head",
    "de": "Kopf",
    "level": "A1.2",
    "article": "der",
-   "plural": "Köpfe"
+   "plural": "Köpfe",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvzs0i61tqm5x",
@@ -7953,13 +7955,15 @@
   {
    "id": "mw12tjo7lmtxy",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Injured person",
    "de": "Verletzte",
    "level": "A1.2",
    "article": "die",
-   "plural": "Verletzten"
+   "plural": "Verletzten",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw12tymqvs9y7",
@@ -8158,7 +8162,7 @@
   },
   {
    "id": "mw130h16n9dhy",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Home remedies",
@@ -8166,8 +8170,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Hausmittel",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mw130rbf54cad",
@@ -8383,13 +8387,15 @@
   {
    "id": "mw138gqtwinbv",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Result",
    "de": "Ergebnis",
    "level": "A1.2",
    "article": "das",
-   "plural": "Ergebnisse"
+   "plural": "Ergebnisse",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw1391boweucp",
@@ -8566,7 +8572,7 @@
   {
    "id": "mw13e05rlvihh",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to try",
    "de": "versuchen",
@@ -8578,7 +8584,9 @@
     "wir": "versuchen",
     "ihr": "versucht",
     "sie": "versuchen"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw13e5gm0m2fo",

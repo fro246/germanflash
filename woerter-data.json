@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734544837,
+ "updatedAt": 1793734571508,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8360,6 +8360,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Ergebnisse"
+  },
+  {
+   "id": "mw1391boweucp",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Board (in classroom)",
+   "de": "Tafel",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Tafeln"
   }
  ]
 }

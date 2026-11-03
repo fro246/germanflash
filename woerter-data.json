@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793733760683,
+ "updatedAt": 1793733775271,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7885,6 +7885,23 @@
     "wir": "bekommen",
     "ihr": "bekommt",
     "sie": "bekommen"
+   }
+  },
+  {
+   "id": "mw12ryxzsdx1r",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to move",
+   "de": "bewegen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "bewege",
+    "du": "bewegst",
+    "er": "bewegt",
+    "wir": "bewegen",
+    "ihr": "bewegt",
+    "sie": "bewegen"
    }
   }
  ]

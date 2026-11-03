@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734373081,
+ "updatedAt": 1793734380547,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8247,6 +8247,15 @@
    "type": "other",
    "en": "allowed",
    "de": "erlaubt",
+   "level": "A1.2"
+  },
+  {
+   "id": "mw134xz7ouszy",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "forbidden",
+   "de": "vorboten",
    "level": "A1.2"
   }
  ]

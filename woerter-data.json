@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734171962,
+ "updatedAt": 1793734185291,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8142,6 +8142,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Hausmittel"
+  },
+  {
+   "id": "mw130rbf54cad",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Control",
+   "de": "Kontrolle",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Kontrollen"
   }
  ]
 }

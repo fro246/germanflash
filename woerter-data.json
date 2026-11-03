@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793733807078,
+ "updatedAt": 1793733827571,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7920,6 +7920,17 @@
     "ihr": "sollt",
     "sie": "sollen"
    }
+  },
+  {
+   "id": "mw12t3arzih18",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Accident",
+   "de": "Unfall",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Unfälle"
   }
  ]
 }

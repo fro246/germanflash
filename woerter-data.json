@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734757568,
+ "updatedAt": 1793734796200,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8510,6 +8510,23 @@
     "wir": "machen auf",
     "ihr": "macht auf",
     "sie": "machen auf"
+   }
+  },
+  {
+   "id": "mw13dup4gjowb",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to fall asleep",
+   "de": "einschlafen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "schlafe ein",
+    "du": "schläfst ein",
+    "er": "schläft ein",
+    "wir": "schlafen ein",
+    "ihr": "schlaft ein",
+    "sie": "schlafen ein"
    }
   }
  ]

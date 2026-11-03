@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793735673909,
+ "updatedAt": 1793735725967,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6501,7 +6501,7 @@
   },
   {
    "id": "mvkvbs0s6o7mj",
-   "hits": 3,
+   "hits": 4,
    "misses": 2,
    "type": "verb",
    "en": "to interest",
@@ -6515,8 +6515,8 @@
     "ihr": "interessiert",
     "sie": "interessieren"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvcwngg9ilm",
@@ -6717,7 +6717,7 @@
   },
   {
    "id": "mvkvhkt2zubid",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "verb",
    "en": "to input",
@@ -6731,8 +6731,8 @@
     "ihr": "gebt ein",
     "sie": "geben ein"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvhsjful0r4",
@@ -7138,12 +7138,14 @@
   },
   {
    "id": "mvkvs9g80mca1",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "what a coincidence",
    "de": "so ein Zufall",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvsqu13hocd",
@@ -8127,13 +8129,15 @@
   {
    "id": "mw12zwu1yebil",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Drops",
    "de": "Tropfen",
    "level": "A1.2",
    "article": "der",
-   "plural": "Tropfen"
+   "plural": "Tropfen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw1305no5jav2",
@@ -8148,7 +8152,7 @@
   },
   {
    "id": "mw130h16n9dhy",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Home remedies",
@@ -8156,8 +8160,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Hausmittel",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw130rbf54cad",

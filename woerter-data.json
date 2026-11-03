@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793734528076,
+ "updatedAt": 1793734544837,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8349,6 +8349,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": ""
+  },
+  {
+   "id": "mw138gqtwinbv",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Result",
+   "de": "Ergebnis",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Ergebnisse"
   }
  ]
 }

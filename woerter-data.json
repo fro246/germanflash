@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793733903278,
+ "updatedAt": 1793733927248,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7981,6 +7981,17 @@
     "ihr": "sauber macht",
     "sie": "sauber machen"
    }
+  },
+  {
+   "id": "mw12v87krqinu",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Bandage",
+   "de": "Verband",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Verbände"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793800573011,
+ "updatedAt": 1793800627230,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6450,7 +6450,7 @@
   },
   {
    "id": "mvkvaui0g39lg",
-   "hits": 1,
+   "hits": 2,
    "misses": 4,
    "type": "noun",
    "en": "Vacation",
@@ -6458,8 +6458,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Urlaube",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvbanh0i5jo",
@@ -6684,14 +6684,16 @@
   },
   {
    "id": "mvkvg7ly2jemr",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Blog",
    "de": "Blog",
    "level": "A1.2",
    "article": "der",
-   "plural": "Blogs"
+   "plural": "Blogs",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvgfvhohqq9",
@@ -6748,15 +6750,15 @@
   {
    "id": "mvkvj635724e9",
    "hits": 2,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Bank",
    "de": "Bank",
    "level": "A1.2",
    "article": "die",
    "plural": "Banken",
-   "box": 2,
-   "streak": 2
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvjelb0zrat",
@@ -7074,7 +7076,7 @@
   },
   {
    "id": "mvkvqvgjg3xnq",
-   "hits": 1,
+   "hits": 2,
    "misses": 3,
    "type": "noun",
    "en": "Religion",
@@ -7082,8 +7084,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Religionen",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvrax97z53h",
@@ -7408,14 +7410,16 @@
   },
   {
    "id": "mvzrsf4vkjfzx",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Athlete (female)",
    "de": "Sportlerin",
    "level": "A1.2",
    "article": "die",
-   "plural": "Sportlerinnen"
+   "plural": "Sportlerinnen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvzrt0ij202z9",
@@ -7557,12 +7561,14 @@
   },
   {
    "id": "mvzrwyfkokzav",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "daily",
    "de": "täglich",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvzrx1plib2no",

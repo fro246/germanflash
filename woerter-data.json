@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793801142023,
+ "updatedAt": 1793801189534,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6525,7 +6525,7 @@
   {
    "id": "mvkvcwngg9ilm",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to start up (like a computer)",
    "de": "hochfahren",
@@ -6537,7 +6537,9 @@
     "wir": "fahren hoch",
     "ihr": "fahrt hoch",
     "sie": "fahren hoch"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvdeng9f10m",
@@ -6598,7 +6600,7 @@
   },
   {
    "id": "mvkvecopnzguc",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "verb",
    "en": "to save",
@@ -6612,8 +6614,8 @@
     "ihr": "speichert",
     "sie": "speichern"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvehe60vzrt",
@@ -6819,7 +6821,7 @@
   {
    "id": "mvkvkqei83vci",
    "hits": 2,
-   "misses": 2,
+   "misses": 3,
    "type": "verb",
    "en": "to collect",
    "de": "holen",
@@ -6832,8 +6834,8 @@
     "ihr": "holt",
     "sie": "holen"
    },
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvl1lnd2bnc",
@@ -7584,12 +7586,14 @@
   },
   {
    "id": "mvzrx1plib2no",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "lazy",
    "de": "faul",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvzrx4fxh8ggx",
@@ -8160,7 +8164,7 @@
   },
   {
    "id": "mw12yyro9w7tq",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Fever",
@@ -8168,8 +8172,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw12zjdb1fs5n",
@@ -8599,7 +8603,7 @@
   },
   {
    "id": "mw13d0w06vezy",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to open up",
@@ -8613,8 +8617,8 @@
     "ihr": "macht auf",
     "sie": "machen auf"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw13dup4gjowb",

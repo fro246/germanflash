@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793800949595,
+ "updatedAt": 1793800995573,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6380,7 +6380,7 @@
   },
   {
    "id": "mvkv8ty1bdn19",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Female employee",
@@ -6388,8 +6388,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Mitarbeiterinnen",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "mvkv99dvvg30m",
@@ -6953,13 +6953,15 @@
   {
    "id": "mvkvnzloxudgf",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Song",
    "de": "Lied",
    "level": "A1.2",
    "article": "das",
-   "plural": "Lieder"
+   "plural": "Lieder",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvoauqgmcpt",
@@ -7363,14 +7365,14 @@
   },
   {
    "id": "mvkvwhzcz1xfw",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "not at all",
    "de": "gar nicht",
    "level": "A1.2",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvkvwpfv577x5",
@@ -7678,7 +7680,7 @@
   },
   {
    "id": "mvzrzi0zvradi",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Weight",
@@ -7686,19 +7688,21 @@
    "level": "A1.2",
    "article": "das",
    "plural": "",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvzrzwyfyzg7a",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Body",
    "de": "Körper",
    "level": "A1.2",
    "article": "der",
-   "plural": "Körper"
+   "plural": "Körper",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvzs08x47p2k9",
@@ -7863,13 +7867,15 @@
   {
    "id": "mvzs4dsyyzj7v",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Ear",
    "de": "Ohr",
    "level": "A1.2",
    "article": "das",
-   "plural": "Ohren"
+   "plural": "Ohren",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvzs4mq2np3yb",
@@ -8315,12 +8321,14 @@
   },
   {
    "id": "mw134xz7ouszy",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "forbidden",
    "de": "vorboten",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mw1356tqn4sl1",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793800674875,
+ "updatedAt": 1793800710256,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6328,7 +6328,7 @@
   },
   {
    "id": "mvkv7cugqrdca",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Baker",
@@ -6336,8 +6336,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Bäcker",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "mvkv7pcl8947e",
@@ -6368,13 +6368,15 @@
   {
    "id": "mvkv88dc30rqu",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Employee",
    "de": "Mitarbeiter",
    "level": "A1.2",
    "article": "der",
-   "plural": "Mitarbeiter"
+   "plural": "Mitarbeiter",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkv8ty1bdn19",
@@ -7676,7 +7678,7 @@
   },
   {
    "id": "mvzrzi0zvradi",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Weight",
@@ -7684,8 +7686,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvzrzwyfyzg7a",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793736036031,
+ "updatedAt": 1793800573011,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6451,7 +6451,7 @@
   {
    "id": "mvkvaui0g39lg",
    "hits": 1,
-   "misses": 3,
+   "misses": 4,
    "type": "noun",
    "en": "Vacation",
    "de": "Urlaub",
@@ -7368,14 +7368,14 @@
   },
   {
    "id": "mvkvwpfv577x5",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "other",
    "en": "actually",
    "de": "eigentlich",
    "level": "A1.2",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvwtt2nk7ce",
@@ -8071,14 +8071,14 @@
   },
   {
    "id": "mw12wuss1pol3",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "other",
    "en": "injured",
    "de": "verletzt",
    "level": "A1.2",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw12x3tjfp9qn",
@@ -8566,7 +8566,7 @@
   },
   {
    "id": "mw13dup4gjowb",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to fall asleep",
@@ -8579,7 +8579,9 @@
     "wir": "schlafen ein",
     "ihr": "schlaft ein",
     "sie": "schlafen ein"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mw13e05rlvihh",

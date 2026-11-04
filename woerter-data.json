@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793800627230,
+ "updatedAt": 1793800674875,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6749,7 +6749,7 @@
   },
   {
    "id": "mvkvj635724e9",
-   "hits": 2,
+   "hits": 3,
    "misses": 2,
    "type": "noun",
    "en": "Bank",
@@ -6757,8 +6757,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Banken",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvjelb0zrat",
@@ -7339,12 +7339,14 @@
   },
   {
    "id": "mvkvw8i6yzqgf",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "light (weight)",
    "de": "leicht",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvkvwbmm0nj2s",
@@ -7675,13 +7677,15 @@
   {
    "id": "mvzrzi0zvradi",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Weight",
    "de": "Gewicht",
    "level": "A1.2",
    "article": "das",
-   "plural": ""
+   "plural": "",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvzrzwyfyzg7a",
@@ -8055,14 +8059,16 @@
   },
   {
    "id": "mw12w3ty4v6ip",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Perscription",
    "de": "Rezept",
    "level": "A1.2",
    "article": "das",
-   "plural": "Rezepte"
+   "plural": "Rezepte",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mw12wigm4jbmu",
@@ -8200,7 +8206,7 @@
   },
   {
    "id": "mw1311xcr1zp2",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to cough",
@@ -8213,12 +8219,14 @@
     "wir": "husten",
     "ihr": "hustet",
     "sie": "husten"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mw132cq42fxys",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to have a cold",
    "de": "erkältet sein",
@@ -8230,7 +8238,9 @@
     "wir": "erkältet sein",
     "ihr": "erkältet seid",
     "sie": "erkältet sein"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw132ns72dob8",

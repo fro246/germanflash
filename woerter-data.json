@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793801090488,
+ "updatedAt": 1793801142023,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6467,7 +6467,7 @@
   },
   {
    "id": "mvkvbanh0i5jo",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "verb",
    "en": "to explain",
@@ -6481,8 +6481,8 @@
     "ihr": "erklärt",
     "sie": "erklären"
    },
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvkvbjfrymxgj",
@@ -6617,7 +6617,7 @@
   },
   {
    "id": "mvkvehe60vzrt",
-   "hits": 3,
+   "hits": 4,
    "misses": 1,
    "type": "verb",
    "en": "to print",
@@ -6631,8 +6631,8 @@
     "ihr": "druckt",
     "sie": "drucken"
    },
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkveuypgpdp5",
@@ -7306,7 +7306,7 @@
   },
   {
    "id": "mvkvvpgo77lwv",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to use",
@@ -7320,8 +7320,8 @@
     "ihr": "verwendet",
     "sie": "verwenden"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvvwn79clx7",
@@ -8161,13 +8161,15 @@
   {
    "id": "mw12yyro9w7tq",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Fever",
    "de": "Fieber",
    "level": "A1.2",
    "article": "das",
-   "plural": ""
+   "plural": "",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw12zjdb1fs5n",
@@ -8598,7 +8600,7 @@
   {
    "id": "mw13d0w06vezy",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to open up",
    "de": "aufmachen",
@@ -8610,7 +8612,9 @@
     "wir": "machen auf",
     "ihr": "macht auf",
     "sie": "machen auf"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw13dup4gjowb",

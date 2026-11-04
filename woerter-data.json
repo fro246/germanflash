@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793800710256,
+ "updatedAt": 1793800777146,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6367,7 +6367,7 @@
   },
   {
    "id": "mvkv88dc30rqu",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Employee",
@@ -6375,8 +6375,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Mitarbeiter",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkv8ty1bdn19",
@@ -6616,7 +6616,7 @@
   {
    "id": "mvkvehe60vzrt",
    "hits": 2,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to print",
    "de": "drucken",
@@ -6629,8 +6629,8 @@
     "ihr": "druckt",
     "sie": "drucken"
    },
-   "box": 3,
-   "streak": 5
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkveuypgpdp5",
@@ -7525,14 +7525,14 @@
   },
   {
    "id": "mvzrw5rpm5iri",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "fit",
    "de": "fit",
    "level": "A1.2",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvzrw92vwgoal",
@@ -8008,7 +8008,7 @@
   {
    "id": "mw12uppqh3yp5",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to clean up (wound)",
    "de": "sauber machen",
@@ -8020,7 +8020,9 @@
     "wir": "sauber machen",
     "ihr": "sauber macht",
     "sie": "sauber machen"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw12v87krqinu",
@@ -8160,7 +8162,7 @@
   },
   {
    "id": "mw12zwu1yebil",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Drops",
@@ -8168,8 +8170,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Tropfen",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mw1305no5jav2",
@@ -8227,7 +8229,7 @@
   },
   {
    "id": "mw132cq42fxys",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to have a cold",
@@ -8241,8 +8243,8 @@
     "ihr": "erkältet seid",
     "sie": "erkältet sein"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw132ns72dob8",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793800777146,
+ "updatedAt": 1793800838416,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6597,7 +6597,7 @@
   {
    "id": "mvkvecopnzguc",
    "hits": 1,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to save",
    "de": "speichern",
@@ -6610,12 +6610,12 @@
     "ihr": "speichert",
     "sie": "speichern"
    },
-   "box": 2,
-   "streak": 4
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvehe60vzrt",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "verb",
    "en": "to print",
@@ -6629,8 +6629,8 @@
     "ihr": "druckt",
     "sie": "drucken"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkveuypgpdp5",
@@ -8007,7 +8007,7 @@
   },
   {
    "id": "mw12uppqh3yp5",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to clean up (wound)",
@@ -8021,8 +8021,8 @@
     "ihr": "sauber macht",
     "sie": "sauber machen"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw12v87krqinu",
@@ -8535,7 +8535,7 @@
   },
   {
    "id": "mw13bvkwzz0jw",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to write down",
@@ -8548,7 +8548,9 @@
     "wir": "schreiben auf",
     "ihr": "schreibt auf",
     "sie": "schreiben auf"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mw13ckp1x8z4a",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793800896508,
+ "updatedAt": 1793800949595,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6790,7 +6790,7 @@
   },
   {
    "id": "mvkvk3dww07r8",
-   "hits": 2,
+   "hits": 3,
    "misses": 6,
    "type": "noun",
    "en": "Account number",
@@ -6798,8 +6798,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Kontonummern",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvkbv933ujc",
@@ -6852,14 +6852,14 @@
   },
   {
    "id": "mvkvl7dlinf76",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "cash",
    "de": "bar",
    "level": "A1.2",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvkvlncdrm7mi",
@@ -7091,14 +7091,14 @@
   },
   {
    "id": "mvkvrax97z53h",
-   "hits": 2,
-   "misses": 2,
+   "hits": 3,
+   "misses": 3,
    "type": "other",
    "en": "the most",
    "de": "die meisten",
    "level": "A1.2",
-   "box": 2,
-   "streak": 2
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvrf6pv12lg",
@@ -7124,14 +7124,14 @@
   },
   {
    "id": "mvkvrp34ptqve",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "other",
    "en": "terrible",
    "de": "schrecklich",
    "level": "A1.2",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvrz9kcygh4",
@@ -7146,14 +7146,14 @@
   },
   {
    "id": "mvkvs9g80mca1",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "other",
    "en": "what a coincidence",
    "de": "so ein Zufall",
    "level": "A1.2",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvsqu13hocd",
@@ -7702,7 +7702,7 @@
   },
   {
    "id": "mvzs08x47p2k9",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Head",
@@ -7710,8 +7710,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Köpfe",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mvzs0i61tqm5x",
@@ -7827,14 +7827,16 @@
   },
   {
    "id": "mvzs3qarsywiz",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Mouth",
    "de": "Mund",
    "level": "A1.2",
    "article": "der",
-   "plural": "Münder"
+   "plural": "Münder",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvzs3ytd19qvr",

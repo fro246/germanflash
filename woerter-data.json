@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793801189534,
+ "updatedAt": 1793801209983,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6524,7 +6524,7 @@
   },
   {
    "id": "mvkvcwngg9ilm",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "verb",
    "en": "to start up (like a computer)",
@@ -6538,8 +6538,8 @@
     "ihr": "fahrt hoch",
     "sie": "fahren hoch"
    },
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvdeng9f10m",

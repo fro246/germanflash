@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575169980,
+ "updatedAt": 1794575184737,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8862,6 +8862,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Schlafzimmer"
+  },
+  {
+   "id": "mwezqan5mxp7p",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Living room",
+   "de": "Wohnzimmer",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Wohnzimmer"
   }
  ]
 }

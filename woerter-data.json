@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575405212,
+ "updatedAt": 1794575408705,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9058,6 +9058,15 @@
    "type": "other",
    "en": "dark",
    "de": "dunkel",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwezv3gh7vgb4",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "bright",
+   "de": "hell",
    "level": "A1.2"
   }
  ]

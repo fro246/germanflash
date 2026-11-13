@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575269720,
+ "updatedAt": 1794575290621,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8950,6 +8950,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Decken"
+  },
+  {
+   "id": "mwezskcd0g64h",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Ground floor (EG)",
+   "de": "Erdgeschoss",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Erdgeschosse"
   }
  ]
 }

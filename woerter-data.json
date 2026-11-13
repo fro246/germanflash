@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575722787,
+ "updatedAt": 1794575744129,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9312,6 +9312,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Kühlschränke"
+  },
+  {
+   "id": "mwf02a9tdfdkw",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Dish washer",
+   "de": "Spülmaschine",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Spülmaschinen"
   }
  ]
 }

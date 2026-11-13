@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575383089,
+ "updatedAt": 1794575389104,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9031,6 +9031,15 @@
    "type": "other",
    "en": "far",
    "de": "weit",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwezuoc0716rt",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "cheap (bad connotation)",
+   "de": "billig",
    "level": "A1.2"
   }
  ]

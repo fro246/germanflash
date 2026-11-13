@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794576186382,
+ "updatedAt": 1794576194875,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9829,6 +9829,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Hölzer"
+  },
+  {
+   "id": "mwf0by2jlc4vl",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Notebook",
+   "de": "Heft",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Hefte"
   }
  ]
 }

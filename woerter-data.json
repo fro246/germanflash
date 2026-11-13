@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794576101713,
+ "updatedAt": 1794576104773,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9742,6 +9742,15 @@
    "type": "other",
    "en": "especially",
    "de": "besonders",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwf0a0jougcjo",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "positive",
+   "de": "positiv",
    "level": "A1.2"
   }
  ]

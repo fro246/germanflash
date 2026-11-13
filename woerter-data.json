@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575536477,
+ "updatedAt": 1794575548270,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9158,6 +9158,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Lichter"
+  },
+  {
+   "id": "mwezy35a4s1mz",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Plant",
+   "de": "Pflanze",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Pflanzen"
   }
  ]
 }

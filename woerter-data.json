@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794576139181,
+ "updatedAt": 1794576158785,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9796,6 +9796,17 @@
     "ihr": "schließt",
     "sie": "schließen"
    }
+  },
+  {
+   "id": "mwf0b681xpy8q",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Flower",
+   "de": "Blume",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Blumen"
   }
  ]
 }

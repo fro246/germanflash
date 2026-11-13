@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575877092,
+ "updatedAt": 1794575886778,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9411,6 +9411,23 @@
     "wir": "unterschreiben",
     "ihr": "unterschreibt",
     "sie": "unterschreiben"
+   }
+  },
+  {
+   "id": "mwf05ccao1rig",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to rent out",
+   "de": "vermieten",
+   "level": "A1.2",
+   "forms": {
+    "ich": "vermiete",
+    "du": "vermietest",
+    "er": "vermietet",
+    "wir": "vermieten",
+    "ihr": "vermietet",
+    "sie": "vermieten"
    }
   }
  ]

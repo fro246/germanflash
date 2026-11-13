@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794576208813,
+ "updatedAt": 1794576225604,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9851,6 +9851,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Wünsche"
+  },
+  {
+   "id": "mwf0cls47ch5f",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Congratulations",
+   "de": "Glückwunsch",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Glückwünsche"
   }
  ]
 }

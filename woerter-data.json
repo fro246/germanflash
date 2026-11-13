@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575683182,
+ "updatedAt": 1794575698731,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9290,6 +9290,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Herde"
+  },
+  {
+   "id": "mwf01b8rrbs74",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Coffee machine",
+   "de": "Kaffeemaschine",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Kaffeemaschinen"
   }
  ]
 }

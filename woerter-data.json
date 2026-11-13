@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575184737,
+ "updatedAt": 1794575195447,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8873,6 +8873,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Wohnzimmer"
+  },
+  {
+   "id": "mwezqiwm4o0ee",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Kid's room",
+   "de": "Kinderzimmer",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Kinderzimmer"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575316320,
+ "updatedAt": 1794575327873,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8982,6 +8982,17 @@
    "de": "Lage",
    "level": "A1.2",
    "article": "die",
+   "plural": ""
+  },
+  {
+   "id": "mweztd35tiu2p",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Nearby",
+   "de": "Nähe",
+   "level": "A1.2",
+   "article": "der",
    "plural": ""
   }
  ]

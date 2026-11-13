@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575456486,
+ "updatedAt": 1794575474096,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9103,6 +9103,17 @@
     "ihr": "seht aus",
     "sie": "sehen aus"
    }
+  },
+  {
+   "id": "mwezwhwwb5i80",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "View",
+   "de": "Blick",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Blicke"
   }
  ]
 }

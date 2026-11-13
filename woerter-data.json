@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575548270,
+ "updatedAt": 1794575560105,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9169,6 +9169,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Pflanzen"
+  },
+  {
+   "id": "mwezyca1bwv1l",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Shelf",
+   "de": "Regal",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Regale"
   }
  ]
 }

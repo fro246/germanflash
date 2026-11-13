@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575119804,
+ "updatedAt": 1794575129932,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8807,6 +8807,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Räume"
+  },
+  {
+   "id": "mwezp4csvokhh",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Bathroom",
+   "de": "Bad",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Bäder"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575485506,
+ "updatedAt": 1794575502215,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9125,6 +9125,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": ""
+  },
+  {
+   "id": "mwezx3lz0l2ho",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Device",
+   "de": "Gerät",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Geräte"
   }
  ]
 }

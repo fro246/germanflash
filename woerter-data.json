@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575942371,
+ "updatedAt": 1794575952777,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9496,6 +9496,23 @@
     "wir": "ziehen um",
     "ihr": "zieht um",
     "sie": "ziehen um"
+   }
+  },
+  {
+   "id": "mwf06r9konlj0",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to place",
+   "de": "stellen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "stelle",
+    "du": "stellst",
+    "er": "stellt",
+    "wir": "stellen",
+    "ihr": "stellt",
+    "sie": "stellen"
    }
   }
  ]

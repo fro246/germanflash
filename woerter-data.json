@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575158607,
+ "updatedAt": 1794575169980,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8851,6 +8851,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Küchen"
+  },
+  {
+   "id": "mwezpz98tl8xk",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Bedroom",
+   "de": "Schlafzimmer",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Schlafzimmer"
   }
  ]
 }

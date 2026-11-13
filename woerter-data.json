@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575952777,
+ "updatedAt": 1794575974317,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9514,6 +9514,17 @@
     "ihr": "stellt",
     "sie": "stellen"
    }
+  },
+  {
+   "id": "mwf077vwb5soh",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "the Move",
+   "de": "Umzug",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Umzüge"
   }
  ]
 }

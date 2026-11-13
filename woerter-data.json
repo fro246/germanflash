@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575098921,
+ "updatedAt": 1794575119804,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8796,6 +8796,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Reihnenhäuser"
+  },
+  {
+   "id": "mwezowjg77rgf",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Room",
+   "de": "Raum",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Räume"
   }
  ]
 }

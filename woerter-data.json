@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575803264,
+ "updatedAt": 1794575817438,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9356,6 +9356,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Verträge"
+  },
+  {
+   "id": "mwf03uu6rktdc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Rent",
+   "de": "Miete",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Mieten"
   }
  ]
 }

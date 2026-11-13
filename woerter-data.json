@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575243072,
+ "updatedAt": 1794575252549,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8917,6 +8917,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Gärten"
+  },
+  {
+   "id": "mwezrqytzm6m1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Stair",
+   "de": "Treppe",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Treppen"
   }
  ]
 }

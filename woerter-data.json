@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575901201,
+ "updatedAt": 1794575911406,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9462,6 +9462,23 @@
     "wir": "packen",
     "ihr": "packt",
     "sie": "packen"
+   }
+  },
+  {
+   "id": "mwf05vcex5s4m",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to move into",
+   "de": "ziehen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "ziehe",
+    "du": "ziehst",
+    "er": "zieht",
+    "wir": "ziehen",
+    "ihr": "zieht",
+    "sie": "ziehen"
    }
   }
  ]

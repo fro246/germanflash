@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575307192,
+ "updatedAt": 1794575316320,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8972,6 +8972,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Stöcke"
+  },
+  {
+   "id": "mwezt4683m1b7",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Location",
+   "de": "Lage",
+   "level": "A1.2",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

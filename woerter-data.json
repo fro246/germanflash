@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575474096,
+ "updatedAt": 1794575485506,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9114,6 +9114,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Blicke"
+  },
+  {
+   "id": "mwezwqpuy24xd",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Furniture",
+   "de": "Möbel",
+   "level": "A1.2",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794576169110,
+ "updatedAt": 1794576186382,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9818,6 +9818,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Bäume"
+  },
+  {
+   "id": "mwf0brimwcafa",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Wood (material)",
+   "de": "Holz",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Hölzer"
   }
  ]
 }

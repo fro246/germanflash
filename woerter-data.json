@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575560105,
+ "updatedAt": 1794575578560,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9180,6 +9180,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Regale"
+  },
+  {
+   "id": "mwezyqiouka5v",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cabinet",
+   "de": "Schrank",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Schränke"
   }
  ]
 }

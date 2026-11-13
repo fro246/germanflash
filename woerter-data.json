@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575408705,
+ "updatedAt": 1794575420359,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9067,6 +9067,15 @@
    "type": "other",
    "en": "bright",
    "de": "hell",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwezvcg7cor63",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "comfortable",
+   "de": "gemütlich",
    "level": "A1.2"
   }
  ]

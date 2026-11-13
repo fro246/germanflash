@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575129932,
+ "updatedAt": 1794575140028,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8818,6 +8818,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Bäder"
+  },
+  {
+   "id": "mwezpc58s5fwt",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Shower",
+   "de": "Dusche",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Duschen"
   }
  ]
 }

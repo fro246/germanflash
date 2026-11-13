@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575986061,
+ "updatedAt": 1794575996213,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9536,6 +9536,15 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Feiern"
+  },
+  {
+   "id": "mwf07os5l16cn",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "behind",
+   "de": "hinter",
+   "level": "A1.2"
   }
  ]
 }

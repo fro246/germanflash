@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575623507,
+ "updatedAt": 1794575630049,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9235,6 +9235,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Stühle"
+  },
+  {
+   "id": "mwezzu8x2o9bc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Carpet",
+   "de": "Tisch",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Tische"
   }
  ]
 }

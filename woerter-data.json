@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1793801209983,
+ "updatedAt": 1794575031725,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6840,7 +6840,7 @@
   {
    "id": "mvkvl1lnd2bnc",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to transfer",
    "de": "überweisen",
@@ -6852,7 +6852,9 @@
     "wir": "überweisen",
     "ihr": "überweist",
     "sie": "überweisen"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvl7dlinf76",
@@ -7152,25 +7154,27 @@
   },
   {
    "id": "mvkvs9g80mca1",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "other",
    "en": "what a coincidence",
    "de": "so ein Zufall",
    "level": "A1.2",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvsqu13hocd",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Adult",
    "de": "Erwachsene",
    "level": "A1.2",
    "article": "die",
-   "plural": "Erwachsenen"
+   "plural": "Erwachsenen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvt1644fr1u",
@@ -8748,6 +8752,17 @@
    "en": "safe",
    "de": "sicher",
    "level": "A1.2"
+  },
+  {
+   "id": "mwezn0ktsizg3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Apartment",
+   "de": "Wohnung",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Wohnungen"
   }
  ]
 }

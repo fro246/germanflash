@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575670515,
+ "updatedAt": 1794575683182,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9279,6 +9279,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Fernseher"
+  },
+  {
+   "id": "mwf00z8upv3cc",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Stove",
+   "de": "Herd",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Herde"
   }
  ]
 }

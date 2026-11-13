@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575655312,
+ "updatedAt": 1794575670515,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9268,6 +9268,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Betten"
+  },
+  {
+   "id": "mwf00pgzbxg2y",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "TV",
+   "de": "Fernseher",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Fernseher"
   }
  ]
 }

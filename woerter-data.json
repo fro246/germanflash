@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575610560,
+ "updatedAt": 1794575623507,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9224,6 +9224,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Sofas"
+  },
+  {
+   "id": "mwezzp7707img",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Chair",
+   "de": "Stuhl",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Stühle"
   }
  ]
 }

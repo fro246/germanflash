@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575867826,
+ "updatedAt": 1794575877092,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9394,6 +9394,23 @@
     "wir": "besichtigen",
     "ihr": "besichtigt",
     "sie": "besichtigen"
+   }
+  },
+  {
+   "id": "mwf054v8ckw2k",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to sign",
+   "de": "unterschreiben",
+   "level": "A1.2",
+   "forms": {
+    "ich": "unterschreibe",
+    "du": "unterschreibst",
+    "er": "unterschreibt",
+    "wir": "unterschreiben",
+    "ihr": "unterschreibt",
+    "sie": "unterschreiben"
    }
   }
  ]

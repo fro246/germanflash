@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575221696,
+ "updatedAt": 1794575243072,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8906,6 +8906,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Terassen"
+  },
+  {
+   "id": "mwezrjnkd3uej",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Garden",
+   "de": "Garten",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Gärten"
   }
  ]
 }

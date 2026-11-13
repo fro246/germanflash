@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575260672,
+ "updatedAt": 1794575269720,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8939,6 +8939,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Türen"
+  },
+  {
+   "id": "mwezs47sbxife",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Ceiling",
+   "de": "Decke",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Decken"
   }
  ]
 }

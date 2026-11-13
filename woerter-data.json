@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575502215,
+ "updatedAt": 1794575510518,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9136,6 +9136,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Geräte"
+  },
+  {
+   "id": "mwezxa0mjrrpa",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Lamp",
+   "de": "Lampe",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Lampen"
   }
  ]
 }

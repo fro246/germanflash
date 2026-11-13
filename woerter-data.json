@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575423882,
+ "updatedAt": 1794575456486,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9086,6 +9086,23 @@
    "en": "elegant",
    "de": "elegant",
    "level": "A1.2"
+  },
+  {
+   "id": "mwezw4bqjgwre",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to look out",
+   "de": "aussehen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "sehe aus",
+    "du": "siehst aus",
+    "er": "sieht aus",
+    "wir": "sehen aus",
+    "ihr": "seht aus",
+    "sie": "sehen aus"
+   }
   }
  ]
 }

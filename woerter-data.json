@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575974317,
+ "updatedAt": 1794575986061,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9525,6 +9525,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Umzüge"
+  },
+  {
+   "id": "mwf07gy58re6v",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Party",
+   "de": "Feier",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Feiern"
   }
  ]
 }

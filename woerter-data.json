@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1794575290621,
+ "updatedAt": 1794575307192,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8961,6 +8961,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Erdgeschosse"
+  },
+  {
+   "id": "mwezsx4nsex2j",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Floor (in elevator)",
+   "de": "Stock",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Stöcke"
   }
  ]
 }

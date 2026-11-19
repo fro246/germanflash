@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085285872,
+ "updatedAt": 1795085298472,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9974,6 +9974,15 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Feierabende"
+  },
+  {
+   "id": "mwnffsx4wv5so",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "Unemployed",
+   "de": "arbeitslos",
+   "level": "A1.2"
   }
  ]
 }

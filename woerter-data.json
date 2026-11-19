@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085360690,
+ "updatedAt": 1795085378190,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10060,6 +10060,17 @@
     "ihr": "betreut",
     "sie": "betreuen"
    }
+  },
+  {
+   "id": "mwnfhifils1up",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Dealer",
+   "de": "Händler",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Händler"
   }
  ]
 }

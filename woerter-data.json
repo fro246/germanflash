@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085349755,
+ "updatedAt": 1795085360690,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10042,6 +10042,23 @@
     "wir": "segeln",
     "ihr": "segelt",
     "sie": "segeln"
+   }
+  },
+  {
+   "id": "mwnfh4xemh03b",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to look after",
+   "de": "betreuen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "betreue",
+    "du": "betreust",
+    "er": "betreut",
+    "wir": "betreuen",
+    "ihr": "betreut",
+    "sie": "betreuen"
    }
   }
  ]

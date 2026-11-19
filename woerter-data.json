@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086581544,
+ "updatedAt": 1795086616557,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8068,13 +8068,15 @@
   {
    "id": "mw12vjbf0dbr8",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Band-Aid",
    "de": "Pflaster",
    "level": "A1.2",
    "article": "das",
-   "plural": "Pflaster"
+   "plural": "Pflaster",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw12vrk7vdmpk",
@@ -8455,15 +8457,15 @@
   {
    "id": "mw138gqtwinbv",
    "hits": 1,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Result",
    "de": "Ergebnis",
    "level": "A1.2",
    "article": "das",
    "plural": "Ergebnisse",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw1391boweucp",
@@ -8938,13 +8940,15 @@
   {
    "id": "mwezrx8gj0bcp",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Door",
    "de": "Tür",
    "level": "A1.2",
    "article": "die",
-   "plural": "Türen"
+   "plural": "Türen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwezs47sbxife",
@@ -9601,14 +9605,14 @@
   },
   {
    "id": "mwf0883wozqjv",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "other",
    "en": "brown",
    "de": "braun",
    "level": "A1.2",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mwf08bdhawotw",

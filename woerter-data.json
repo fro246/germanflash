@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085947541,
+ "updatedAt": 1795085955432,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10465,6 +10465,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Enden"
+  },
+  {
+   "id": "mwnftvu0uksy8",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Hometown",
+   "de": "Heimat",
+   "level": "A1.2",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

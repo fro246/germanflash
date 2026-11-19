@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086856876,
+ "updatedAt": 1795086904777,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7051,7 +7051,7 @@
   },
   {
    "id": "mvkvq3foqdmr0",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Elevator",
@@ -7059,8 +7059,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Aufzüge",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "mvkvqagygqcnx",
@@ -8098,15 +8098,15 @@
   {
    "id": "mw12w3ty4v6ip",
    "hits": 1,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Perscription",
    "de": "Rezept",
    "level": "A1.2",
    "article": "das",
    "plural": "Rezepte",
-   "box": 2,
-   "streak": 4
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw12wigm4jbmu",
@@ -8756,12 +8756,14 @@
   },
   {
    "id": "mw13fl60ewnnk",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "safe",
    "de": "sicher",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwezn0ktsizg3",
@@ -9491,7 +9493,7 @@
   {
    "id": "mwf05vcex5s4m",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to move into",
    "de": "ziehen",
@@ -9503,7 +9505,9 @@
     "wir": "ziehen",
     "ihr": "zieht",
     "sie": "ziehen"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwf06j8jxa9x2",
@@ -10194,7 +10198,7 @@
   },
   {
    "id": "mwnfk4g541a07",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Workshop",
@@ -10202,8 +10206,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Werkstätten",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwnfkdxtp1wqi",
@@ -10218,14 +10222,16 @@
   },
   {
    "id": "mwnfkjsdcg8ya",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Semester",
    "de": "Semester",
    "level": "A1.2",
    "article": "das",
-   "plural": "Semester"
+   "plural": "Semester",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwnfkpojjfrcd",
@@ -10296,13 +10302,15 @@
   {
    "id": "mwnfmhdjdj5wj",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "noun",
    "en": "Extension",
    "de": "Durchwahl",
    "level": "A1.2",
    "article": "die",
-   "plural": "Durchwahlen"
+   "plural": "Durchwahlen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwnfmzazmhxyg",

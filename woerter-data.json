@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085192741,
+ "updatedAt": 1795085212038,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9897,6 +9897,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Jobs"
+  },
+  {
+   "id": "mwnfdy86qiyv1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Career",
+   "de": "Karriere",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Karrieren"
   }
  ]
 }

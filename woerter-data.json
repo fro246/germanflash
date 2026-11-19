@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085610103,
+ "updatedAt": 1795085633339,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10269,6 +10269,15 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Durchwahlen"
+  },
+  {
+   "id": "mwnfmzazmhxyg",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "diligent",
+   "de": "fleißig",
+   "level": "A1.2"
   }
  ]
 }

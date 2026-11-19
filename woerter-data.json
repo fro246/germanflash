@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085175527,
+ "updatedAt": 1795085183916,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9875,6 +9875,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Arbeitsplätze"
+  },
+  {
+   "id": "mwnfdcj0fl07l",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Spot",
+   "de": "Stelle",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Stellen"
   }
  ]
 }

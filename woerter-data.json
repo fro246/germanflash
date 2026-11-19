@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085500037,
+ "updatedAt": 1795085512337,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10170,6 +10170,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Werkstätten"
+  },
+  {
+   "id": "mwnfkdxtp1wqi",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Study",
+   "de": "Studium",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Studien"
   }
  ]
 }

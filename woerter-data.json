@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085116984,
+ "updatedAt": 1795085175527,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6840,7 +6840,7 @@
   {
    "id": "mvkvl1lnd2bnc",
    "hits": 0,
-   "misses": 2,
+   "misses": 3,
    "type": "verb",
    "en": "to transfer",
    "de": "überweisen",
@@ -7166,7 +7166,7 @@
   {
    "id": "mvkvsqu13hocd",
    "hits": 0,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Adult",
    "de": "Erwachsene",
@@ -7561,14 +7561,14 @@
   },
   {
    "id": "mvzrwgbsn3ejn",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "other",
    "en": "doesn't matter",
    "de": "egal",
    "level": "A1.2",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvzrwtgo61nmh",
@@ -9864,6 +9864,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Glückwünsche"
+  },
+  {
+   "id": "mwnfd61yg6hom",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Work place",
+   "de": "Arbeitsplatz",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Arbeitsplätze"
   }
  ]
 }

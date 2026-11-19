@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086757677,
+ "updatedAt": 1795086807376,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6420,13 +6420,15 @@
   {
    "id": "mvkva253lqhy4",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Presentation",
    "de": "Präsentation",
    "level": "A1.2",
    "article": "die",
-   "plural": "Präsentationen"
+   "plural": "Präsentationen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvab49jeuif",
@@ -7087,15 +7089,15 @@
   {
    "id": "mvkvqvgjg3xnq",
    "hits": 2,
-   "misses": 3,
+   "misses": 5,
    "type": "noun",
    "en": "Religion",
    "de": "Religion",
    "level": "A1.2",
    "article": "die",
    "plural": "Religionen",
-   "box": 2,
-   "streak": 2
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvrax97z53h",
@@ -7939,7 +7941,7 @@
   {
    "id": "mw12rnorceluv",
    "hits": 1,
-   "misses": 1,
+   "misses": 2,
    "type": "verb",
    "en": "to receive",
    "de": "bekommen",
@@ -7952,8 +7954,8 @@
     "ihr": "bekommt",
     "sie": "bekommen"
    },
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw12ryxzsdx1r",
@@ -9379,14 +9381,16 @@
   },
   {
    "id": "mwf03uu6rktdc",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Rent",
    "de": "Miete",
    "level": "A1.2",
    "article": "die",
-   "plural": "Mieten"
+   "plural": "Mieten",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwf04mahteyzf",
@@ -9990,14 +9994,16 @@
   },
   {
    "id": "mwnffj74ss3fh",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Quitting time",
    "de": "Feierabend",
    "level": "A1.2",
    "article": "der",
-   "plural": "Feierabende"
+   "plural": "Feierabende",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwnffsx4wv5so",

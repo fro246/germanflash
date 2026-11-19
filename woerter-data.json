@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086209912,
+ "updatedAt": 1795086257462,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6342,15 +6342,15 @@
   {
    "id": "mvkv7pcl8947e",
    "hits": 1,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Dentist",
    "de": "Zahnarzt",
    "level": "A1.2",
    "article": "der",
    "plural": "Zahnärzte",
-   "box": 2,
-   "streak": 4
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkv7ws0wwves",
@@ -6840,7 +6840,7 @@
   {
    "id": "mvkvl1lnd2bnc",
    "hits": 0,
-   "misses": 3,
+   "misses": 4,
    "type": "verb",
    "en": "to transfer",
    "de": "überweisen",
@@ -10591,7 +10591,7 @@
   {
    "id": "mwnfxbmh75esq",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "verb",
    "en": "to train",
    "de": "trainieren",
@@ -10603,7 +10603,9 @@
     "wir": "trainieren",
     "ihr": "trainiert",
     "sie": "trainieren"
-   }
+   },
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwnfxj3dqkat2",

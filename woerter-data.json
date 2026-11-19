@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086183884,
+ "updatedAt": 1795086209912,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10712,6 +10712,23 @@
    "en": "just",
    "de": "mal",
    "level": "A1.2"
+  },
+  {
+   "id": "mwnfzc6wwnt1m",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to run",
+   "de": "laufen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "laufe",
+    "du": "läufst",
+    "er": "läuft",
+    "wir": "laufen",
+    "ihr": "lauft",
+    "sie": "laufen"
+   }
   }
  ]
 }

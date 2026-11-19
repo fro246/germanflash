@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085644120,
+ "updatedAt": 1795085698823,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10287,6 +10287,23 @@
    "en": "occupied",
    "de": "besetzt",
    "level": "A1.2"
+  },
+  {
+   "id": "mwnfodtzgy8ve",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to be over",
+   "de": "vorbei sein",
+   "level": "A1.2",
+   "forms": {
+    "ich": "bin vorbei",
+    "du": "bist vorbei",
+    "er": "ist vorbei",
+    "wir": "sein vorbei",
+    "ihr": "seid vorbei",
+    "sie": "sein vorbei"
+   }
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085955432,
+ "updatedAt": 1795085963800,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10475,6 +10475,17 @@
    "de": "Heimat",
    "level": "A1.2",
    "article": "die",
+   "plural": ""
+  },
+  {
+   "id": "mwnfu2ag9qc6c",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Abroad",
+   "de": "Ausland",
+   "level": "A1.2",
+   "article": "das",
    "plural": ""
   }
  ]

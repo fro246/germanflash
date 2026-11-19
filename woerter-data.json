@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085869521,
+ "updatedAt": 1795085882728,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10410,6 +10410,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Bühnen"
+  },
+  {
+   "id": "mwnfsbqgwlf86",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Extra (film)",
+   "de": "Statist",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Statisten"
   }
  ]
 }

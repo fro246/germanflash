@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085324291,
+ "updatedAt": 1795085342495,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10008,6 +10008,23 @@
     "wir": "verdienen",
     "ihr": "verdient",
     "sie": "verdienen"
+   }
+  },
+  {
+   "id": "mwnfgqvzp2rbr",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to paint",
+   "de": "malen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "male",
+    "du": "malst",
+    "er": "malt",
+    "wir": "malen",
+    "ihr": "malt",
+    "sie": "malen"
    }
   }
  ]

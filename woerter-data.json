@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085698823,
+ "updatedAt": 1795085710605,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10303,6 +10303,23 @@
     "wir": "sein vorbei",
     "ihr": "seid vorbei",
     "sie": "sein vorbei"
+   }
+  },
+  {
+   "id": "mwnfomx987c2v",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to report",
+   "de": "melden",
+   "level": "A1.2",
+   "forms": {
+    "ich": "melde",
+    "du": "meldest",
+    "er": "meldet",
+    "wir": "melden",
+    "ihr": "meldet",
+    "sie": "melden"
    }
   }
  ]

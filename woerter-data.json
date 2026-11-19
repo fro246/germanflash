@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085590904,
+ "updatedAt": 1795085610103,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10258,6 +10258,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Anschlüsse"
+  },
+  {
+   "id": "mwnfmhdjdj5wj",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Extension",
+   "de": "Durchwahl",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Durchwahlen"
   }
  ]
 }

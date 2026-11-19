@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086177716,
+ "updatedAt": 1795086183884,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10693,6 +10693,24 @@
    "type": "other",
    "en": "last",
    "de": "letzte",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwnfyqsd0rj7w",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "really",
+   "de": "wirklich",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwnfys3wpdtad",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "just",
+   "de": "mal",
    "level": "A1.2"
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085228267,
+ "updatedAt": 1795085240112,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9919,6 +9919,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Projekte"
+  },
+  {
+   "id": "mwnfejw0y2nv2",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Task",
+   "de": "Aufgarbe",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Aufgarben"
   }
  ]
 }

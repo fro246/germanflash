@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085539449,
+ "updatedAt": 1795085553117,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10214,6 +10214,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Prüfungen"
+  },
+  {
+   "id": "mwnfl9elz00c6",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Statistic",
+   "de": "Statistik",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Statistiken"
   }
  ]
 }

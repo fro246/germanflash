@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086412684,
+ "updatedAt": 1795086453193,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6355,7 +6355,7 @@
   {
    "id": "mvkv7ws0wwves",
    "hits": 2,
-   "misses": 7,
+   "misses": 8,
    "type": "noun",
    "en": "Landlord",
    "de": "Hausmeister",
@@ -6639,15 +6639,15 @@
   {
    "id": "mvkveuypgpdp5",
    "hits": 1,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Media",
    "de": "Medien",
    "level": "A1.2",
    "article": "die",
    "plural": "",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvf79pb51fg",
@@ -6984,7 +6984,7 @@
   },
   {
    "id": "mvkvooy2zmath",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Specialty",
@@ -6992,8 +6992,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Spezialitäten",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvp193harcp",
@@ -10366,7 +10366,7 @@
   },
   {
    "id": "mwnfqmj8gnoyn",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Event",
@@ -10374,8 +10374,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Veranstaltungen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwnfr0tkjsnpl",

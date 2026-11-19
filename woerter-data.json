@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085779950,
+ "updatedAt": 1795085803412,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10355,6 +10355,17 @@
     "ihr": "verbindet",
     "sie": "verbinden"
    }
+  },
+  {
+   "id": "mwnfqmj8gnoyn",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Event",
+   "de": "Veranstaltung",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Veranstaltungen"
   }
  ]
 }

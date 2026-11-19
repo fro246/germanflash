@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086673156,
+ "updatedAt": 1795086708491,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6316,15 +6316,15 @@
   {
    "id": "mvkv6ylo92a02",
    "hits": 3,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Everyday Working Life",
    "de": "Arbeitsalltag",
    "level": "A1.2",
    "article": "der",
    "plural": "",
-   "box": 3,
-   "streak": 3
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkv7cugqrdca",
@@ -7364,14 +7364,14 @@
   },
   {
    "id": "mvkvwbmm0nj2s",
-   "hits": 2,
+   "hits": 3,
    "misses": 0,
    "type": "other",
    "en": "heavy",
    "de": "schwer",
    "level": "A1.2",
-   "box": 3,
-   "streak": 5
+   "box": 4,
+   "streak": 6
   },
   {
    "id": "mvkvwhzcz1xfw",
@@ -7938,8 +7938,8 @@
   },
   {
    "id": "mw12rnorceluv",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "verb",
    "en": "to receive",
    "de": "bekommen",
@@ -7951,7 +7951,9 @@
     "wir": "bekommen",
     "ihr": "bekommt",
     "sie": "bekommen"
-   }
+   },
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw12ryxzsdx1r",
@@ -10306,7 +10308,7 @@
   {
    "id": "mwnfn7mgcazti",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "other",
    "en": "occupied",
    "de": "besetzt",

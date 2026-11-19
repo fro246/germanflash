@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085803412,
+ "updatedAt": 1795085821928,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10366,6 +10366,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Veranstaltungen"
+  },
+  {
+   "id": "mwnfr0tkjsnpl",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Carousel",
+   "de": "Karussell",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Karusselle"
   }
  ]
 }

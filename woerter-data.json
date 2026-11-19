@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085298472,
+ "updatedAt": 1795085308027,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9982,6 +9982,15 @@
    "type": "other",
    "en": "Unemployed",
    "de": "arbeitslos",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwnfg0aj6s6qm",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "through / by",
+   "de": "durch",
    "level": "A1.2"
   }
  ]

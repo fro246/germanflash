@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086104050,
+ "updatedAt": 1795086115865,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10586,6 +10586,23 @@
     "wir": "fliegen",
     "ihr": "fliegt",
     "sie": "fliegen"
+   }
+  },
+  {
+   "id": "mwnfxbmh75esq",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to train",
+   "de": "trainieren",
+   "level": "A1.2",
+   "forms": {
+    "ich": "trainiere",
+    "du": "trainierst",
+    "er": "trainiert",
+    "wir": "trainieren",
+    "ihr": "trainiert",
+    "sie": "trainieren"
    }
   }
  ]

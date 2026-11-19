@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085527555,
+ "updatedAt": 1795085539449,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10203,6 +10203,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": ""
+  },
+  {
+   "id": "mwnfkyux1zd0e",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Exam",
+   "de": "Prüfung",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Prüfungen"
   }
  ]
 }

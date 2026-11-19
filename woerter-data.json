@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085633339,
+ "updatedAt": 1795085644120,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10277,6 +10277,15 @@
    "type": "other",
    "en": "diligent",
    "de": "fleißig",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwnfn7mgcazti",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "occupied",
+   "de": "besetzt",
    "level": "A1.2"
   }
  ]

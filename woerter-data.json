@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085308027,
+ "updatedAt": 1795085324291,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9992,6 +9992,23 @@
    "en": "through / by",
    "de": "durch",
    "level": "A1.2"
+  },
+  {
+   "id": "mwnfgcubeu6yi",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to earn",
+   "de": "verdienen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "verdiene",
+    "du": "verdienst",
+    "er": "verdient",
+    "wir": "verdienen",
+    "ihr": "verdient",
+    "sie": "verdienen"
+   }
   }
  ]
 }

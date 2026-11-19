@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085378190,
+ "updatedAt": 1795085388618,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10071,6 +10071,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Händler"
+  },
+  {
+   "id": "mwnfhqh6ut78z",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Goods",
+   "de": "Ware",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Waren"
   }
  ]
 }

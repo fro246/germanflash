@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085263024,
+ "updatedAt": 1795085270010,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9952,6 +9952,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Profile"
+  },
+  {
+   "id": "mwnff6yi7s1vz",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Internet",
+   "de": "Internet",
+   "level": "A1.2",
+   "article": "das",
+   "plural": ""
   }
  ]
 }

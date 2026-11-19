@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086257462,
+ "updatedAt": 1795086305198,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6341,7 +6341,7 @@
   },
   {
    "id": "mvkv7pcl8947e",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Dentist",
@@ -6349,8 +6349,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Zahnärzte",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkv7ws0wwves",
@@ -6840,7 +6840,7 @@
   {
    "id": "mvkvl1lnd2bnc",
    "hits": 0,
-   "misses": 4,
+   "misses": 5,
    "type": "verb",
    "en": "to transfer",
    "de": "überweisen",
@@ -7165,7 +7165,7 @@
   },
   {
    "id": "mvkvsqu13hocd",
-   "hits": 0,
+   "hits": 1,
    "misses": 3,
    "type": "noun",
    "en": "Adult",
@@ -7173,8 +7173,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Erwachsenen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvt1644fr1u",

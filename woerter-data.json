@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085240112,
+ "updatedAt": 1795085251222,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9930,6 +9930,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Aufgarben"
+  },
+  {
+   "id": "mwnfesgmca1cy",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Application",
+   "de": "Bewerbung",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Bewerbungen"
   }
  ]
 }

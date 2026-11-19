@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795087015563,
+ "updatedAt": 1795087059279,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6960,7 +6960,7 @@
   },
   {
    "id": "mvkvnzloxudgf",
-   "hits": 2,
+   "hits": 3,
    "misses": 3,
    "type": "noun",
    "en": "Song",
@@ -6968,8 +6968,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Lieder",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvoauqgmcpt",
@@ -7563,14 +7563,14 @@
   },
   {
    "id": "mvzrwgbsn3ejn",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "other",
    "en": "doesn't matter",
    "de": "egal",
    "level": "A1.2",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvzrwtgo61nmh",
@@ -7886,8 +7886,8 @@
   },
   {
    "id": "mvzs4dsyyzj7v",
-   "hits": 1,
-   "misses": 1,
+   "hits": 2,
+   "misses": 2,
    "type": "noun",
    "en": "Ear",
    "de": "Ohr",
@@ -8815,7 +8815,7 @@
   },
   {
    "id": "mwezowjg77rgf",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Room",
@@ -8823,8 +8823,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Räume",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwezp4csvokhh",
@@ -9010,14 +9010,16 @@
   },
   {
    "id": "mweztd35tiu2p",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Nearby",
    "de": "Nähe",
    "level": "A1.2",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mweztwek3v43v",
@@ -9971,14 +9973,16 @@
   },
   {
    "id": "mwnfesgmca1cy",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Application",
    "de": "Bewerbung",
    "level": "A1.2",
    "article": "die",
-   "plural": "Bewerbungen"
+   "plural": "Bewerbungen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwnff1kgisl4y",

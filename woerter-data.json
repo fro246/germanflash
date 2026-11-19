@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085710605,
+ "updatedAt": 1795085741025,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10320,6 +10320,23 @@
     "wir": "melden",
     "ihr": "meldet",
     "sie": "melden"
+   }
+  },
+  {
+   "id": "mwnfpae9tcak1",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to ask",
+   "de": "nachfragen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "frage nach",
+    "du": "fragst nach",
+    "er": "fragt nach",
+    "wir": "fragen nach",
+    "ihr": "fragt nach",
+    "sie": "fragen nach"
    }
   }
  ]

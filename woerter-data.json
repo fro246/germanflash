@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086032342,
+ "updatedAt": 1795086048611,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10542,6 +10542,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Spaziergangen"
+  },
+  {
+   "id": "mwnfvvqbw0qjm",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Tennis court",
+   "de": "Tennisplatz",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Tennisplätze"
   }
  ]
 }

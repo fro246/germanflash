@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085979084,
+ "updatedAt": 1795085991164,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10498,6 +10498,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Ehefrauen"
+  },
+  {
+   "id": "mwnfuneka4m06",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Husband",
+   "de": "Ehemann",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Ehemänner"
   }
  ]
 }

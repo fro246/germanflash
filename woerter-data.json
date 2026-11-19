@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085741025,
+ "updatedAt": 1795085779950,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10337,6 +10337,23 @@
     "wir": "fragen nach",
     "ihr": "fragt nach",
     "sie": "fragen nach"
+   }
+  },
+  {
+   "id": "mwnfq4figdc9r",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to connect",
+   "de": "verbinden",
+   "level": "A1.2",
+   "forms": {
+    "ich": "verbinde",
+    "du": "verbindest",
+    "er": "verbindet",
+    "wir": "verbinden",
+    "ihr": "verbindet",
+    "sie": "verbinden"
    }
   }
  ]

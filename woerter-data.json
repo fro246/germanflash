@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086115865,
+ "updatedAt": 1795086125545,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10604,6 +10604,15 @@
     "ihr": "trainiert",
     "sie": "trainieren"
    }
+  },
+  {
+   "id": "mwnfxj3dqkat2",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "both",
+   "de": "beide",
+   "level": "A1.2"
   }
  ]
 }

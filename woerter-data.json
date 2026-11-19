@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085821928,
+ "updatedAt": 1795085842468,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10377,6 +10377,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Karusselle"
+  },
+  {
+   "id": "mwnfrgo4rxjt1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Christmas market",
+   "de": "Weihnachtsmarkt",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Weihnachtsmärkte"
   }
  ]
 }

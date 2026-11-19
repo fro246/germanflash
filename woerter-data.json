@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085991164,
+ "updatedAt": 1795086005152,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10509,6 +10509,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Ehemänner"
+  },
+  {
+   "id": "mwnfuy74ow368",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "News",
+   "de": "Nachrichten",
+   "level": "A1.2",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

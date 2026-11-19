@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085423315,
+ "updatedAt": 1795085437480,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10115,6 +10115,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Segellehrer"
+  },
+  {
+   "id": "mwnfis6gkyxlm",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Secretary",
+   "de": "Sekretär",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Sekretäre"
   }
  ]
 }

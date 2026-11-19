@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086081349,
+ "updatedAt": 1795086104050,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10569,6 +10569,23 @@
     "wir": "finden statt",
     "ihr": "findet statt",
     "sie": "finden statt"
+   }
+  },
+  {
+   "id": "mwnfx2iat3a6k",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to fly",
+   "de": "fliegen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "fliege",
+    "du": "fliegst",
+    "er": "fliegt",
+    "wir": "fliegen",
+    "ihr": "fliegt",
+    "sie": "fliegen"
    }
   }
  ]

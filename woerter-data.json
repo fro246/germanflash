@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085519917,
+ "updatedAt": 1795085527555,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10192,6 +10192,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Semester"
+  },
+  {
+   "id": "mwnfkpojjfrcd",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Lesson",
+   "de": "Unterricht",
+   "level": "A1.2",
+   "article": "der",
+   "plural": ""
   }
  ]
 }

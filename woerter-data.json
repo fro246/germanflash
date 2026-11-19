@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085842468,
+ "updatedAt": 1795085858558,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10388,6 +10388,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Weihnachtsmärkte"
+  },
+  {
+   "id": "mwnfrt32sk493",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Attraction",
+   "de": "Attraktion",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Attraktionen"
   }
  ]
 }

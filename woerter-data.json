@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086353560,
+ "updatedAt": 1795086412684,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6355,15 +6355,15 @@
   {
    "id": "mvkv7ws0wwves",
    "hits": 2,
-   "misses": 6,
+   "misses": 7,
    "type": "noun",
    "en": "Landlord",
    "de": "Hausmeister",
    "level": "A1.2",
    "article": "der",
    "plural": "Hausmeister",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkv88dc30rqu",
@@ -6406,7 +6406,7 @@
   },
   {
    "id": "mvkv9jszwycrp",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Report",
@@ -6414,8 +6414,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Berichte",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkva253lqhy4",
@@ -9655,12 +9655,14 @@
   },
   {
    "id": "mwf08rpgl0jss",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "red",
    "de": "rot",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwf08vej6emgt",
@@ -10365,13 +10367,15 @@
   {
    "id": "mwnfqmj8gnoyn",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Event",
    "de": "Veranstaltung",
    "level": "A1.2",
    "article": "die",
-   "plural": "Veranstaltungen"
+   "plural": "Veranstaltungen",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwnfr0tkjsnpl",
@@ -10562,7 +10566,7 @@
   },
   {
    "id": "mwnfwkzpiqywe",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to take place",
@@ -10575,7 +10579,9 @@
     "wir": "finden statt",
     "ihr": "findet statt",
     "sie": "finden statt"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwnfx2iat3a6k",
@@ -10669,12 +10675,14 @@
   },
   {
    "id": "mwnfy86r4d92k",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "other",
    "en": "earlier",
    "de": "frührer",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwnfyd0tt5p1w",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086963808,
+ "updatedAt": 1795087015563,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -6960,8 +6960,8 @@
   },
   {
    "id": "mvkvnzloxudgf",
-   "hits": 1,
-   "misses": 2,
+   "hits": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Song",
    "de": "Lied",
@@ -7443,7 +7443,7 @@
   },
   {
    "id": "mvzrt0ij202z9",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "noun",
    "en": "Candy",
@@ -7451,8 +7451,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Süßigkeiten",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvzru2soan0t7",
@@ -8486,14 +8486,16 @@
   },
   {
    "id": "mw1397wwc8zqc",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Window",
    "de": "Fenster",
    "level": "A1.2",
    "article": "das",
-   "plural": "Fenster"
+   "plural": "Fenster",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw139iwowi4ie",
@@ -8814,13 +8816,15 @@
   {
    "id": "mwezowjg77rgf",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Room",
    "de": "Raum",
    "level": "A1.2",
    "article": "der",
-   "plural": "Räume"
+   "plural": "Räume",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwezp4csvokhh",
@@ -9780,12 +9784,14 @@
   },
   {
    "id": "mwf0a0jougcjo",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "positive",
    "de": "positiv",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwf0a5aezadx9",
@@ -10562,14 +10568,16 @@
   },
   {
    "id": "mwnfuy74ow368",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "News",
    "de": "Nachrichten",
    "level": "A1.2",
    "article": "die",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwnfv8qqi0on5",

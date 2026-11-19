@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086005152,
+ "updatedAt": 1795086018818,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10520,6 +10520,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": ""
+  },
+  {
+   "id": "mwnfv8qqi0on5",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Radio show",
+   "de": "Radiosendung",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Radiosendungen"
   }
  ]
 }

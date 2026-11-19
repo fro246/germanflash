@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086048611,
+ "updatedAt": 1795086081349,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10553,6 +10553,23 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Tennisplätze"
+  },
+  {
+   "id": "mwnfwkzpiqywe",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to take place",
+   "de": "stattfinden",
+   "level": "A1.2",
+   "forms": {
+    "ich": "finde statt",
+    "du": "findest statt",
+    "er": "findet statt",
+    "wir": "finden statt",
+    "ihr": "findet statt",
+    "sie": "finden statt"
+   }
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085916296,
+ "updatedAt": 1795085923126,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10432,6 +10432,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Zuschauer"
+  },
+  {
+   "id": "mwnft6wmsak6m",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Opera",
+   "de": "Oper",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Opern"
   }
  ]
 }

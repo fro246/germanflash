@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085557829,
+ "updatedAt": 1795085573974,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10236,6 +10236,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Listen"
+  },
+  {
+   "id": "mwnflphyo22ef",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Call",
+   "de": "Anruf",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Anrufe"
   }
  ]
 }

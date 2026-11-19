@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085251222,
+ "updatedAt": 1795085263024,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9941,6 +9941,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Bewerbungen"
+  },
+  {
+   "id": "mwnff1kgisl4y",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Profile",
+   "de": "Profil",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Profile"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795085893890,
+ "updatedAt": 1795085916296,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10421,6 +10421,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Statisten"
+  },
+  {
+   "id": "mwnft1mwgmsg3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Viewer",
+   "de": "Zuschauer",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Zuschauer"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795087059279,
+ "updatedAt": 1795087071157,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7146,13 +7146,13 @@
   {
    "id": "mvkvrz9kcygh4",
    "hits": 1,
-   "misses": 1,
+   "misses": 2,
    "type": "other",
    "en": "understood",
    "de": "alles klar",
    "level": "A1.2",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvs9g80mca1",
@@ -9323,14 +9323,16 @@
   },
   {
    "id": "mwf01b8rrbs74",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Coffee machine",
    "de": "Kaffeemaschine",
    "level": "A1.2",
    "article": "die",
-   "plural": "Kaffeemaschinen"
+   "plural": "Kaffeemaschinen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwf01tszsk39e",

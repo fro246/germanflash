@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086138457,
+ "updatedAt": 1795086148186,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10630,6 +10630,24 @@
    "type": "other",
    "en": "hurry",
    "de": "eilig",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwnfxya95nbep",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "friendly",
+   "de": "freundlich",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwnfy0ka2jsep",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "empty",
+   "de": "leer",
    "level": "A1.2"
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795086158067,
+ "updatedAt": 1795086167169,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10666,6 +10666,24 @@
    "type": "other",
    "en": "earlier",
    "de": "frührer",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwnfyd0tt5p1w",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "in total",
+   "de": "insgesamt",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwnfyf7l8f67z",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "barely",
+   "de": "kaum",
    "level": "A1.2"
   }
  ]

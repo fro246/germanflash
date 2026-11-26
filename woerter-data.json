@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706921357,
+ "updatedAt": 1795706985375,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11772,6 +11772,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Höfe"
+  },
+  {
+   "id": "mwxpkplracno8",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Youths",
+   "de": "Jugendliche",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Jugendlichen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706854568,
+ "updatedAt": 1795706867835,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11714,6 +11714,15 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Erfindungen"
+  },
+  {
+   "id": "mwxpi6wrmpufd",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "current",
+   "de": "aktuell",
+   "level": "A1.2"
   }
  ]
 }

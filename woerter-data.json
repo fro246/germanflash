@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706458408,
+ "updatedAt": 1795706492051,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11517,6 +11517,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Bleistifte"
+  },
+  {
+   "id": "mwxpa4yb8r80n",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Magazine",
+   "de": "Zeitschrift",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Zeitschriften"
   }
  ]
 }

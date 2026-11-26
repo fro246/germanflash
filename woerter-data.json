@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706541344,
+ "updatedAt": 1795706554048,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11572,6 +11572,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Kameras"
+  },
+  {
+   "id": "mwxpbgsgl4cs7",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Household",
+   "de": "Haushalt",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Haushalte"
   }
  ]
 }

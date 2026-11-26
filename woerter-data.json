@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705821964,
+ "updatedAt": 1795705846757,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11135,6 +11135,17 @@
     "ihr": "shoppt",
     "sie": "shoppen"
    }
+  },
+  {
+   "id": "mwxowb1hftva1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Fashion",
+   "de": "Mode",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Moden"
   }
  ]
 }

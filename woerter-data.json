@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705507638,
+ "updatedAt": 1795705516167,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10887,6 +10887,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Sweatshirts"
+  },
+  {
+   "id": "mwxop7yf4k1gs",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Skirt",
+   "de": "Rock",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Röcke"
   }
  ]
 }

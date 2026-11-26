@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706531290,
+ "updatedAt": 1795706541344,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11561,6 +11561,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Duschgels"
+  },
+  {
+   "id": "mwxpb6zk9vkzw",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Camera",
+   "de": "Kamera",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Kameras"
   }
  ]
 }

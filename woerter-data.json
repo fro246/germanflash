@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705846757,
+ "updatedAt": 1795705859403,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11146,6 +11146,15 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Moden"
+  },
+  {
+   "id": "mwxowksrtqjao",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "comfortable",
+   "de": "bequem",
+   "level": "A1.2"
   }
  ]
 }

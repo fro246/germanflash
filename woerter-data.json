@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705784000,
+ "updatedAt": 1795705793424,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11096,6 +11096,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Secondhand-Läden"
+  },
+  {
+   "id": "mwxov5w0ojle1",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Shop",
+   "de": "Shop",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Shops"
   }
  ]
 }

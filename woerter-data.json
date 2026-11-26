@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705793424,
+ "updatedAt": 1795705804575,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11107,6 +11107,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Shops"
+  },
+  {
+   "id": "mwxovehrwkng0",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Checkout",
+   "de": "Kasse",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Kassen"
   }
  ]
 }

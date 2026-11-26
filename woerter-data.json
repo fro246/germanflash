@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706239552,
+ "updatedAt": 1795706251171,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11387,6 +11387,23 @@
     "wir": "entdecken",
     "ihr": "entdeckt",
     "sie": "entdecken"
+   }
+  },
+  {
+   "id": "mwxp4z37s436a",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to get",
+   "de": "kriegen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "kriege",
+    "du": "kriegst",
+    "er": "kriegt",
+    "wir": "kriegen",
+    "ihr": "kriegt",
+    "sie": "kriegen"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705430449,
+ "updatedAt": 1795705446273,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10843,6 +10843,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Jeans"
+  },
+  {
+   "id": "mwxonq0xpdygt",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "T-Shirt",
+   "de": "T-Shirt",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "T-Shirts"
   }
  ]
 }

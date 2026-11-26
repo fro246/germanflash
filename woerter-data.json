@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707308914,
+ "updatedAt": 1795707317955,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11924,6 +11924,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Berge"
+  },
+  {
+   "id": "mwxpru83daz8f",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Island",
+   "de": "Insel",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Inseln"
   }
  ]
 }

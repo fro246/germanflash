@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706088100,
+ "updatedAt": 1795706095371,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11285,6 +11285,23 @@
     "wir": "passen",
     "ihr": "passt",
     "sie": "passen"
+   }
+  },
+  {
+   "id": "mwxp1mvfyb9u5",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to mean",
+   "de": "meinen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "meine",
+    "du": "meinst",
+    "er": "meint",
+    "wir": "meinen",
+    "ihr": "meint",
+    "sie": "meinen"
    }
   }
  ]

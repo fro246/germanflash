@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706221524,
+ "updatedAt": 1795706239552,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11370,6 +11370,23 @@
     "wir": "empfehlen",
     "ihr": "empfehlt",
     "sie": "empfehlen"
+   }
+  },
+  {
+   "id": "mwxp4q4g2w9of",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to discover",
+   "de": "entdecken",
+   "level": "A1.2",
+   "forms": {
+    "ich": "entdecke",
+    "du": "entdeckst",
+    "er": "entdeckt",
+    "wir": "entdecken",
+    "ihr": "entdeckt",
+    "sie": "entdecken"
    }
   }
  ]

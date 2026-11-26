@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707197209,
+ "updatedAt": 1795707239326,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11880,6 +11880,17 @@
    "en": "without",
    "de": "ohne",
    "level": "A1.2"
+  },
+  {
+   "id": "mwxpq5jyj00vm",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Beach trip",
+   "de": "Badeurlaub",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Badeurlaube"
   }
  ]
 }

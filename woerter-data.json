@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706812169,
+ "updatedAt": 1795706828418,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11681,6 +11681,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Designs"
+  },
+  {
+   "id": "mwxphchule9s8",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Architecture",
+   "de": "Architektur",
+   "level": "A1.2",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705608591,
+ "updatedAt": 1795705619614,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10975,6 +10975,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Schuhe"
+  },
+  {
+   "id": "mwxorfryn8jg6",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Boot",
+   "de": "Stiefel",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Stiefel"
   }
  ]
 }

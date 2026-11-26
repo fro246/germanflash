@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706303201,
+ "updatedAt": 1795706349190,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11438,6 +11438,23 @@
     "wir": "tauschen an",
     "ihr": "tauscht an",
     "sie": "tauschen an"
+   }
+  },
+  {
+   "id": "mwxp72pyuv9c1",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to send back",
+   "de": "zurückschicken",
+   "level": "A1.2",
+   "forms": {
+    "ich": "schicke zurück",
+    "du": "schickst zurück",
+    "er": "schickt zurück",
+    "wir": "schicken zurück",
+    "ihr": "schickt zurück",
+    "sie": "schicken zurück"
    }
   }
  ]

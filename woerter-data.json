@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705536955,
+ "updatedAt": 1795705552667,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10920,6 +10920,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Kleider"
+  },
+  {
+   "id": "mwxoq04b2to2y",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Suit",
+   "de": "Anzug",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Anzüge"
   }
  ]
 }

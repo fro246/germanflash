@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705516167,
+ "updatedAt": 1795705526476,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10898,6 +10898,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Röcke"
+  },
+  {
+   "id": "mwxopfws6yrdr",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Blouse",
+   "de": "Bluse",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Blusen"
   }
  ]
 }

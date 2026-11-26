@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706007986,
+ "updatedAt": 1795706044142,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11234,6 +11234,23 @@
     "wir": "tragen",
     "ihr": "tragt",
     "sie": "tragen"
+   }
+  },
+  {
+   "id": "mwxp0jcehlkmp",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to suit (something suits someone)",
+   "de": "stehen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "stehe",
+    "du": "stehst",
+    "er": "steht",
+    "wir": "stehen",
+    "ihr": "steht",
+    "sie": "stehen"
    }
   }
  ]

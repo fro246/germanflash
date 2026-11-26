@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706387493,
+ "updatedAt": 1795706396708,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11484,6 +11484,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Produkte"
+  },
+  {
+   "id": "mwxp83dwr0wfx",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Paper",
+   "de": "Papier",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Papiere"
   }
  ]
 }

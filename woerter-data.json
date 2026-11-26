@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707282131,
+ "updatedAt": 1795707292914,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11902,6 +11902,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Campingurlaube"
+  },
+  {
+   "id": "mwxprawiyl8pn",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "City trip",
+   "de": "Stadturlaub",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Stadturlaube"
   }
  ]
 }

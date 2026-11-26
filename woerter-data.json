@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707114585,
+ "updatedAt": 1795707148550,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11817,6 +11817,15 @@
     "ihr": "seht fern",
     "sie": "sehen fern"
    }
+  },
+  {
+   "id": "mwxpo7ie1r5tt",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "easy",
+   "de": "einfach",
+   "level": "A1.2"
   }
  ]
 }

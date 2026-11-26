@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706803689,
+ "updatedAt": 1795706812169,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11670,6 +11670,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Hauptstädte"
+  },
+  {
+   "id": "mwxpgzyh74n1b",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Design",
+   "de": "Design",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Designs"
   }
  ]
 }

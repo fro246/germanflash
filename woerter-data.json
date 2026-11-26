@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707525612,
+ "updatedAt": 1795707539792,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -12034,6 +12034,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Badehosen"
+  },
+  {
+   "id": "mwxpwle8hps5b",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Bikini",
+   "de": "Bikini",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Bikinis"
   }
  ]
 }

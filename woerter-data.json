@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706668128,
+ "updatedAt": 1795706703523,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11648,6 +11648,17 @@
     "ihr": "schließt",
     "sie": "schließen"
    }
+  },
+  {
+   "id": "mwxpeo4j93fme",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Sign",
+   "de": "Schild",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Schilder"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707391266,
+ "updatedAt": 1795707406036,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11990,6 +11990,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Postkarten"
+  },
+  {
+   "id": "mwxptq6sfho3u",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Baggage",
+   "de": "Gepäck",
+   "level": "A1.2",
+   "article": "das",
+   "plural": ""
   }
  ]
 }

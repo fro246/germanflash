@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705901205,
+ "updatedAt": 1795706007986,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11218,6 +11218,23 @@
    "en": "stupid",
    "de": "doof",
    "level": "A1.2"
+  },
+  {
+   "id": "mwxozrg2v31s4",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to wear",
+   "de": "tragen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "trage",
+    "du": "trägst",
+    "er": "trägt",
+    "wir": "tragen",
+    "ihr": "tragt",
+    "sie": "tragen"
+   }
   }
  ]
 }

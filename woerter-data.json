@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706649733,
+ "updatedAt": 1795706668128,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11630,6 +11630,23 @@
     "wir": "öffnen",
     "ihr": "öffnet",
     "sie": "öffnen"
+   }
+  },
+  {
+   "id": "mwxpdwtc6qmrw",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to close",
+   "de": "schließen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "schließe",
+    "du": "schließt",
+    "er": "schließt",
+    "wir": "schließen",
+    "ihr": "schließt",
+    "sie": "schließen"
    }
   }
  ]

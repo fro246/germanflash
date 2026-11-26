@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706840154,
+ "updatedAt": 1795706854568,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11703,6 +11703,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Souvenirs"
+  },
+  {
+   "id": "mwxphwo8szpy3",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Invention",
+   "de": "Erfindung",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Erfindungen"
   }
  ]
 }

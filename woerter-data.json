@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705526476,
+ "updatedAt": 1795705536955,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10909,6 +10909,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Blusen"
+  },
+  {
+   "id": "mwxopnzv46vi8",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Dress",
+   "de": "Kleid",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Kleider"
   }
  ]
 }

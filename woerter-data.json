@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705722871,
+ "updatedAt": 1795705746847,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11063,6 +11063,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": ""
+  },
+  {
+   "id": "mwxou5y7ww4t0",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Clothing store",
+   "de": "Kleidergeschäft",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Kleidergeschäfte"
   }
  ]
 }

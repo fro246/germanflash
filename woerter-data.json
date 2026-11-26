@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706193412,
+ "updatedAt": 1795706221524,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11353,6 +11353,23 @@
     "wir": "probieren an",
     "ihr": "probiert an",
     "sie": "probieren an"
+   }
+  },
+  {
+   "id": "mwxp4c7oupmgf",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to recommend",
+   "de": "empfehlen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "empfehle",
+    "du": "empfiehlst",
+    "er": "empfiehlt",
+    "wir": "empfehlen",
+    "ihr": "empfehlt",
+    "sie": "empfehlen"
    }
   }
  ]

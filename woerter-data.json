@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706122169,
+ "updatedAt": 1795706163057,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11319,6 +11319,23 @@
     "wir": "ziehen an",
     "ihr": "zieht an",
     "sie": "ziehen an"
+   }
+  },
+  {
+   "id": "mwxp333kci3s9",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to take off",
+   "de": "ausziehen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "ziehe aus",
+    "du": "ziehst aus",
+    "er": "zieht aus",
+    "wir": "ziehen aus",
+    "ihr": "zieht aus",
+    "sie": "ziehen aus"
    }
   }
  ]

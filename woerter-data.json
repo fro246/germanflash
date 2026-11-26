@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706251171,
+ "updatedAt": 1795706271408,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11404,6 +11404,23 @@
     "wir": "kriegen",
     "ihr": "kriegt",
     "sie": "kriegen"
+   }
+  },
+  {
+   "id": "mwxp5epc2m3wf",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to arrive",
+   "de": "ankommen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "komme an",
+    "du": "kommst an",
+    "er": "kommt an",
+    "wir": "kommen an",
+    "ihr": "kommt an",
+    "sie": "kommen an"
    }
   }
  ]

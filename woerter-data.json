@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705476003,
+ "updatedAt": 1795705507638,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10876,6 +10876,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Pullover"
+  },
+  {
+   "id": "mwxop1didloru",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Sweatshirt",
+   "de": "Sweatshirt",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Sweatshirts"
   }
  ]
 }

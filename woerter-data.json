@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706878715,
+ "updatedAt": 1795706889042,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11740,6 +11740,15 @@
    "type": "other",
    "en": "original",
    "de": "originell",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwxpin9uftozk",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "attractive",
+   "de": "attraktiv",
    "level": "A1.2"
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705713435,
+ "updatedAt": 1795705722871,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11052,6 +11052,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Uhren"
+  },
+  {
+   "id": "mwxotng7sjeyo",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Jewelry",
+   "de": "Schmuck",
+   "level": "A1.2",
+   "article": "der",
+   "plural": ""
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707079953,
+ "updatedAt": 1795707114585,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11799,6 +11799,23 @@
     "wir": "gehen aus",
     "ihr": "geht aus",
     "sie": "gehen aus"
+   }
+  },
+  {
+   "id": "mwxpnhax49y1m",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to watch TV",
+   "de": "fernsehen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "sehe fern",
+    "du": "siehst fern",
+    "er": "sieht fern",
+    "wir": "sehen fern",
+    "ihr": "seht fern",
+    "sie": "sehen fern"
    }
   }
  ]

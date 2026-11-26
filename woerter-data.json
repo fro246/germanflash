@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705804575,
+ "updatedAt": 1795705821964,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11118,6 +11118,23 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Kassen"
+  },
+  {
+   "id": "mwxovrwsmsbww",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to shop",
+   "de": "shoppen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "shoppe",
+    "du": "shoppst",
+    "er": "shoppt",
+    "wir": "shoppen",
+    "ihr": "shoppt",
+    "sie": "shoppen"
+   }
   }
  ]
 }

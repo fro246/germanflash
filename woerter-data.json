@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707317955,
+ "updatedAt": 1795707340040,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11935,6 +11935,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Inseln"
+  },
+  {
+   "id": "mwxpsb9k1h3ku",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Attraction",
+   "de": "Sehenswürdigkeit",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Sehenswürdigkeiten"
   }
  ]
 }

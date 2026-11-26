@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705761752,
+ "updatedAt": 1795705784000,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11085,6 +11085,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Kaufhäuser"
+  },
+  {
+   "id": "mwxouym8xvxsn",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Thrift store",
+   "de": "Secondhand-Laden",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Secondhand-Läden"
   }
  ]
 }

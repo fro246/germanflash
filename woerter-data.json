@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706907074,
+ "updatedAt": 1795706921357,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11761,6 +11761,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Sachen"
+  },
+  {
+   "id": "mwxpjc7h480yr",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Courtyard",
+   "de": "Hof",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Höfe"
   }
  ]
 }

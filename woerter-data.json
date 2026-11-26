@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705683070,
+ "updatedAt": 1795705713435,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11041,6 +11041,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Taschen"
+  },
+  {
+   "id": "mwxotg6342fiw",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Watch",
+   "de": "Uhr",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Uhren"
   }
  ]
 }

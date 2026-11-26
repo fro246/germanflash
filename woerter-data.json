@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705407782,
+ "updatedAt": 1795705420950,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10821,6 +10821,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": ""
+  },
+  {
+   "id": "mwxon6hiccggz",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Pants",
+   "de": "Hose",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Hosen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707169804,
+ "updatedAt": 1795707175626,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11843,6 +11843,15 @@
    "type": "other",
    "en": "nonsense",
    "de": "quatsch",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwxposei3bpvt",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "evil",
+   "de": "böse",
    "level": "A1.2"
   }
  ]

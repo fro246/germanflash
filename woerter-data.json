@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706095371,
+ "updatedAt": 1795706122169,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11302,6 +11302,23 @@
     "wir": "meinen",
     "ihr": "meint",
     "sie": "meinen"
+   }
+  },
+  {
+   "id": "mwxp27jtokkud",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to put on",
+   "de": "anziehen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "ziehe an",
+    "du": "ziehst an",
+    "er": "zieht an",
+    "wir": "ziehen an",
+    "ihr": "zieht an",
+    "sie": "ziehen an"
    }
   }
  ]

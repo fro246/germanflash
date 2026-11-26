@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706396708,
+ "updatedAt": 1795706420873,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11495,6 +11495,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Papiere"
+  },
+  {
+   "id": "mwxp8m15t0zep",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Pen",
+   "de": "Kugelschreiber",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Kugelschreiber"
   }
  ]
 }

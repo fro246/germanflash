@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705654513,
+ "updatedAt": 1795705669599,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11019,6 +11019,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Schals"
+  },
+  {
+   "id": "mwxosicfcnu3b",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Cloth",
+   "de": "Tuch",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Tücher"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707159590,
+ "updatedAt": 1795707169804,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11834,6 +11834,15 @@
    "type": "other",
    "en": "definitely",
    "de": "auf jeden Fall",
+   "level": "A1.2"
+  },
+  {
+   "id": "mwxponws6ycuh",
+   "hits": 0,
+   "misses": 0,
+   "type": "other",
+   "en": "nonsense",
+   "de": "quatsch",
    "level": "A1.2"
   }
  ]

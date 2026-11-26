@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706636925,
+ "updatedAt": 1795706649733,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11614,6 +11614,23 @@
    "en": "practical",
    "de": "praktisch",
    "level": "A1.2"
+  },
+  {
+   "id": "mwxpdimdflgas",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to open",
+   "de": "öffnen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "öffne",
+    "du": "öffnest",
+    "er": "öffnet",
+    "wir": "öffnen",
+    "ihr": "öffnet",
+    "sie": "öffnen"
+   }
   }
  ]
 }

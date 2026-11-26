@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705641909,
+ "updatedAt": 1795705654513,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11008,6 +11008,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Hüte"
+  },
+  {
+   "id": "mwxos6pdrsfmq",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Scarf",
+   "de": "Schal",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Schals"
   }
  ]
 }

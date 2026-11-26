@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707292914,
+ "updatedAt": 1795707308914,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11913,6 +11913,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Stadturlaube"
+  },
+  {
+   "id": "mwxprn8yvbdl7",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Mountain",
+   "de": "Berg",
+   "level": "A1.2",
+   "article": "der",
+   "plural": "Berge"
   }
  ]
 }

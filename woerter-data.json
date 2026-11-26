@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706271408,
+ "updatedAt": 1795706303201,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11421,6 +11421,23 @@
     "wir": "kommen an",
     "ihr": "kommt an",
     "sie": "kommen an"
+   }
+  },
+  {
+   "id": "mwxp638hq4tkc",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to exchange",
+   "de": "umtauschen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "tausche an",
+    "du": "tauschst an",
+    "er": "tauscht an",
+    "wir": "tauschen an",
+    "ihr": "tauscht an",
+    "sie": "tauschen an"
    }
   }
  ]

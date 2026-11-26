@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706357923,
+ "updatedAt": 1795706387493,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11473,6 +11473,17 @@
     "ihr": "nervt",
     "sie": "nerven"
    }
+  },
+  {
+   "id": "mwxp7w9x2gjez",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Product",
+   "de": "Produkt",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Produkte"
   }
  ]
 }

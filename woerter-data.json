@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705619614,
+ "updatedAt": 1795705631403,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10986,6 +10986,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Stiefel"
+  },
+  {
+   "id": "mwxorovfxfswi",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Beanie",
+   "de": "Mütze",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Mützen"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706077626,
+ "updatedAt": 1795706088100,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11268,6 +11268,23 @@
     "wir": "gefallen",
     "ihr": "gefallt",
     "sie": "gefallen"
+   }
+  },
+  {
+   "id": "mwxp1h9g9pj84",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to fit",
+   "de": "passen",
+   "level": "A1.2",
+   "forms": {
+    "ich": "passe",
+    "du": "passt",
+    "er": "passt",
+    "wir": "passen",
+    "ihr": "passt",
+    "sie": "passen"
    }
   }
  ]

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705446273,
+ "updatedAt": 1795705457888,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10854,6 +10854,17 @@
    "level": "A1.2",
    "article": "das",
    "plural": "T-Shirts"
+  },
+  {
+   "id": "mwxonyzkw7z8l",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Shirt",
+   "de": "Hemd",
+   "level": "A1.2",
+   "article": "das",
+   "plural": "Hemden"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795087071157,
+ "updatedAt": 1795705400922,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10799,6 +10799,17 @@
     "ihr": "lauft",
     "sie": "laufen"
    }
+  },
+  {
+   "id": "mwxomr1638rud",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Clothing",
+   "de": "Kleidung",
+   "level": "A1.2",
+   "article": "die",
+   "plural": ""
   }
  ]
 }

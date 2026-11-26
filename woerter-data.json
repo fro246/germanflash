@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705420950,
+ "updatedAt": 1795705430449,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10832,6 +10832,17 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Hosen"
+  },
+  {
+   "id": "mwxondtdjl26a",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Jeans",
+   "de": "Jeans",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Jeans"
   }
  ]
 }

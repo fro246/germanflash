@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795705587410,
+ "updatedAt": 1795705597882,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10953,6 +10953,17 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Mäntel"
+  },
+  {
+   "id": "mwxoqz0avd4ga",
+   "hits": 0,
+   "misses": 0,
+   "type": "noun",
+   "en": "Jacket",
+   "de": "Jacke",
+   "level": "A1.2",
+   "article": "die",
+   "plural": "Jacken"
   }
  ]
 }

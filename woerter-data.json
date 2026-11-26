@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795706349190,
+ "updatedAt": 1795706357923,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -11455,6 +11455,23 @@
     "wir": "schicken zurück",
     "ihr": "schickt zurück",
     "sie": "schicken zurück"
+   }
+  },
+  {
+   "id": "mwxp79gju6n2v",
+   "hits": 0,
+   "misses": 0,
+   "type": "verb",
+   "en": "to annoy",
+   "de": "nerven",
+   "level": "A1.2",
+   "forms": {
+    "ich": "nerve",
+    "du": "nervst",
+    "er": "nervt",
+    "wir": "nerven",
+    "ihr": "nervt",
+    "sie": "nerven"
    }
   }
  ]

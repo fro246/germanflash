@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795875914157,
+ "updatedAt": 1795875978434,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9612,12 +9612,14 @@
   },
   {
    "id": "mwf07yxh6lr4a",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "under",
    "de": "unter",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwf082z48k2ji",
@@ -9877,7 +9879,7 @@
   },
   {
    "id": "mwf0brimwcafa",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Wood (material)",
@@ -9885,8 +9887,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Hölzer",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwf0by2jlc4vl",
@@ -9923,7 +9925,7 @@
   },
   {
    "id": "mwnfd61yg6hom",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Work place",
@@ -9931,8 +9933,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Arbeitsplätze",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwnfdcj0fl07l",
@@ -11091,13 +11093,15 @@
   {
    "id": "mwxou5y7ww4t0",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Clothing store",
    "de": "Kleidergeschäft",
    "level": "A1.2",
    "article": "das",
-   "plural": "Kleidergeschäfte"
+   "plural": "Kleidergeschäfte",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwxouhg8iwk6x",

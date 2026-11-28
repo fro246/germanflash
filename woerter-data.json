@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795875978434,
+ "updatedAt": 1795876030132,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7102,13 +7102,13 @@
   {
    "id": "mvkvrax97z53h",
    "hits": 3,
-   "misses": 3,
+   "misses": 4,
    "type": "other",
    "en": "the most",
    "de": "die meisten",
    "level": "A1.2",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvkvrf6pv12lg",
@@ -9802,14 +9802,14 @@
   },
   {
    "id": "mwf0a0jougcjo",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "other",
    "en": "positive",
    "de": "positiv",
    "level": "A1.2",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mwf0a5aezadx9",
@@ -10514,13 +10514,15 @@
   {
    "id": "mwnft6wmsak6m",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Opera",
    "de": "Oper",
    "level": "A1.2",
    "article": "die",
-   "plural": "Opern"
+   "plural": "Opern",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwnftkdchqadv",
@@ -10629,14 +10631,16 @@
   },
   {
    "id": "mwnfvvqbw0qjm",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Tennis court",
    "de": "Tennisplatz",
    "level": "A1.2",
    "article": "der",
-   "plural": "Tennisplätze"
+   "plural": "Tennisplätze",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwnfwkzpiqywe",
@@ -11047,13 +11051,15 @@
   {
    "id": "mwxosicfcnu3b",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Cloth",
    "de": "Tuch",
    "level": "A1.2",
    "article": "das",
-   "plural": "Tücher"
+   "plural": "Tücher",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwxossqmg4wjq",
@@ -11092,7 +11098,7 @@
   },
   {
    "id": "mwxou5y7ww4t0",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Clothing store",
@@ -11100,8 +11106,8 @@
    "level": "A1.2",
    "article": "das",
    "plural": "Kleidergeschäfte",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwxouhg8iwk6x",

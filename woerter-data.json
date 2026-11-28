@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795876332776,
+ "updatedAt": 1795876406258,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7712,15 +7712,15 @@
   {
    "id": "mvzrzwyfyzg7a",
    "hits": 1,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Body",
    "de": "Körper",
    "level": "A1.2",
    "article": "der",
    "plural": "Körper",
-   "box": 2,
-   "streak": 4
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mvzs08x47p2k9",
@@ -8469,15 +8469,15 @@
   {
    "id": "mw138gqtwinbv",
    "hits": 2,
-   "misses": 3,
+   "misses": 4,
    "type": "noun",
    "en": "Result",
    "de": "Ergebnis",
    "level": "A1.2",
    "article": "das",
    "plural": "Ergebnisse",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw1391boweucp",
@@ -9072,11 +9072,13 @@
   {
    "id": "mwezuoc0716rt",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "other",
    "en": "cheap (bad connotation)",
    "de": "billig",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwezuy4kn53fx",
@@ -12108,7 +12110,7 @@
   },
   {
    "id": "mwxpx6gu4663a",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to pack up",
@@ -12121,7 +12123,9 @@
     "wir": "packen ein",
     "ihr": "packt ein",
     "sie": "packen ein"
-   }
+   },
+   "box": 2,
+   "streak": 4
   }
  ]
 }

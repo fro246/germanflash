@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795875637939,
+ "updatedAt": 1795875692799,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8005,15 +8005,15 @@
   {
    "id": "mw12tjo7lmtxy",
    "hits": 1,
-   "misses": 2,
+   "misses": 3,
    "type": "noun",
    "en": "Injured person",
    "de": "Verletzte",
    "level": "A1.2",
    "article": "die",
    "plural": "Verletzten",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mw12tymqvs9y7",
@@ -9622,12 +9622,14 @@
   },
   {
    "id": "mwf085tpwtuzu",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "blue",
    "de": "blau",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwf0883wozqjv",
@@ -11579,7 +11581,7 @@
   },
   {
    "id": "mwxpbgsgl4cs7",
-   "hits": 0,
+   "hits": 1,
    "misses": 3,
    "type": "noun",
    "en": "Household",
@@ -11587,8 +11589,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Haushalte",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwxpbw62pern5",

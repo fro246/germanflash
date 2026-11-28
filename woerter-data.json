@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795876305541,
+ "updatedAt": 1795876332776,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7101,14 +7101,14 @@
   },
   {
    "id": "mvkvrax97z53h",
-   "hits": 4,
+   "hits": 5,
    "misses": 5,
    "type": "other",
    "en": "the most",
    "de": "die meisten",
    "level": "A1.2",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvkvrf6pv12lg",
@@ -7864,14 +7864,16 @@
   },
   {
    "id": "mvzs3ytd19qvr",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Tooth",
    "de": "Zahn",
    "level": "A1.2",
    "article": "der",
-   "plural": "Zähne"
+   "plural": "Zähne",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvzs4717hp3re",
@@ -10734,12 +10736,14 @@
   },
   {
    "id": "mwnfxya95nbep",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "friendly",
    "de": "freundlich",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwnfy0ka2jsep",
@@ -11001,7 +11005,7 @@
   },
   {
    "id": "mwxor79rjw1os",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Shoe",
@@ -11009,8 +11013,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Schuhe",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwxorfryn8jg6",

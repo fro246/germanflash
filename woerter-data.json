@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795875692799,
+ "updatedAt": 1795875729060,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7134,14 +7134,14 @@
   },
   {
    "id": "mvkvrp34ptqve",
-   "hits": 2,
+   "hits": 3,
    "misses": 1,
    "type": "other",
    "en": "terrible",
    "de": "schrecklich",
    "level": "A1.2",
-   "box": 2,
-   "streak": 2
+   "box": 3,
+   "streak": 3
   },
   {
    "id": "mvkvrz9kcygh4",
@@ -8004,7 +8004,7 @@
   },
   {
    "id": "mw12tjo7lmtxy",
-   "hits": 1,
+   "hits": 2,
    "misses": 3,
    "type": "noun",
    "en": "Injured person",
@@ -8012,8 +8012,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Verletzten",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw12tymqvs9y7",
@@ -9406,14 +9406,16 @@
   },
   {
    "id": "mwf04mahteyzf",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Landlord",
    "de": "Vermieter",
    "level": "A1.2",
    "article": "der",
-   "plural": "Vermieter"
+   "plural": "Vermieter",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwf04xpum16u0",
@@ -11006,14 +11008,16 @@
   },
   {
    "id": "mwxorwz988y66",
-   "hits": 0,
-   "misses": 0,
+   "hits": 1,
+   "misses": 1,
    "type": "noun",
    "en": "Hat",
    "de": "Hut",
    "level": "A1.2",
    "article": "der",
-   "plural": "Hüte"
+   "plural": "Hüte",
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwxos6pdrsfmq",

@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795876030132,
+ "updatedAt": 1795876075452,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7102,7 +7102,7 @@
   {
    "id": "mvkvrax97z53h",
    "hits": 3,
-   "misses": 4,
+   "misses": 5,
    "type": "other",
    "en": "the most",
    "de": "die meisten",
@@ -7875,14 +7875,16 @@
   },
   {
    "id": "mvzs4717hp3re",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Eye",
    "de": "Auge",
    "level": "A1.2",
    "article": "das",
-   "plural": "Augen"
+   "plural": "Augen",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mvzs4dsyyzj7v",
@@ -9739,12 +9741,14 @@
   },
   {
    "id": "mwf097m8j03or",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "never",
    "de": "nie",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwf09cwst7jt5",
@@ -10513,7 +10517,7 @@
   },
   {
    "id": "mwnft6wmsak6m",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Opera",
@@ -10521,8 +10525,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Opern",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwnftkdchqadv",
@@ -11051,7 +11055,7 @@
   {
    "id": "mwxosicfcnu3b",
    "hits": 0,
-   "misses": 1,
+   "misses": 3,
    "type": "noun",
    "en": "Cloth",
    "de": "Tuch",

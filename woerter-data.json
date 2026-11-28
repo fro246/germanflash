@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795876075452,
+ "updatedAt": 1795876127471,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7101,14 +7101,14 @@
   },
   {
    "id": "mvkvrax97z53h",
-   "hits": 3,
+   "hits": 4,
    "misses": 5,
    "type": "other",
    "en": "the most",
    "de": "die meisten",
    "level": "A1.2",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mvkvrf6pv12lg",
@@ -10496,13 +10496,15 @@
   {
    "id": "mwnfsbqgwlf86",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Extra (film)",
    "de": "Statist",
    "level": "A1.2",
    "article": "der",
-   "plural": "Statisten"
+   "plural": "Statisten",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwnft1mwgmsg3",
@@ -11055,7 +11057,7 @@
   {
    "id": "mwxosicfcnu3b",
    "hits": 0,
-   "misses": 3,
+   "misses": 4,
    "type": "noun",
    "en": "Cloth",
    "de": "Tuch",
@@ -11729,13 +11731,15 @@
   {
    "id": "mwxphchule9s8",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "noun",
    "en": "Architecture",
    "de": "Architektur",
    "level": "A1.2",
    "article": "die",
-   "plural": ""
+   "plural": "",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwxphljua2x47",

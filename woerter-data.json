@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795876259477,
+ "updatedAt": 1795876305541,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7388,8 +7388,8 @@
   },
   {
    "id": "mvkvwpfv577x5",
-   "hits": 2,
-   "misses": 1,
+   "hits": 3,
+   "misses": 2,
    "type": "other",
    "en": "actually",
    "de": "eigentlich",
@@ -8869,7 +8869,7 @@
   },
   {
    "id": "mwezpqhb9hj1u",
-   "hits": 1,
+   "hits": 2,
    "misses": 0,
    "type": "noun",
    "en": "Kitchen",
@@ -8877,8 +8877,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "Küchen",
-   "box": 2,
-   "streak": 4
+   "box": 3,
+   "streak": 5
   },
   {
    "id": "mwezpz98tl8xk",
@@ -11002,13 +11002,15 @@
   {
    "id": "mwxor79rjw1os",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Shoe",
    "de": "Schuh",
    "level": "A1.2",
    "article": "der",
-   "plural": "Schuhe"
+   "plural": "Schuhe",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwxorfryn8jg6",
@@ -11721,16 +11723,16 @@
   },
   {
    "id": "mwxpgzyh74n1b",
-   "hits": 0,
-   "misses": 1,
+   "hits": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Design",
    "de": "Design",
    "level": "A1.2",
    "article": "das",
    "plural": "Designs",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwxphchule9s8",

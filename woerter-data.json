@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795876189856,
+ "updatedAt": 1795876259477,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -10495,7 +10495,7 @@
   },
   {
    "id": "mwnfsbqgwlf86",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "noun",
    "en": "Extra (film)",
@@ -10503,8 +10503,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Statisten",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwnft1mwgmsg3",
@@ -10723,14 +10723,14 @@
   },
   {
    "id": "mwnfxt21004rc",
-   "hits": 0,
+   "hits": 1,
    "misses": 2,
    "type": "other",
    "en": "hurry",
    "de": "eilig",
    "level": "A1.2",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwnfxya95nbep",
@@ -11722,17 +11722,19 @@
   {
    "id": "mwxpgzyh74n1b",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Design",
    "de": "Design",
    "level": "A1.2",
    "article": "das",
-   "plural": "Designs"
+   "plural": "Designs",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwxphchule9s8",
-   "hits": 0,
+   "hits": 1,
    "misses": 3,
    "type": "noun",
    "en": "Architecture",
@@ -11740,8 +11742,8 @@
    "level": "A1.2",
    "article": "die",
    "plural": "",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mwxphljua2x47",

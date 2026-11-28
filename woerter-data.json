@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795875857832,
+ "updatedAt": 1795875914157,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -9878,7 +9878,7 @@
   {
    "id": "mwf0brimwcafa",
    "hits": 0,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Wood (material)",
    "de": "Holz",
@@ -9924,13 +9924,15 @@
   {
    "id": "mwnfd61yg6hom",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Work place",
    "de": "Arbeitsplatz",
    "level": "A1.2",
    "article": "der",
-   "plural": "Arbeitsplätze"
+   "plural": "Arbeitsplätze",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwnfdcj0fl07l",
@@ -11075,14 +11077,16 @@
   },
   {
    "id": "mwxotng7sjeyo",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "noun",
    "en": "Jewelry",
    "de": "Schmuck",
    "level": "A1.2",
    "article": "der",
-   "plural": ""
+   "plural": "",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwxou5y7ww4t0",
@@ -11241,7 +11245,7 @@
   },
   {
    "id": "mwxozrg2v31s4",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to wear",
@@ -11254,7 +11258,9 @@
     "wir": "tragen",
     "ihr": "tragt",
     "sie": "tragen"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwxp0jcehlkmp",

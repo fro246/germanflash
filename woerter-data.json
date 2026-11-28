@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795875789144,
+ "updatedAt": 1795875857832,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -8165,7 +8165,7 @@
   },
   {
    "id": "mw12ylzgz4aq0",
-   "hits": 0,
+   "hits": 1,
    "misses": 1,
    "type": "noun",
    "en": "Sniffles",
@@ -8173,8 +8173,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Schnupfen",
-   "box": 0,
-   "streak": 0
+   "box": 1,
+   "streak": 1
   },
   {
    "id": "mw12yyro9w7tq",
@@ -9878,13 +9878,15 @@
   {
    "id": "mwf0brimwcafa",
    "hits": 0,
-   "misses": 0,
+   "misses": 1,
    "type": "noun",
    "en": "Wood (material)",
    "de": "Holz",
    "level": "A1.2",
    "article": "das",
-   "plural": "Hölzer"
+   "plural": "Hölzer",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwf0by2jlc4vl",
@@ -11477,7 +11479,7 @@
   },
   {
    "id": "mwxp79gju6n2v",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "verb",
    "en": "to annoy",
@@ -11490,7 +11492,9 @@
     "wir": "nerven",
     "ihr": "nervt",
     "sie": "nerven"
-   }
+   },
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwxp7w9x2gjez",
@@ -11894,12 +11898,14 @@
   },
   {
    "id": "mwxpp921ijiz6",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "without",
    "de": "ohne",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwxpq5jyj00vm",

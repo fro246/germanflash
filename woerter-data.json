@@ -1,6 +1,6 @@
 {
  "app": "woerter",
- "updatedAt": 1795707567102,
+ "updatedAt": 1795875589313,
  "words": [
   {
    "id": "mun9mg7xwzrh8",
@@ -7750,7 +7750,7 @@
   },
   {
    "id": "mvzs0swqyx0ae",
-   "hits": 1,
+   "hits": 2,
    "misses": 1,
    "type": "noun",
    "en": "Stomach",
@@ -7758,8 +7758,8 @@
    "level": "A1.2",
    "article": "der",
    "plural": "Bäuche",
-   "box": 1,
-   "streak": 1
+   "box": 2,
+   "streak": 2
   },
   {
    "id": "mvzs10rz25g52",
@@ -9133,13 +9133,15 @@
   {
    "id": "mwezwhwwb5i80",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "noun",
    "en": "View",
    "de": "Blick",
    "level": "A1.2",
    "article": "der",
-   "plural": "Blicke"
+   "plural": "Blicke",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwezwqpuy24xd",
@@ -10505,15 +10507,15 @@
   {
    "id": "mwnftkdchqadv",
    "hits": 1,
-   "misses": 1,
+   "misses": 2,
    "type": "noun",
    "en": "Beginning",
    "de": "Anfang",
    "level": "A1.2",
    "article": "der",
    "plural": "Anfänge",
-   "box": 1,
-   "streak": 1
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwnftpqtuarq2",
@@ -10711,12 +10713,14 @@
   },
   {
    "id": "mwnfy0ka2jsep",
-   "hits": 0,
+   "hits": 1,
    "misses": 0,
    "type": "other",
    "en": "empty",
    "de": "leer",
-   "level": "A1.2"
+   "level": "A1.2",
+   "box": 2,
+   "streak": 4
   },
   {
    "id": "mwnfy2pcatfeu",
@@ -11576,13 +11580,15 @@
   {
    "id": "mwxpbgsgl4cs7",
    "hits": 0,
-   "misses": 0,
+   "misses": 2,
    "type": "noun",
    "en": "Household",
    "de": "Haushalt",
    "level": "A1.2",
    "article": "der",
-   "plural": "Haushalte"
+   "plural": "Haushalte",
+   "box": 0,
+   "streak": 0
   },
   {
    "id": "mwxpbw62pern5",
